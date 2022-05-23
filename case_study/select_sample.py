@@ -3,25 +3,14 @@ import json
 import random
 import os
 
-IJCAI, EMNLP = 'IJCAI22', 'EMNLP22'
-mode = 'EMNLP22'
 role = {1: "Bot", 0: "User"}
-if mode == IJCAI:
-    bot_role = (
-        'TRS'.ljust(12), 'MoEL'.ljust(12), 'MIME'.ljust(12), 'EmpDG'.ljust(12), 'GREC'.ljust(12),
-        'EC-TRS'.ljust(12), 'BlenderBOT'.ljust(12), 'GEE'.ljust(12), 'EC-blender'.ljust(12),
-        'BART'.ljust(12), 'EC-bart'.ljust(12), 'ab-filter:'.ljust(12), 'ab-msa:'.ljust(12), 'ab-copy:'.ljust(12))
-    index2model = {0: 'TRS', 1: 'MoEL', 2: 'MIME', 3: 'EmpDG', 4: 'GREC', 5: 'EC-TRS', 6: 'BlenderBOT', 7: 'GEE',
-                   8: 'EC-blender', 9: 'BART', 10: 'EC-bart', 11: 'ab-filter', 12: 'ab-msa', 13: 'ab-copy'}
-    model2index = {'TRS': 0, 'MoEL': 1, 'MIME': 2, 'EmpDG': 3, 'GREC': 4, 'EC-TRS': 5, 'BlenderBOT': 6, 'GEE': 7,
-                   'EC-blender': 8, 'BART': 9, 'EC-bart': 10, 'ab-filter': 11, 'ab-msa': 12, 'ab-copy': 13}
-elif mode == EMNLP:
-    bot_role = ('TRS'.ljust(5), 'MoEL'.ljust(5), 'MIME'.ljust(5), 'EmpDG'.ljust(5),
-                'RecEC'.ljust(5), 'CEM'.ljust(5), 'GREmp'.ljust(5))
-    index2model = {0: 'TRS', 1: 'MoEL', 2: 'MIME', 3: 'EmpDG', 4: 'RecEC', 5: 'CEM', 6: 'GREmp'}
-    model2index = {'TRS': 0, 'MoEL': 1, 'MIME': 2, 'EmpDG': 3, 'RecEC': 4, 'CEM': 5, 'GREmp': 6}
-sample_path = '%s-sample' % (mode)
-input_path = '%s-res' % (mode)
+
+bot_role = ('TRS'.ljust(5), 'MoEL'.ljust(5), 'MIME'.ljust(5), 'EmpDG'.ljust(5),
+            'RecEC'.ljust(5), 'CEM'.ljust(5), 'KEMP'.ljust(5), 'GEE'.ljust(5), 'GREmp'.ljust(5))
+index2model = {0: 'TRS', 1: 'MoEL', 2: 'MIME', 3: 'EmpDG', 4: 'RecEC', 5: 'CEM', 6: 'KEMP', 7: 'GEE', 8: 'GREmp'}
+model2index = {'TRS': 0, 'MoEL': 1, 'MIME': 2, 'EmpDG': 3, 'RecEC': 4, 'CEM': 5, 'KEMP': 6, 'GEE': 7, 'GREmp': 8}
+sample_path = 'EMNLP22-sample'
+input_path = 'EMNLP22-res'
 
 
 def format_file(contexts, emotions, responses, selected_index, file_name):
@@ -65,15 +54,6 @@ def main(sample=-1, ab=False):
     else:
         format_file(context, emotion, all_response, [i for i in range(len(context))],
                     os.path.join(sample_path, 'all-samples.txt'))
-
-    # if not ab:
-    #     with open(os.path.join(sample_path, '128-indexes.txt'), 'r') as f:
-    #         selected_index = [int(x) for x in f.readlines()]
-    #     emotion = np.load('./sys_emotion_texts.test.npy', allow_pickle=True)
-    #     with open(os.path.join(sample_path, '128-emotion.txt'), 'w') as f:
-    #         for idx in selected_index:
-    #             f.write(emotion[idx])
-    #             f.write('\n')
 
 
 def interactive():
