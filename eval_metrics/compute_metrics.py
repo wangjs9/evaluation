@@ -327,5 +327,6 @@ def eval(model_response):
 if __name__ == '__main__':
     file_list = os.listdir('EMNLP22-res')
     file_list.sort()
+    file_list = ['ablation-0.txt', 'ablation-1234.txt', 'ablation-4096.txt', 'ablation-42.txt']
     for filename in file_list:
         eval(filename)
