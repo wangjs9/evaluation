@@ -1,0 +1,47 @@
+{
+    "MoEL": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "MIME": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "EmpDG": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "RecEC": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "CEM": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "KEMP": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "GEE": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "GREmp": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    },
+    "ablation": {
+        "Empathy": [],
+        "Relevance": [],
+        "Fluency": []
+    }
+}

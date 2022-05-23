@@ -1,0 +1,1950 @@
+************* Sample 1 (real index: 4358)
+************* Emotion: content
+User: lately , my family and i have been very blessed . we are all happy and healthy . all of our major bills have already been paid for the month , and we have been going to a three week long revival at a local church .
+Bot: that is awesome ! whats your secret to success ?
+User: we have just been trusting in the lord .
+
+MoEL    : that is great . i am sure it will be worth it .
+MIME    : that is great . i am sure you will be fine .
+EmpDG   : that is great . i wish i could help them myself .
+RecEC   : that is not good .
+CEM     : that is really nice of you !
+KEMP    : that is great ! i am glad you have a great family .
+GEE     : i am glad you are feeling better .
+GREmp   : that is great . i am happy for you !
+ablation: that is great . i hope you have a great time !
+
+************* Sample 2 (real index: 5103)
+************* Emotion: impressed
+User: my son was in advance placement and honors during high school . he went to a prestigious college after , going for as an aerospace engineer . he never ceases to astonish me with his intelligence and admire me with how hard he works to pursue his dreams .
+
+MoEL    : that is awesome . i bet he was very proud of him .
+MIME    : i am sorry to hear that . i hope he gets better .
+EmpDG   : he is a very good deal with him .
+RecEC   : that is a great way to go to the hospital .
+CEM     : that is great ! he must be very proud of him .
+KEMP    : that is awesome ! i am sure he will be fine .
+GEE     : i am glad he is okay .
+GREmp   : that is awesome . i bet he was very proud of him .
+ablation: that is awesome ! i bet he was so proud of him !
+
+************* Sample 3 (real index: 4882)
+************* Emotion: nostalgic
+User: my university is posting live stream of students moving in and i was reminiscing about when i studied abroad in college
+Bot: aww , that is nice . where did you study abroad ?
+User: i studied in venice italy and travelled all over europe
+
+MoEL    : that is awesome . i bet you are so proud .
+MIME    : that is great ! i am glad you were able to help you .
+EmpDG   : i am sure you will be a great time .
+RecEC   : i love video games too , but i love the good time !
+CEM     : that is great ! i hope you have a great time !
+KEMP    : that is awesome , i am sure you will be fine .
+GEE     : awesome ! i bet you were happy for you .
+GREmp   : that is awesome . i bet you were able to do that .
+ablation: that is so cool . i hope you have a great time .
+
+************* Sample 4 (real index: 2058)
+************* Emotion: hopeful
+User: i am hopeful that my friend will be able to make it to my party
+
+MoEL    : that is awesome . i hope you have a great time !
+MIME    : that is awesome ! what is your friend ?
+EmpDG   : i hope you do not .
+RecEC   : that 's good . what are you going to do ?
+CEM     : that is great ! i hope everything goes well for you !
+KEMP    : that is great ! i am sure you will be fine .
+GEE     : i am glad you are doing well . you are lucky to have someone to help you .
+GREmp   : that is great . i hope you have a great time .
+ablation: that is great . i am sure you will do great !
+
+************* Sample 5 (real index: 2846)
+************* Emotion: nostalgic
+User: i love the holidays , that make think back to being a kid .
+
+MoEL    : i am sure you will have a great time .
+MIME    : that is great ! what is your favorite ?
+EmpDG   : that sounds like fun ! what kind of holidays are you .
+RecEC   : yes , i have a brother . what about it ?
+CEM     : that is really nice of them
+KEMP    : i am sure you will do great .
+GEE     : thats awesome ! i have been there .
+GREmp   : that is awesome . i have never been there .
+ablation: that is cool . i have never been there .
+
+************* Sample 6 (real index: 4606)
+************* Emotion: afraid
+User: i went for a walk the other day and one of the neighbors dogs was loose , a bit white husky , he was aggressive .
+
+MoEL    : i hate when that happens . i hate when that happens .
+MIME    : that is so sweet . i am glad you are okay .
+EmpDG   : that is so scary ! i hate when that happens .
+RecEC   : that is so gross ! i would have been so frustrated .
+CEM     : oh wow , that must have been terrifying !
+KEMP    : that is scary , did you get hurt ?
+GEE     : aww , that is so cute ! i have never been there .
+GREmp   : "oh no , i am so sorry to hear that . "
+ablation: that is so scary . i hope you were able to clean it out .
+
+************* Sample 7 (real index: 245)
+************* Emotion: sad
+User: i think that the girl of my dreams likes somebody else . i feel very sad about it .
+Bot: ooh , am so sorry about that . have you tried to talk to her ?
+User: it is tough because she has been out of the country for a month , so i will likely discuss it when she returns .
+
+MoEL    : i am sorry to hear that . i hope you are okay .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i am sorry to hear that . i hope you are right back .
+RecEC   : i 'm sorry to hear that . i 'm sure you have a strong life .
+CEM     : i am sure you will be fine .
+KEMP    : i am sure you will find someone who you want to be a good person .
+GEE     : she is a lot of her to do .
+GREmp   : that is so true . i am so sorry to hear that .
+ablation: i am sorry to hear that . i am sorry to hear that .
+
+************* Sample 8 (real index: 4743)
+************* Emotion: embarrassed
+User: i tripped and fell in front of some people .
+Bot: ouch ! was it a serious fall ?
+User: no , only my pride was injured .
+
+MoEL    : oh no ! i am glad you are okay !
+MIME    : i am so sorry to hear that . i hope you were able to get it fixed .
+EmpDG   : oh no ! did you have to go to the doctor ?
+RecEC   : oh no ! i hope it was n't too embarrasing
+CEM     : oh no ! i am so sorry to hear that .
+KEMP    : i am sorry to hear that . i hope you feel better soon !
+GEE     : did she get a chance ?
+GREmp   : oh no ! i am so sorry to hear that .
+ablation: i am sorry to hear that . i hope you were able to fix it .
+
+************* Sample 9 (real index: 2145)
+************* Emotion: afraid
+User: last night at like midnight the power cut out completely on my street
+Bot: oh no , did you have candles and flashlights available ?
+User: we luckily had candles around ! i was so worried cause it was so fast it was like someone cut our power
+
+MoEL    : i am glad you are okay !
+MIME    : i am sorry to hear that .
+EmpDG   : i am glad you are feeling better .
+RecEC   : i would be too ! i would have been too .
+CEM     : oh wow , that must have been terrifying !
+KEMP    : i am glad you had a great time !
+GEE     : oh no ! i am sorry to hear that .
+GREmp   : that is a good idea . i hope you get it fixed .
+ablation: i hope you were able to do that !
+
+************* Sample 10 (real index: 4962)
+************* Emotion: sad
+User: my husband is going through the process of quitting smoking on top of dealing with drama from his parents . he is having a hard time .
+Bot: im sorry , thats awful . its a shame his parents arent being more supportive
+User: they are not being supportive at all , but that is not surprising , that do not support him very well in anything . i just wish i could make it better for him , but i can not
+
+MoEL    : that is great . i am sure he will be fine .
+MIME    : i am sure he will be fine .
+EmpDG   : that is great ! i am sure you are having a good parent .
+RecEC   : i 'm happy for you . i 'm sure you are very grateful for your life .
+CEM     : i am sorry to hear that . i hope he gets better soon .
+KEMP    : i am sure he will be fine .
+GEE     : he is a good friend .
+GREmp   : that is so true . i am sure you will be able to do that .
+ablation: that is true . i hope you have a good time .  you have a great time .
+
+************* Sample 11 (real index: 2550)
+************* Emotion: impressed
+User: an extremely timid girl in my physics class invited the class to see her band play at a bar downtown .
+Bot: wow - hidden depths . are you going ?
+User: i actually went last friday night . turns out she is an incredible guitarist - a real shredder !
+
+MoEL    : that is awesome . i bet you are very proud of her .
+MIME    : i am sorry to hear that . i am sure she will be fine .
+EmpDG   : i do not think she 's the same thing .
+RecEC   : wow that is quite a bummer . i would be furious .
+CEM     : that is awesome ! i bet you are very proud of her
+KEMP    : that is a good idea . i would be so nervous .
+GEE     : i am sorry to hear that . i hope you are okay .
+GREmp   : that is awesome . i hope you have a great time !
+ablation: that is awesome ! i bet she will do great !
+
+************* Sample 12 (real index: 258)
+************* Emotion: faithful
+User: i have been feeling very faithful these days . my lover treats me so well .
+
+MoEL    : that is great . i have had a lot of people .
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : i am so sorry to hear that . i love my husband and i love her .
+RecEC   : that is great . i 'm happy for you
+CEM     : that is great , i am glad to hear that .
+KEMP    : i am sure you will find someone who you can .
+GEE     : yes , i agree . i am sure they are very good for you .
+GREmp   : that is a good idea . i am happy for you !
+ablation: that is so sweet of you .
+
+************* Sample 13 (real index: 1066)
+************* Emotion: angry
+User: i was on an airplane last week , and someone 's baby would not stop crying . i know it is not right to be upset about such things , but it really bothered me .
+Bot: dont worry , anyone would have felt the same way . if it makes you feel better remember that we were all babies once .
+User: i tried to think about that , but i was still aggravated . on the plus side , at least i was self aware that it was somewhat irrational .
+
+MoEL    : i am sorry to hear that . i hope you are okay .
+MIME    : i am sorry to hear that . i am sure they will be fine .
+EmpDG   : that is not good . i have always wanted to deal with .
+RecEC   : that is good . i 'm glad you 're okay !
+CEM     : i am sure it will be fine .
+KEMP    : i am sorry to hear that . i hope you can find someone to help you .
+GEE     : i agree . i have had to be able to help them .
+GREmp   : that is the worst . i hope you have a good time .
+ablation: i am sorry to hear that . i hope you were able to do that !
+
+************* Sample 14 (real index: 3289)
+************* Emotion: prepared
+User: i studied all night for my final exams . i needed to pass them to graduate from college .
+Bot: that must of been pretty stressful . but did you get enough sleep ?
+User: i did . i was able to sneak in a few hours here and there .
+
+MoEL    : that is great . i am sure you will do great !
+MIME    : that is great ! i am sure you will be fine .
+EmpDG   : i am sure you will get a good grade .
+RecEC   : oh no ! i 'm sorry to hear that !
+CEM     : that is a good idea !
+KEMP    : i am sure you will do well .
+GEE     : good luck !
+GREmp   : you must be prepared .
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 15 (real index: 4477)
+************* Emotion: sentimental
+User: while cleaning out our closets , i always find some old item that reminds me how little the girls used to be . last time it was a cute pair of jeans in toddler sizing we saved to make jean purses out of someday . my kid is 14 this week ! ! !
+
+MoEL    : that is awesome . i am sure it will be worth it !
+MIME    : that is great ! i bet you were so proud of them .
+EmpDG   : i love that as well . i remember those things like that as a child . i think i would have been so much about it .
+RecEC   : that is not good , but you can afford it
+CEM     : oh wow , that is a good idea .
+KEMP    : that is so sweet of you ! i have a little more than i am sure they are going to have a great time !
+GEE     : lol . i have had that happen before too . i have had to go through that .
+GREmp   : that sounds like a lot of fun . i bet it was a lot of fun !
+ablation: "wow , that is so sweet of you . "
+
+************* Sample 16 (real index: 4730)
+************* Emotion: apprehensive
+User: when i went to the store the other day , i seen a guy all tweaked out on drugs .
+
+MoEL    : that is terrible . i am glad you are okay .
+MIME    : that is good . i am glad you were able to help you .
+EmpDG   : oh no ! i am so sorry . i hope you are not .
+RecEC   : oh no . i hate when that happens . it 's so annoying .
+CEM     : oh no , that is terrible ! did you call the police ?
+KEMP    : that is a good thing to do . i have always wanted to go through that .
+GEE     : that is great ! i am glad you were able to help you .
+GREmp   : oh no ! i am so sorry to hear that . what did you do ?
+ablation: i am sorry to hear that . what happened ?
+
+************* Sample 17 (real index: 2971)
+************* Emotion: terrified
+User: last winter i was out on my porch at 4 am . suddenly a large figure dressed in black was walking towards me . my heart was beating like a drum !
+
+MoEL    : oh my god ! i would have been terrified !
+MIME    : i am so sorry to hear that . i hope you were able to get it fixed .
+EmpDG   : i know that feeling ! i have had that happen before .
+RecEC   : i bet that was scary
+CEM     : oh wow , that must have been scary !
+KEMP    : i would be too ! i am glad you are ok .
+GEE     : good luck !
+GREmp   : oh no ! i am so sorry to hear that . i hate when that happens . did you have a baby ?
+ablation: what happened ?
+
+************* Sample 18 (real index: 632)
+************* Emotion: guilty
+User: thank you
+
+MoEL    : that is very nice of them .
+MIME    : that is good . i am glad to hear that .
+EmpDG   : what is it ?
+RecEC   : i am sorry , how long have you been together ?
+CEM     : that is great ! what are you going on ?
+KEMP    : yea i am sure you will find a new job .
+GEE     : that is good . what is your friend ?
+GREmp   : why is that ?
+ablation: what happened ?
+
+************* Sample 19 (real index: 4770)
+************* Emotion: embarrassed
+User: i took my dog i have had for years over to meet one of my husband 's sisters the other night .
+Bot: oh neat ! how did the little one handle it ?
+User: it did not go well at all ! she pooped all over the carpet and she never has accidents at home .
+
+MoEL    : oh no ! i am sure she will not be able to do that .
+MIME    : i am sorry to hear that . i hope you are okay .
+EmpDG   : oh no ! i hope you are ok !
+RecEC   : i would cry if my dog is elderly , that is not a puppy trained dinner .
+CEM     : that is terrible . i hope she was able to clean it up .
+KEMP    : that is a lot of people who do not care about that .
+GEE     : oh no ! i am so sorry to hear that .
+GREmp   : that is terrible . i am sorry to hear that .
+ablation: i am sorry to hear that .
+
+************* Sample 20 (real index: 2218)
+************* Emotion: lonely
+User: i still live and work in the place where i grew up , but all of my friends have moved away .
+Bot: aw , that has to be tough not to see your friends . do they visit often ?
+User: no , everyone 's so busy with their lives and work that it is hard to arrange . most of the people here my age do drugs or stay out all night , so i keep to myself at home , alone .
+
+MoEL    : that is great . i am glad you are okay .  to you ?
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i am so sorry to hear that . i am sure you will be a great friend .
+RecEC   : that 's really rough . i hope you can find someone to hang out with you .
+CEM     : i am sorry to hear that . i hope you feel better soon !
+KEMP    : i am glad you are alone .
+GEE     : do you think you will be fine .
+GREmp   : that is true . i hope you have a good time .
+ablation: i am sorry to hear that . i hope you have a lot of friends .
+
+************* Sample 21 (real index: 4281)
+************* Emotion: hopeful
+User: i am optimistic that my house is going to sell soon .
+
+MoEL    : that is awesome . what are you going ?
+MIME    : that is great ! i am sure you will be fine .
+EmpDG   : that is awesome . i hope you will be fine !
+RecEC   : that 's really nice of you .
+CEM     : that is great ! i hope you have a great time !
+KEMP    : i hope you have a good time .
+GEE     : i love them . i have never been there .
+GREmp   : that is awesome . i hope you have a great time !
+ablation: that is great ! i am sure you will do great !
+
+************* Sample 22 (real index: 611)
+************* Emotion: apprehensive
+User: wow ! congrats on your new job ! i can understand why you are apprehensive , but it sounds like a good opportunity .
+Bot: why thank you !
+User: no problem ! everything will work out in the end . no need to worry .
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine .
+EmpDG   : i think it is a good time to have . i hope it was not too bad .
+RecEC   : i hope you get the job soon !
+CEM     : i hope everything works out for you !
+KEMP    : i am sure you will be fine .
+GEE     : i am sure you will be fine .
+GREmp   : i am sure you will do fine .
+ablation: i am sure you will do great !
+
+************* Sample 23 (real index: 2489)
+************* Emotion: joyful
+User: my friend and i spotted a mini-gold course when we were coming back from the next state over .
+
+MoEL    : that is awesome . what did you do ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : that is so sweet . i am sure you are having a great friend .
+RecEC   : that is annoying . is he a smart choice ?
+CEM     : wow , that is a good idea .
+KEMP    : that is a good thing to do . i am glad you are okay .
+GEE     : oh my , i have had to go through that . i have a friend who is there .
+GREmp   : "wow , that is amazing ! did you do anything special ? "
+ablation: "wow , that is so nice of you . what did you do ? "
+
+************* Sample 24 (real index: 5092)
+************* Emotion: jealous
+User: i feel kind of blue today , they announced the parts for the annual play .
+Bot: oh i am sorry . did you get any part ?
+User: i did , and it is a good one , just not the one that i wanted . i did not want the lead or anything .
+
+MoEL    : that is great . i am sure you will do great .
+MIME    : i am sure you will be fine .
+EmpDG   : i am sorry to hear that . i am sure you will be a great time .
+RecEC   : i 'm so sorry to hear that . what did you write about ?
+CEM     : that is a good idea !
+KEMP    : i am sure you will be fine .
+GEE     : she is a good boy or girl ?
+GREmp   : that is awesome . i am happy for you !
+ablation: that is great . i hope you have a good time !
+
+************* Sample 25 (real index: 1978)
+************* Emotion: hopeful
+User: i just applied for graduate school ! i feel good about my chances !
+
+MoEL    : that is awesome ! congratulations !
+MIME    : that is great ! i am sure you will be fine .
+EmpDG   : i am so sorry to hear that . i hope you are doing better now !
+RecEC   : that is awesome ! how long have you been playing ?
+CEM     : that is great ! i hope you have a great time !
+KEMP    : that is great ! i am sure you will be fine .
+GEE     : i am sorry to hear that . i hope you get it !
+GREmp   : that is awesome . i am sure you will do great !
+ablation: that is great ! i am sure you will do great !
+
+************* Sample 26 (real index: 2582)
+************* Emotion: angry
+User: it makes me angry when people never notice me
+Bot: why what is it that you want them to notice about you that they bypass .
+User: everything . i do not have friends so it is nice to get noticed
+
+MoEL    : i am sorry to hear that . i hope it works out for you .
+MIME    : i am sorry to hear that .
+EmpDG   : i do not know what that is . i have been there before .
+RecEC   : thats not good , i hope you can get it all over again
+CEM     : that is a good idea .
+KEMP    : i am sorry to hear that . i hope you can find a new friends .
+GEE     : sounds fun ! i have never been there . i hope you have a good time !
+GREmp   : that is so true . i hope you have a good time .
+ablation: that is so annoying . i am sorry to hear that .
+
+************* Sample 27 (real index: 3960)
+************* Emotion: embarrassed
+User: i did not notice but i was walking around all day with a sock on my shirt !
+Bot: haha that is hilarious ! where was it at on your shirt ?
+User: on my back ! i went to work like this !
+
+MoEL    : oh no ! i hope you did not get hurt !
+MIME    : i am sorry to hear that . i am glad you were able to get it fixed .
+EmpDG   : i have n't , but i am sure you will be fine !
+RecEC   : were you prepared for a while or you ?
+CEM     : oh no ! i am so sorry to hear that .
+KEMP    : that is a good idea . i am sure it was a great feeling !
+GEE     : yikes . did you get it fixed ?
+GREmp   : that is funny . i hope you did not forget it !
+ablation: oh no ! i am so sorry to hear that .
+
+************* Sample 28 (real index: 4664)
+************* Emotion: annoyed
+User: my sister has been playing a song i dislike over and over and over
+Bot: that must be really irritating . is she doing it deliberately ?
+User: she does it more because she likes it than to bug me . it is going to be stuck in my head for weeks
+
+MoEL    : i am sorry to hear that . i hope you can find it out .
+MIME    : i am sorry to hear that . i hope she gets better .
+EmpDG   : i do not blame you . i have never heard of that about it . i think i would have gone to a doctor about it
+RecEC   : that sucks , maybe you should ask him to pay for some sleep to fix it .
+CEM     : that is a good idea . i hope she gets better
+KEMP    : i am sorry to hear that . i hope you can find a new one soon .
+GEE     : i am sorry to hear that . i hope you find it .
+GREmp   : that is the worst . i am sorry to hear that .
+ablation: that is terrible . i am sorry to hear that .
+
+************* Sample 29 (real index: 2980)
+************* Emotion: excited
+User: i am moving into a new apartment in three weeks and can not wait . it 'll be quiet as it looks onto a forest !
+Bot: is it loud where you are now ? new places are always so fun !
+User: not with traffic , but with the people upstairs - they are a cross between hyenas and elephants ! . my new place was quiet when i was there , so fingers crossed !
+
+MoEL    : i would have been terrified ! i would have been terrified !
+MIME    : i am sorry to hear that . i hope you have a good time !
+EmpDG   : i do not think i have n't seen a lot of people .
+RecEC   : well , i hope you 're able to call it and go back to the store and get rid of it !
+CEM     : that is a good idea , i hope everything works out for you !
+KEMP    : i am sure you will be fine .
+GEE     : oh my gosh ! i have had to go through that .
+GREmp   : that sounds like a lot of fun . i hope you have a fun time !
+ablation: that is awesome ! i hope you have a great time !
+
+************* Sample 30 (real index: 4959)
+************* Emotion: impressed
+User: i recently had a shop fix my car . they worked so fast !
+
+MoEL    : that is awesome . what kind of car is it ?
+MIME    : that is awesome ! what kind of car is it ?
+EmpDG   : oh no ! that is so exciting ! did you get it ?
+RecEC   : that is a good thing to do . did you get a good deal ?
+CEM     : wow , that is a good idea !
+KEMP    : that is a good thing to do .
+GEE     : wow , that is a good car .
+GREmp   : that is awesome ! i hope you get it !
+ablation: that is awesome ! what did you do ?
+
+************* Sample 31 (real index: 1088)
+************* Emotion: nostalgic
+User: i recently had a long weekend with some old friends . it was fantastic .
+
+MoEL    : that sounds like a lot of fun ! i bet it was a great time !
+MIME    : what was it ?
+EmpDG   : that sounds like a lot of fun ! i have been there . i have n't been there .
+RecEC   : that is so nice ! what did you do ?
+CEM     : that sounds like a lot of fun !
+KEMP    : that is great ! i am glad you have a great time !
+GEE     : what was the first time ?
+GREmp   : that is so nice . did you have a good time ?
+ablation: why did you do that ?
+
+************* Sample 32 (real index: 650)
+************* Emotion: surprised
+User: i have never been so shocked than when my husband threw me a birthday party without me knowing .
+Bot: was it fun ?
+User: it was so much fun . i thought is was going to be another normal day . wake up , go to work , etc . but i was wrong about that !
+
+MoEL    : that is very nice of them .
+MIME    : that is great ! i am glad you were able to help you .
+EmpDG   : what was the occasion ?
+RecEC   : oh , i see . i am sure you are happy with her .
+CEM     : that is a nice surprise !
+KEMP    : that is a great surprise ! i am happy for you !
+GEE     : that is great ! i am glad you are feeling well .
+GREmp   : that is so nice . i hope you have a great time !
+ablation: "wow , that is awesome ! i hope you have a good time ! "
+
+************* Sample 33 (real index: 2154)
+************* Emotion: excited
+User: though the odds are against you , i understand why people gamble . i remember a particular time i was playing video poker at a local dive bar .
+
+MoEL    : that is great . i am sure you will do great !
+MIME    : i am sorry to hear that . i hope you find it !
+EmpDG   : i think i think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't
+RecEC   : i bet you are scared , i bet you were terrified !
+CEM     : that is a good idea !
+KEMP    : i love the game . i am so sorry to hear that .
+GEE     : i agree , i have no idea what it is . i would n't have to buy it ?
+GREmp   : that is cool . i hope you have a lot of fun !
+ablation: that sounds like fun !
+
+************* Sample 34 (real index: 938)
+************* Emotion: apprehensive
+User: there was a storm the other day , close to our home . there was a tornado warning near it , so i was afraid and nervous !
+
+MoEL    : that is scary ! i am glad you are okay !
+MIME    : oh no ! i am sorry to hear that . i hope you are okay .
+EmpDG   : oh no ! i hope you are ok !
+RecEC   : that is terrifying ! i am glad you are ok
+CEM     : oh wow , that must have been terrifying !
+KEMP    : that is scary ! i am glad you were able to get it .
+GEE     : she is a great gift !
+GREmp   : oh no ! what happened ?
+ablation: what happened ?
+
+************* Sample 35 (real index: 2931)
+************* Emotion: hopeful
+User: i am starting a new phase in my life . completed all debt and off to a new start
+Bot: i can hear the sigh of relief in your voice . i bet your anxious about what the next chapter will be .
+User: yes very . but i know that it will be good .
+Bot: i can tell your proud of yourself . im happy for you !
+User: thanks ! i hope to learn from my mistake and continue to progress
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine .
+EmpDG   : that is great ! i hope you are doing well .
+RecEC   : i 'm sure it 's a great experience . i wish you the best of luck in your gut .
+CEM     : i am sure it will be fine .
+KEMP    : i am sure you will be fine .
+GEE     : i am sure you will be fine .
+GREmp   : i am sure you will be able to be able to do that .
+ablation: i am sure you will do great !
+
+************* Sample 36 (real index: 2544)
+************* Emotion: furious
+User: once after a night on the town , i came home and my room had been ransacked .
+Bot: oh no ! i bet you were terrified !
+User: the thing is , my alcoholic room mate was the culprit . he had even thrown some of my belongings in the bathtub !
+
+MoEL    : oh my god ! i would have been too . i would have been too .
+MIME    : i am sorry to hear that . i hope you are okay .
+EmpDG   : oh no ! i hate when that happens . did you have some good things ?
+RecEC   : oh no ! i hope you did n't get hurt !
+CEM     : oh no ! i hope he was able to clean it up .
+KEMP    : that is so scary ! i hope you did not get hurt .
+GEE     : oh no ! i hope you were able to find a new one .
+GREmp   : that is terrible . i am sorry to hear that .
+ablation: i am sorry to hear that . i hope you were able to do that .
+
+************* Sample 37 (real index: 4111)
+************* Emotion: sentimental
+User: i found an old photo album of my family . it really brought back memories .
+Bot: it is good to remember days gone by
+User: it is kind of a bittersweet experience
+
+MoEL    : that is great . i am sure it is a great feeling .
+MIME    : i am sorry to hear that .
+EmpDG   : that is awesome . i love those memories .
+RecEC   : i am sure it is a good memory to look back on your memories .
+CEM     : that is so nice of you !
+KEMP    : i am sure you will miss her .
+GEE     : old is always a good time to remember the memories of your family .
+GREmp   : that is very nice of you .
+ablation: that is so cool . i hope you have a great time !
+
+************* Sample 38 (real index: 4568)
+************* Emotion: hopeful
+User: it has been raining a lot lately , i am really trusting the seal on our doors to keep the water out .
+Bot: yeah flooding is a real problems these days . the weather is crazy ! hopefully you and your house will stay nice and dry .
+User: i know , it really starts too pool up by our house . it is getting kind of scary !
+
+MoEL    : that is good . i am sure it will be fine .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i do not blame you . i have always heard of it is true .
+RecEC   : i would be scared too . i would have to be able to sleep if i were you .
+CEM     : i hope everything works out for you !
+KEMP    : i am glad you are okay .
+GEE     : i can understand that . i hope you are okay .
+GREmp   : that is a good idea . i hope you have a great time !
+ablation: "yeah , i am sure you will be able to do it ! "
+
+************* Sample 39 (real index: 1092)
+************* Emotion: grateful
+User: not long ago i realized we are more financially stable than i think we have ever been .
+
+MoEL    : i am sorry to hear that . i am sure you will make it through that .
+MIME    : i am sorry to hear that . i am sorry to hear that .
+EmpDG   : that is great ! i am glad you are doing well .
+RecEC   : that 's terrible . what happened ?
+CEM     : that is great ! i am glad to hear that .
+KEMP    : i am glad you are okay . i am glad you are okay .
+GEE     : you will be fine .
+GREmp   : that is great . i am happy for you !
+ablation: that is great . i am sure you will do great !
+
+************* Sample 40 (real index: 616)
+************* Emotion: angry
+User: i always feel like no one hears me . like when i speak it falls on deaf ears .
+
+MoEL    : i am sorry to hear that . i hate when that happens .
+MIME    : i am sorry to hear that . i hope you are okay .
+EmpDG   : i do not know what you mean . i do not know what you mean .
+RecEC   : i 'm sure it will be worth it .
+CEM     : oh no ! i hate when that happens
+KEMP    : i am sorry to hear that . i hope you feel better now .
+GEE     : they are very good
+GREmp   : i hate when that happens . i hate when that happens .
+ablation: oh no ! i am so sorry to hear that . what happened ?
+
+************* Sample 41 (real index: 3793)
+************* Emotion: joyful
+User: i got to go to a cat cafe when no one else was around !
+Bot: i have been to one before with my girlfriend , what an amazing experience eh ?
+User: it was ! i was the only one around so all the cats came to spend time with me
+
+MoEL    : that is so nice of you ! i am sure they are so lucky !
+MIME    : that is great ! i am glad you were able to help her .
+EmpDG   : that is so sweet . i love cats , but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat
+RecEC   : i love dogs ! i 'm sure they will enjoy it .
+CEM     : that is a good idea !
+KEMP    : that is a great idea . i am glad you have a great time !
+GEE     : oh no ! i am so sorry to hear that .
+GREmp   : that is really cool . i hope you were able to do that .
+ablation: that is great ! i hope you have a good time .
+
+************* Sample 42 (real index: 2214)
+************* Emotion: embarrassed
+User: so i suck hard at bowling , but tonight i tried to be pro and putting spin on the ball . i ended up just throwing it down the lane instead .
+Bot: ha ha ! i have done that , too . so embarrassing .
+User: yeah , my face was bright red when the ball almost went into the other lane ! thankfully there was somebody that sucked even worse than me in my party .
+
+MoEL    : i am glad you did not get hurt .
+MIME    : i am sorry to hear that . i hope you find it !
+EmpDG   : i am sure you will be fine !
+RecEC   : i 'm sorry that happened to you , i 'm sure it was a accident . i 'm sorry that happened to you .
+CEM     : i am sorry to hear that .
+KEMP    : i am sure you will not be able to find a new home .
+GEE     : i am sorry to hear that . i hope she gets better .
+GREmp   : that is the worst . i hope you were able to fix it .
+ablation: that is good . i hope you were able to get it back .
+
+************* Sample 43 (real index: 3849)
+************* Emotion: annoyed
+User: last night a fly got into the bedroom and would n't stop trying to land on my face
+
+MoEL    : oh no ! i would have been terrified !
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : oh wow , that is pretty gross ! did you have a baby ?
+RecEC   : that is so scary . i hope you did n't get hurt .
+CEM     : oh no ! that must have been disgusting
+KEMP    : that is a shame . i hope you have a great time !
+GEE     : i am glad you are okay .
+GREmp   : that is terrible . i hate when that happens .
+ablation: what happened ?
+
+************* Sample 44 (real index: 433)
+************* Emotion: joyful
+User: i am just so happy it is finally friday !
+
+MoEL    : that is awesome . what are you going to ?  ?
+MIME    : that is awesome ! what is your plans ?
+EmpDG   : that is great ! what are you going to do ?
+RecEC   : what 's happening next week ?
+CEM     : that is great ! what are you going on ?
+KEMP    : i am happy for you !
+GEE     : where are you going ?
+GREmp   : that is great ! i am happy for you !
+ablation: that is great ! what are you going to do ?
+
+************* Sample 45 (real index: 2566)
+************* Emotion: disappointed
+User: i was turned down for a job i really thought i would be a good fit at .
+Bot: did they give you any reason for not giving you the job ?
+User: someone else interviewed who had much more experience than i did .
+
+MoEL    : that is great ! i am sure you will do great !
+MIME    : that is good . i am glad you are okay .
+EmpDG   : i think that would be a good feeling .
+RecEC   : i hope you get it !
+CEM     : that is a good job !
+KEMP    : i am sure you will find a job that you have a job that you have a job that you have a job that you have a job .
+GEE     : oh no ! i am sorry to hear that . i hope you are okay .
+GREmp   : i am sorry to hear that . i hope you are able to do that .
+ablation: i am sorry to hear that . i hope you were able to do that .
+
+************* Sample 46 (real index: 3327)
+************* Emotion: annoyed
+User: ugh ... my boss made me stay late yesterday , so i had to work overtime , but i did not even get paid for it !
+Bot: that does not seem fair . how are they getting around not paying you for it ?
+User: i am technically salaried , so i do not get paid overtime . it is still really irritating .
+
+MoEL    : i am sorry to hear that . i hope it works out for you .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i do not know what it is .
+RecEC   : that 's annoying , but i would be furious if i were you at least asked ?
+CEM     : i am sure it will work out for you .
+KEMP    : i am sorry to hear that . i hope you get better soon .
+GEE     : that is awesome ! what kind of car did you get ?
+GREmp   : that is good . i am sure you will do fine .
+ablation: that is good . i hope you do not want to do that .
+
+************* Sample 47 (real index: 1083)
+************* Emotion: disgusted
+User: i was on a road trip last week and had to stop a gas station to use the restroom . it looked like they had never cleaned the bathroom , ever !
+Bot: ewww ! that is just super gross dude !
+User: i know ! the worst part is that i have irritable bowel syndrome , and i made the bathroom about twice as bad as it was initially !
+
+MoEL    : i am sorry you had to deal with that .
+MIME    : i am sorry to hear that . i hope you find it !
+EmpDG   : oh no ! that is terrible ! did you have to deal with it ?
+RecEC   : i 'm glad you were n't hurt ! i 'm so glad you got a good vacay and you 're able to get some sleep !
+CEM     : that is terrible . i hope it gets better soon .
+KEMP    : i would be too ! i would have been so mad !
+GEE     : i am sorry to hear that . i hope you find it .
+GREmp   : that is so gross . i hope it was not serious .
+ablation: "wow , that is terrible . i hope you were able to do that ! "
+
+************* Sample 48 (real index: 4234)
+************* Emotion: anticipating
+User: my daughter and her family are coming this thanksgiving . i am already preparing for their visit .
+Bot: oh that is exciting ! are you nervous at all ?
+User: not too much , just really exciting . i am planning everything even though it is months away , even the menu .
+
+MoEL    : i am sure you will have a great time !
+MIME    : i am so sorry to hear that . i hope everything goes well for you !
+EmpDG   : i think that is a very scary situation . i have always wanted to do that .
+RecEC   : wow , that 's a huge step ! i hope she does n't get to spend a good time with her !
+CEM     : that sounds like a lot of fun !
+KEMP    : i am sure you will be fine .
+GEE     : she is a good mom ?
+GREmp   : that sounds like a lot of fun . i hope you have a great time !
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 49 (real index: 4608)
+************* Emotion: sad
+User: the little kitten i rescued last friday passed away .
+
+MoEL    : oh no ! i am so sorry to hear that . i hope you are okay .
+MIME    : i am so sorry to hear that . what happened ?
+EmpDG   : oh , so cute ! i am sure you are so proud of her !
+RecEC   : oh , that 's awful ! i hope it was n't something urgent you had a pet , and it hurts .
+CEM     : i am so sorry to hear that .
+KEMP    : i am so sorry to hear that . i hope you have a great time .
+GEE     : he is probably a little dog .
+GREmp   : oh no ! i am so sorry to hear that .
+ablation: i am so sorry to hear that .
+
+************* Sample 50 (real index: 4912)
+************* Emotion: sad
+User: my goldfish died .
+Bot: im sorry to hear that , how long did you have him ?
+User: for 4 years . i am bummed .
+
+MoEL    : i am so sorry to hear that . i hope you are okay now .
+MIME    : i am so sorry to hear that . i am so sorry to hear that .
+EmpDG   : oh no ! i am so sorry . i am sure you will be able to find a good one .
+RecEC   : oh no ! i 'm sorry to hear that .
+CEM     : i am so sorry to hear that .
+KEMP    : i am so sorry to hear that . i hope you feel better now .
+GEE     : sorry to hear that . i hope you will get better soon .
+GREmp   : i am sorry to hear that . that is so sad .
+ablation: i am so sorry to hear that . i hope you are able to do it !
+
+************* Sample 51 (real index: 1099)
+************* Emotion: lonely
+User: i have a disease called lupus . because i am so sick from this it causes me to lose alot of friends . i am not able to go out and hand out like i use to because i am just to sick to get out . it makes me lonely .
+Bot: that is really sad . is there a cure for lupus ?
+User: no unfortunately there is not . you can sometimes go into remission with really powerful drugs but that is not guaranteed
+
+MoEL    : i am sorry to hear that . i hope you are okay .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i am sorry to hear that . i hope you are not .
+RecEC   : i do n't think the people is sad .
+CEM     : i am sorry to hear that . i hope it gets better soon .
+KEMP    : i am sorry to hear that . i hope you can find a better place now .
+GEE     : i am sure you will be fine .
+GREmp   : i am sorry to hear that . i hope you can find someone else .
+ablation: i am sure you will be able to do that .
+
+************* Sample 52 (real index: 1248)
+************* Emotion: sad
+User: my dog passed away couple months back .. i was heartbroken
+
+MoEL    : i am so sorry to hear that . what happened ?
+MIME    : i am so sorry to hear that . i am so sorry to hear that .
+EmpDG   : oh no ! i am so sorry . i know that is hard .
+RecEC   : oh no ! i 'm so sorry to hear that . i hope she is okay .
+CEM     : i am so sorry to hear that .
+KEMP    : i am so sorry to hear that . i hope you guys can find a new home .
+GEE     : im sorry to hear that . i hope he gets better soon .
+GREmp   : i am so sorry to hear that .
+ablation: i am so sorry to hear that .
+
+************* Sample 53 (real index: 2416)
+************* Emotion: confident
+User: i have got back in to running this week , i missed it ! it is a great stress reliever !
+
+MoEL    : that is great ! i am sure you will do great !
+MIME    : that is great ! i am sure you will be fine .
+EmpDG   : that is great ! i hope you do not get too !
+RecEC   : wow , that 's a long time . i hope it turns out well for you
+CEM     : that is great ! i am glad to hear that !
+KEMP    : i am glad you are going through that !
+GEE     : thats great ! i hope you are a good parent !
+GREmp   : that is awesome . i am happy for you !
+ablation: what happened ?
+
+************* Sample 54 (real index: 1409)
+************* Emotion: hopeful
+User: the economy has been doing well . the future looks bright .
+Bot: i agree ! things look really good going forward .
+User: hopefully prosperity will carry over into the next few generations .
+
+MoEL    : that is great . i am sure it will be worth it .
+MIME    : i am sure you will be fine .
+EmpDG   : i do not think that is a good thing to do . i do not know the time of the time .
+RecEC   : oh , that 's a tough position , but you will be a great job .
+CEM     : that is great ! i hope you have a great time !
+KEMP    : i am sure you will be fine .
+GEE     : wow , that sounds fun ! i have never been there . i hope you are a good friend .
+GREmp   : that is very true . i am sure you will do great .
+ablation: that is great . i am sure you will do great !
+
+************* Sample 55 (real index: 92)
+************* Emotion: confident
+User: i have a hard time having confidence in myself but when i got married and i had my hair and makeup done i felt like i was beautiful ! i had so much confidence in myself that day and it was great !
+
+MoEL    : that is great ! i am sure you will do great !
+MIME    : that is great ! i am sure you will be fine .
+EmpDG   : that is great ! i hope you are doing well .
+RecEC   : i am sure they will !
+CEM     : that is really nice of you !
+KEMP    : that is great ! i am glad you are doing well .
+GEE     : yes she is . i have a lot of kids .
+GREmp   : that is awesome ! i am happy for you !
+ablation: that is great ! i bet you were so excited !
+
+************* Sample 56 (real index: 2693)
+************* Emotion: nostalgic
+User: i love the holidays . driving around looking at decoration is my favorite .
+Bot: that is a lot of fun . what is your favorite holiday to drive around in ?
+User: christmas . it makes me miss my moms decor .
+
+MoEL    : that sounds like a lot of fun . i am sure it will be worth it .
+MIME    : i am so sorry to hear that . i hope you have a good time .
+EmpDG   : i have never heard of that before . i love the .
+RecEC   : that 's pretty reasonable considering that the past is a higher position .
+CEM     : that sounds like a lot of fun !
+KEMP    : i love the feeling , i am glad you have a great time !
+GEE     : that is great to hear . i hope you have a good relationship with her .
+GREmp   : that sounds like a lot of fun .
+ablation: that sounds like a lot of fun !
+
+************* Sample 57 (real index: 2348)
+************* Emotion: guilty
+User: when i was young i hit a car on the parking lot and did not say anything '
+
+MoEL    : oh no ! i hate when that happens . did you find out ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : oh no ! i hope you did not get hurt !
+RecEC   : oh no ! that 's terrible . did you ever find out who did it ?
+CEM     : oh no ! that must have been really embarrassing .
+KEMP    : that is a good thing to do .
+GEE     : i would be too .
+GREmp   : did you call the police ?
+ablation: what happened ?
+
+************* Sample 58 (real index: 5147)
+************* Emotion: annoyed
+User: my sister spilled some milk on me . it set me off !
+
+MoEL    : oh no ! that is terrible . did you find out ?
+MIME    : oh no ! i am so sorry to hear that .
+EmpDG   : oh no ! what happened ?
+RecEC   : oh no ! was it a expensive one ?
+CEM     : oh no , that is terrible . did you find out of it ?
+KEMP    : that is a shame . i hope you guys can get a new one !
+GEE     : oh no ! i am sorry to hear that . did you get a chance ?
+GREmp   : oh no ! that is terrible . did you find out there ?
+ablation: oh no ! i am sorry to hear that .
+
+************* Sample 59 (real index: 1403)
+************* Emotion: sad
+User: i was recently rejected by a person that i enjoyed . you can not always get what you want .
+
+MoEL    : that is very nice of you . i am sure that is a lot of money .
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : that is not good . maybe you can get a next time ?
+RecEC   : i 'm sorry to hear that . what happened ?
+CEM     : i am sorry to hear that .
+KEMP    : i am sure you will find it .
+GEE     : she is a good person . you will be fine .
+GREmp   : that is great . i hope you have a good time .
+ablation: i am sorry to hear that . what happened ?
+
+************* Sample 60 (real index: 3660)
+************* Emotion: furious
+User: i woke up and the first thing i saw that my cat had decided to play with my shoes and ruin them !
+
+MoEL    : oh my god ! i would have been terrified !
+MIME    : i am sorry to hear that . i hope you are okay .
+EmpDG   : oh no ! what happened ?
+RecEC   : that sounds like a smelly situation .
+CEM     : oh no ! that must have been disgusting
+KEMP    : that is a good idea . i have always wanted to go on the house .
+GEE     : i would have been there . i have had to go through that .
+GREmp   : what did you do ?
+ablation: oh no ! that is terrible . did you have a cat ?
+
+************* Sample 61 (real index: 73)
+************* Emotion: nostalgic
+User: i recently spoke to my father for the first time in years . it reminded me of my childhood and the distant past .
+Bot: cool . somethings never change . what did you reflect upon ?
+User: we spoke about our recent lives . apparently he is in the market for a new car .
+
+MoEL    : that sounds like a lot of fun . i am glad you had a great time .
+MIME    : that is great ! i bet you were very proud of him .
+EmpDG   : i understand . that is a long time . i have felt that way to be away .
+RecEC   : oh wow . that 's really cool . i 'm really sorry . i bet you were proud of him !
+CEM     : that is a good idea !
+KEMP    : i am glad you are going through that .
+GEE     : that is great ! i bet you were so happy for him .
+GREmp   : that is great . i hope you have a great time !
+ablation: that is so cool . i hope you have a great time .
+
+************* Sample 62 (real index: 3536)
+************* Emotion: disgusted
+User: i had such a bad cold last week , i was coughing up a lot of nasty stuff into cups just so that it would n't hurt when i swallowed .
+
+MoEL    : oh no ! i am sorry to hear that . what did you do ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : oh no ! i hope you are ok !
+RecEC   : i would have been mad too ! i would have been so hungry !
+CEM     : oh no ! i hate when that happens
+KEMP    : i would be too . i am sorry to hear that .
+GEE     : oh no ! i hope you were able to find out of the right ?
+GREmp   : oh no ! i hate when that happens . did you complain ?
+ablation: oh no ! what happened ?
+
+************* Sample 63 (real index: 1455)
+************* Emotion: anticipating
+User: i am so excited about an upcoming move and life change -- it is a move to a verrrry different state , but should be interesting !
+
+MoEL    : i am sure you will have a great time !
+MIME    : i am sure you will be fine .
+EmpDG   : i am sure you will be a great time to get a new one .
+RecEC   : oh , well , that is a lot of places are always good .
+CEM     : that is great ! i hope everything goes well for you !
+KEMP    : i am sure you will be fine .
+GEE     : i agree . i have had to go through that . i hope you find someone to help you .
+GREmp   : that is awesome . i am sure you will do great .
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 64 (real index: 2291)
+************* Emotion: confident
+User: so i asked out a girl in my class and she said yes . was a big morale boost .
+
+MoEL    : that is awesome . i am sure you will do great !
+MIME    : that is great ! i am glad you are okay .
+EmpDG   : that is good to hear . how long have you been married ?
+RecEC   : that 's not good . did you get a good grade ?
+CEM     : that is great ! what did you do ?
+KEMP    : that is great ! i am glad you are going through that .
+GEE     : im sorry to hear that . i am so sorry to hear that .
+GREmp   : that is so nice of you . how did you do ?
+ablation: "wow , that is pretty cool . what did you do ? "
+
+************* Sample 65 (real index: 3852)
+************* Emotion: disgusted
+User: i left my dog alone in the house when i went to get the mail . while i was gone she got in the cat box and ate the cat poop , super gross .
+Bot: i would have hated to clean that up . i wonder why they do that ?
+User: there was nothing to clean .... she definitely swallowed it . i stuck her outside cause i can not even think about dealing with her licking anything right now . gives me the hebbie jibbes thinking about it .
+
+MoEL    : that is so gross . i hope you were able to clean it up .
+MIME    : i am sure she will be fine .
+EmpDG   : that is terrible .
+RecEC   : yeah , you 're obviously your fault . i 'm sure you can put a taste a bunch of food .
+CEM     : oh no ! that is terrible ! i hope you have a good time !
+KEMP    : i would be too . i would have been a little dog .
+GEE     : good luck !
+GREmp   : that is so gross . i hope you did not clean it up .
+ablation: "wow , that is so gross . i am sorry to hear that . "
+
+************* Sample 66 (real index: 3948)
+************* Emotion: faithful
+User: an old girlfriend contacted me looking for a one night stand , i had to decline .
+Bot: oh man ! i hate one night stands ! !
+User: hah , they can be fun . though my partner would not have appreciated it !
+
+MoEL    : that is very nice of you . i am sure it will be worth it !
+MIME    : i am sure you will be fine .
+EmpDG   : i have to agree with that !
+RecEC   : that is great ! i bet you were so proud of her .
+CEM     : that is a good idea !
+KEMP    : i am so sorry to hear that . i hope you can find a new one !
+GEE     : where did you move ?
+GREmp   : that is really nice of you .
+ablation: that is good to hear . i hope you have a good time .
+
+************* Sample 67 (real index: 3092)
+************* Emotion: embarrassed
+User: i burned my hair with my hair drier i am so embarrased to go out in public
+Bot: i am sorry to hear that , my wife has done the same thing . she wore a hat for almost a month when she left the house .
+User: yeah it is the worst , i loook so weird with my hair like this it is so embarassing
+
+MoEL    : that must 've been embarrassing . i hope you did not get hurt .
+MIME    : i am so sorry to hear that . i hope you find it .
+EmpDG   : oh no ! i would be so scared .
+RecEC   : well , i 'm sure it was a good lesson , but at least you did not want to use it as a bullet .
+CEM     : i am sure you will have a great time .
+KEMP    : i would be too ! i would have been so mad !
+GEE     : i agree . i would be able to find out who it is .
+GREmp   : that is so funny . i am sure you will do fine .
+ablation: that is a good idea . i am sure you will do fine !
+
+************* Sample 68 (real index: 2558)
+************* Emotion: impressed
+User: i am a youth leader , and just the other day a teen from the group was asked to speak at a local church .
+Bot: oh that is awesome ! what was the teen asked to speak about ? are they nervous ?
+User: he was nervous , he has to prepare an original message . he did really good , and he really showed and understanding of the bible .
+
+MoEL    : i am sure you will be fine !
+MIME    : i am sorry to hear that . i hope he gets better soon !
+EmpDG   : i would be so mad ! i would be so mad ! what was the occasion ?
+RecEC   : oh , i see . i hope it 's not too bad .
+CEM     : that is a good idea !
+KEMP    : that is really cool , i am glad you are doing well .
+GEE     : why ?
+GREmp   : that is so cool . i hope he was able to be able to help .
+ablation: that is great . i hope you have a good time !
+
+************* Sample 69 (real index: 1408)
+************* Emotion: hopeful
+User: the economy has been doing well . the future looks bright .
+
+MoEL    : i am sure you will have a great time .
+MIME    : i am sure you will be fine .
+EmpDG   : that is good . i hope you do well .
+RecEC   : that 's great ! what is going on ?
+CEM     : that is great ! i hope you have a great time !
+KEMP    : i am sure you will find a new job .
+GEE     : i am happy for you .
+GREmp   : that is great ! i hope you get it !
+ablation: that is great . i am sure you will do great !
+
+************* Sample 70 (real index: 3700)
+************* Emotion: disgusted
+User: i hate when i do dishes and touch food that was on the plate1 ! so gross . makes me wan na throw up
+Bot: really ? it does not bother me at all . i wonder why you feel that way ?
+User: because the food is all soggy and mushy . i do not know , such a yucky feeling
+
+MoEL    : i am sure that is a good way .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : that is the worst , i hope you do not .
+RecEC   : omg that is so gross ! i hate when people do n't know what they are saying .
+CEM     : that is disgusting ! i am sorry to hear that .
+KEMP    : i am sure you will find a new home .
+GEE     : i agree . i have had that happen to me before too .
+GREmp   : that is true . i hope you have a good time !
+ablation: that is so gross . i hope you are able to clean it up !
+
+************* Sample 71 (real index: 1701)
+************* Emotion: lonely
+User: i have been married a long time , but my husband is gone quite a bit for work . i feel a bit by myself at times because of this : (
+Bot: that is no good ! you need someone to be there and take care of you .
+User: luckily , my children still live at home , but it is not quite the same . plus , it will not be too long before they are ready to move out
+
+MoEL    : that is great . i am sure it will be worth it .
+MIME    : i am sure you will be fine .
+EmpDG   : that is great ! i have always wanted to go to the whole day .
+RecEC   : i 'm sure it will be a great experience for you .
+CEM     : that is a good idea . i hope everything works out for you !
+KEMP    : i am glad you are going through that .
+GEE     : that is great . i am sure you will be fine .
+GREmp   : that is so true . maybe you can talk to your friend .
+ablation: i am sorry to hear that . i hope you have a good time !
+
+************* Sample 72 (real index: 71)
+************* Emotion: excited
+User: i was soooo excited to take our kids to disneyland for the first time !
+Bot: ooo they are gon na love it , just its expensive , i remember when it was only $ 20 to get in .
+User: same ! i was excited because i grew up going there . my grandparents lived in tucson , and we would spend the summers with them -- the most exciting part being our drive to disneyland each year !
+
+MoEL    : that sounds like a lot of fun ! i hope you have a great time !
+MIME    : that is awesome ! i hope you have a great time !
+EmpDG   : i have never had a lot of fun . i have always wanted to go to !
+RecEC   : that sounds like fun !
+CEM     : that sounds like a lot of fun !
+KEMP    : i have never been to a few days . i hope you guys have a great time !
+GEE     : aw , that is cool . i bet you were very happy for him .
+GREmp   : that is a good idea . i hope you have a great time !
+ablation: that sounds like a lot of fun !
+
+************* Sample 73 (real index: 3580)
+************* Emotion: embarrassed
+User: i was playing hide n seek when i was a kid and i had to use the restroom , but then i realized after a couple minutes that there was someone behind the shower curtain
+Bot: i bet that was awkward
+User: yeah , nobody said anything
+
+MoEL    : i am glad you were not hurt
+MIME    : i am sorry to hear that .
+EmpDG   : oh no ! did you have a good i could have done that .
+RecEC   : that 's not good , i guess you got some pretty bad stuff to do .
+CEM     : i bet that was embarrassing .
+KEMP    : that is a good thing to do .
+GEE     : she is a good friend .
+GREmp   : that is so funny . i am sure it was worth it .
+ablation: i am sorry to hear that .
+
+************* Sample 74 (real index: 3682)
+************* Emotion: proud
+User: well , recently at physical therapy i walked the length of the treatment room with the help of a cane . i am feeling quite good about that !
+Bot: wow thats a good job
+User: considering i have been using a walker for the past two years , yes it is . thanks !
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine .
+EmpDG   : that is so sweet . i am sure you will be fine .
+RecEC   : well , i guess you should try to get some private time
+CEM     : that is great ! i am glad to hear that !
+KEMP    : i am glad you are going through that .
+GEE     : i am sorry to hear that . i hope you find someone to help you .
+GREmp   : that is great . i am sure you will do great !
+ablation: that is great . i am sure you will do great !
+
+************* Sample 75 (real index: 902)
+************* Emotion: ashamed
+User: robby got me flowers today .
+
+MoEL    : that is very nice of them . i am sure it was .
+MIME    : oh no ! what happened ?
+EmpDG   : i have been there . i have been there before .
+RecEC   : really ? why is that ?
+CEM     : that sounds like a lot of fun !
+KEMP    : i am sorry to hear that . i hope you have a great time !
+GEE     : oh wow ! i would have been so scared !
+GREmp   : what did you do ?
+ablation: what happened ?
+
+************* Sample 76 (real index: 3644)
+************* Emotion: content
+User: for me , one of life 's greatest pleasures is to be sitting on my porch with a good book and a glass of wine .
+Bot: what book do you enjoy reading ?
+User: lots of things . i like historical novels and legal dramas best . what about you ? does reading give you a sense of relaxation ?
+
+MoEL    : that sounds like a great time .  !
+MIME    : i am sure you will be fine .
+EmpDG   : i do not think that is a lot of people in the world .
+RecEC   : that is a real bummer . i am glad you got some sleep .
+CEM     : i am glad to hear that .
+KEMP    : i am sure you will enjoy it .
+GEE     : that is terrible . i hope she is okay .
+GREmp   : that sounds like a lot of fun . i am happy for you !
+ablation: that is great ! i hope you have a good time !
+
+************* Sample 77 (real index: 3972)
+************* Emotion: sentimental
+User: recently went on a family vacation to an old spot we used to go when we were all younger . it was nice to see old stuff and talk about old times .
+
+MoEL    : that must have been a lot of memories .
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : that is really cool . i hope you have a good time to go through .
+RecEC   : oh , i 'm sorry to hear that . did you have a good time ?
+CEM     : that sounds like a lot of fun !
+KEMP    : that is great . i have never been to a great feeling .
+GEE     : i love food !
+GREmp   : that is so nice of you . i hope you have a great time .
+ablation: that must have been so exciting .
+
+************* Sample 78 (real index: 2613)
+************* Emotion: sad
+User: i was sad when my wife left me
+
+MoEL    : i am sorry to hear that . what happened ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : oh no ! i am sorry to hear that . is she still alive ?
+RecEC   : oh no , i 'm so sorry to hear that .
+CEM     : oh no , i am sorry to hear that .
+KEMP    : that is terrible . i am sorry to hear that .
+GEE     : im sorry to hear that . i am sorry to hear that .
+GREmp   : i am sorry to hear that . i hope you have a tough time .
+ablation: i am sorry to hear that . what happened ?
+
+************* Sample 79 (real index: 2436)
+************* Emotion: nostalgic
+User: i moved to a new house recently and miss my old one
+
+MoEL    : i am sorry to hear that . how long has it been since ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : i am sure you will be fine .
+RecEC   : that 's great . i 'm sure it is a great time to live with time .
+CEM     : i am sorry to hear that . how long have you been together ?
+KEMP    : i am sorry to hear that . i hope you feel better soon .
+GEE     : that is so cute ! i have never been there .
+GREmp   : that is so sweet . i am sorry to hear that .
+ablation: that is great ! i am so happy for you !
+
+************* Sample 80 (real index: 478)
+************* Emotion: terrified
+User: as a kid , i was so frightened any time there was a tornado warning . not sure if it was the wizard of oz effect or what -- i just remember being frozen with fear .
+Bot: oh , wow ! my son was terrified of tornadoes because of that darn movie , and we do not really even get tornadoes where we live ! did you ever live through a tornado ?
+User: that is the thing -- no ! i mean , there were some that were kind of close -- but nothing like what so many folks have to deal with . i just remember wanting a basement sooooo badly -- not something that is common where i grew up !
+Bot: aw , poor little thing ! how did you overcome this ? or , are you still afraid of them ?
+User: my mom said the best thing once when i was babysitting and a tornado warning went off and i did not want my own fear to affect the little boy i was with -- she was on the phone and just said you have big plans for the future , right ? nothing is going to get in the way of that . for some reason , it worked a charm ; - )
+
+MoEL    : i am glad you are okay !
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i have never heard of that before . i have never heard of that before .
+RecEC   : oh man ! i 've been in a few doctors ive had been very many times before . i am scared of being alone .
+CEM     : i am glad you are okay .
+KEMP    : i am glad you are okay . i am glad you are okay .
+GEE     : i am glad you were able to find it .
+GREmp   : that is good . i am glad you are able to do that .
+ablation: that is so scary . i hope you are able to do it !
+
+************* Sample 81 (real index: 60)
+************* Emotion: surprised
+User: my friend 's baby has grown so much since the last time i had seen her !
+Bot: it is crazy how quickly kiddos grow ! even in a few weeks time ! do you see your friend and her baby often ?
+User: it had been about 8 weeks - i do not get out her way often , even though we live 30 minutes away .
+
+MoEL    : that is very nice of you . i am sure she will be fine !
+MIME    : i am sure you will be fine !
+EmpDG   : that is so sweet . i am sure she 'll be a little guys .
+RecEC   : that is so true , i have a few kids to get tested to grow up so fast .
+CEM     : that is a good idea . i hope she gets better soon .
+KEMP    : i am sure she will be fine .
+GEE     : that is great . i am glad you are able to help her .
+GREmp   : that is awesome . i hope you have a great time !
+ablation: that is great ! i hope you have a good time .
+
+************* Sample 82 (real index: 273)
+************* Emotion: caring
+User: i recently met a new person that i am very fond of . i want to give her my love and care .
+Bot: that is very special and i am so happy for you .
+User: i am very happy , too . do you have someone special in your life ?
+
+MoEL    : that is very kind of you . i am sure that is a great feeling .
+MIME    : that is great to hear . i am sure you will be fine .
+EmpDG   : that is awesome . i love the mine as well .
+RecEC   : i 'm happy for you . i hope it stays that way !
+CEM     : that is really nice of you !
+KEMP    : that is great to hear . i hope you guys can enjoy your life .
+GEE     : i am happy for you .
+GREmp   : that is great . i am happy for you !
+ablation: that is great . i hope you have a good time .
+
+************* Sample 83 (real index: 4876)
+************* Emotion: embarrassed
+User: i was talking to a british friend of mine and trying to explain why our president feels compelled to tweet
+Bot: i am sure that was an interesting conversation . what did your friend think ?
+User: they think someone needs to take his phone away
+
+MoEL    : that is good . i am glad you are okay .
+MIME    : i am sorry to hear that . i hope he gets better .
+EmpDG   : that sounds like a lot of fun .
+RecEC   : yes , i 'm sure you are a good friend .
+CEM     : that is terrible . i hope he gets better
+KEMP    : i am glad you are okay . i am glad you are okay .
+GEE     : i remember those times . i have never been there .
+GREmp   : i am sorry to hear that . i am sorry to hear that .
+ablation: that is terrible . i hope you are able to talk to him about it .
+
+************* Sample 84 (real index: 2943)
+************* Emotion: nostalgic
+User: i was listening to a throwback hits playlist and it brought back memories from the good ol days .
+
+MoEL    : that sounds like a great time . what kind of memories ?  ?
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : yeah , i have been there , i have been there before . i have had that happen before .
+RecEC   : oh no , i do not know how you feel . i do n't have to do that .
+CEM     : that sounds like a lot of fun !
+KEMP    : i am sure you were doing that .
+GEE     : i am happy for you !
+GREmp   : i know how you feel . i used to have a lot of memories .
+ablation: that sounds like fun !
+
+************* Sample 85 (real index: 799)
+************* Emotion: disappointed
+User: i was doing some freelance website work for a friend of mine and i did a lot of work for it . sadly , it did not do as well as we had expected it to do , even though i put my best work and most effort into it .
+
+MoEL    : i am sorry to hear that . what did you do ?
+MIME    : i am sorry to hear that . i am sorry to hear that . i am sorry to hear that .
+EmpDG   : that is awesome . i hope you get a new friend .
+RecEC   : well , you will get there .
+CEM     : oh no ! i am sorry to hear that .
+KEMP    : i am sure you will not be able to find a new job .
+GEE     : that is great ! i love my dog .
+GREmp   : that is true . i am sorry to hear that .
+ablation: i am sorry to hear that . i hope you were able to do that .
+
+************* Sample 86 (real index: 4947)
+************* Emotion: surprised
+User: i finally went and adopted a cat last month and go way more than i expected !
+
+MoEL    : that is great ! i am sure you will have a great time !
+MIME    : that is awesome ! how old is your cat ?
+EmpDG   : oh , that is so sweet . i have been there before .
+RecEC   : oh no . what happened ?
+CEM     : that is awesome ! i bet you are very lucky !
+KEMP    : i am so sorry to hear that . i hope you guys can get it !
+GEE     : congratulations ! that is a lot of fun !
+GREmp   : that is awesome ! what kind of cat was it ?
+ablation: "wow , that is so sweet of you ! "
+
+************* Sample 87 (real index: 4434)
+************* Emotion: trusting
+User: my brother is not very good with money but i just lent him some
+
+MoEL    : that is great that you have a friend like that .
+MIME    : that is great ! what did he do ?
+EmpDG   : oh really ? what was he doing ?
+RecEC   : that 's nice of him . what did he do ?
+CEM     : that is really nice of him .
+KEMP    : that is a good thing to do .
+GEE     : that is great ! what was the person ?
+GREmp   : what kind of job is he ?
+ablation: that is really nice of him .
+
+************* Sample 88 (real index: 1437)
+************* Emotion: disappointed
+User: once i was suppose to go visit my sister and nieces who i had n't seen in forever but i ended up breaking my heal and big toe and was not able to go . i was so upset !
+
+MoEL    : oh no ! i am sorry to hear that . what happened ?
+MIME    : i am so sorry to hear that . i am so sorry to hear that .
+EmpDG   : oh no ! i hope you feel better .
+RecEC   : oh no , i hope you are okay .
+CEM     : i am sorry to hear that . i hope everything works out okay
+KEMP    : that is so sad . i am glad you had a good time .
+GEE     : oh no ! i am so sorry to hear that . i hope you find it .
+GREmp   : i am sorry to hear that . i hope you are okay .
+ablation: i am sorry to hear that . what happened ?
+
+************* Sample 89 (real index: 1067)
+************* Emotion: faithful
+User: i was given a job offer at a new company . i decided to stay with my current organization out of loyalty .
+
+MoEL    : that is great . i am sure you will do great !
+MIME    : that is good . i am glad you are okay .
+EmpDG   : that is a good thing to do . i am sure you are a good person .
+RecEC   : that 's really great ! i bet you 're so proud .
+CEM     : that is great ! i hope you have a great job !
+KEMP    : that is great . i am glad you are able to do that .
+GEE     : good job is there a job you can do it .
+GREmp   : that is really nice of you . what kind of job was it ?
+ablation: that is great . i hope you have a good job !
+
+************* Sample 90 (real index: 3231)
+************* Emotion: annoyed
+User: i was trying to study for a final but my neighbors were being really loud , and i had a hard time focusing
+Bot: did you go over and ask them to turn down the volume ?
+User: no , i am shy and try to avoid confrontation as much as possible
+
+MoEL    : i am sorry to hear that . i hope it was not too bad .
+MIME    : i am sorry to hear that . i hope you are okay .
+EmpDG   : oh no , that is so funny . i think you are a great friend .
+RecEC   : i would be too . i would be furious if i were you .
+CEM     : i am sure it will be fine .
+KEMP    : i am sorry to hear that . i hope you can get it back soon .
+GEE     : that is good . you are a good person .
+GREmp   : that is so true . i am sorry to hear that .
+ablation: that is so annoying . i hope you are able to do that .
+
+************* Sample 91 (real index: 1060)
+************* Emotion: jealous
+User: i suspect that my husband is fixing a lot to go to a party , i suspect he is going to see someone
+Bot: what are you going to do about it
+User: i am going to take some time and i 'll be looking at it with caution
+
+MoEL    : that is very nice of you . i hope it works out for you
+MIME    : i am sorry to hear that . i hope he is okay .
+EmpDG   : wow , that is a good thing to do .
+RecEC   : i 'm so happy that you are happy with your company .
+CEM     : i am sure it will be fine .
+KEMP    : i hope you guys can do something like that .
+GEE     : i am sorry to hear that . i hope she gets better soon .
+GREmp   : that is so true . i am sure you will be able to do that .
+ablation: that is great . i hope you have a good time .
+
+************* Sample 92 (real index: 112)
+************* Emotion: surprised
+User: recently , my husband came home from grocery shopping and had gifts for me for mother 's day . he had a beautiful diamond ring and other lovely gifts , it was very unexpected !
+
+MoEL    : that is very nice of them .
+MIME    : that is great ! i am glad you were able to help him .
+EmpDG   : that is so sweet . i have such a wonderful time to have a surprise .
+RecEC   : wow , that is so awesome !
+CEM     : that is so nice of you !
+KEMP    : that is so sweet of you ! i have a friend like that .
+GEE     : oh no ! i am so sorry to hear that .
+GREmp   : that is so nice . i am happy for you !
+ablation: "wow , that is awesome ! what did you do ? "
+
+************* Sample 93 (real index: 2510)
+************* Emotion: hopeful
+User: i know things will work out in god 's perfect timing
+Bot: yes , i agree , are you hoping for something in particular .
+User: yes i am . for everything we want for the baby to be gifted to us lol
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine .
+EmpDG   : i am sure you will be great !
+RecEC   : i 'm so happy for you !
+CEM     : that is a good idea !
+KEMP    : i am glad you are going through that .
+GEE     : she is a good person .
+GREmp   : that is awesome . i hope you have a great time !
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 94 (real index: 1154)
+************* Emotion: proud
+User: i found out that i am getting a bonus for having the top rating in my district !
+
+MoEL    : that is awesome . what kind of job is it ?
+MIME    : that is great ! how did you do ?
+EmpDG   : that is great ! you must be very proud !
+RecEC   : oh no ! i hate when that happens . do you think you will get there for a chance ?
+CEM     : that is great ! i hope you have a great time !
+KEMP    : that is a good attitude to have .
+GEE     : i would have been there . i have had that happen to me before .
+GREmp   : that is awesome ! what did you do ?
+ablation: that is great ! what did you do ?
+
+************* Sample 95 (real index: 2326)
+************* Emotion: furious
+User: i almost got into a fight the other day at a store .
+
+MoEL    : oh no ! i am sorry to hear that . what did you do ?
+MIME    : that is awesome ! what happened ?
+EmpDG   : oh no ! what did you do ?
+RecEC   : oh no , that 's not fun . what did you do ?
+CEM     : oh no , that is terrible . did you get it ?
+KEMP    : that is so sad . did you get it ?
+GEE     : that is good . i am glad you are okay .
+GREmp   : what did you do ?
+ablation: what happened ?
+
+************* Sample 96 (real index: 1367)
+************* Emotion: hopeful
+User: i was anticipating a great weight loss after my first week on my diet !
+
+MoEL    : that is great ! i am sure you will do great !
+MIME    : i am sorry to hear that . i hope you find it !
+EmpDG   : that is awesome ! i am sure you will be fine !
+RecEC   : i 'm sorry to hear that . what kind of diet is it ?
+CEM     : that is a good idea !
+KEMP    : that is great ! i am sure you will do great !
+GEE     : i am sorry to hear that . i hope he gets better
+GREmp   : that is awesome ! i hope you have a lot of weight !
+ablation: what kind of diet is it ?
+
+************* Sample 97 (real index: 2060)
+************* Emotion: confident
+User: i have been exercising and taking care of myself more lately .
+
+MoEL    : that is great . i am sure that is a great feeling .
+MIME    : that is great to hear . i am sure you will be fine .
+EmpDG   : that is great ! i am sure you are a great time to do !
+RecEC   : what is your favorite part of your favorite shows ?
+CEM     : that is great ! i am glad to hear that !
+KEMP    : i am sure you will do well .
+GEE     : good luck !
+GREmp   : that is great . i am sure you will do great .
+ablation: that is really good to hear .  you need to do it ?
+
+************* Sample 98 (real index: 97)
+************* Emotion: jealous
+User: i met up with an old flame recently , did not go how i expected
+Bot: oh ya ? what happened ? ? i am intrigued
+User: well , right after she gave me a big hug , she introduced me to her new boyfriend .
+
+MoEL    : that is very nice of you . i am sure she will be fine .
+MIME    : i am sorry to hear that . i am glad you were able to help .
+EmpDG   : what was it ?
+RecEC   : that is a good choice .
+CEM     : that is great ! i hope you have a great time !
+KEMP    : that is awesome ! i am happy for you !
+GEE     : that is very nice of him .
+GREmp   : i am sorry to hear that .
+ablation: i am sorry to hear that .  you tried to do it ?
+
+************* Sample 99 (real index: 5074)
+************* Emotion: joyful
+User: when my children were born , it was a rejoicing time for me . i can not think of a time i felt more happiness .
+Bot: children are a beautiful thing for us parents . what a great memory you have of that .
+User: yes , i have two children and i feel so blessed to have them . i lucked out and got a boy and girl , both healthy , smart and wonderful .
+
+MoEL    : that is great . i am glad you are happy for you .
+MIME    : that is great ! i am glad you are okay .
+EmpDG   : i am so sorry to hear that . i hope you enjoy it .
+RecEC   : i 'm sure you are right . that is a great father .
+CEM     : that is so nice of them !
+KEMP    : i am glad you have a great life .
+GEE     : i bet they are so happy for you .
+GREmp   : that is a great attitude to have . i hope you have a great time !
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 100 (real index: 2828)
+************* Emotion: surprised
+User: i got a surprise gift in the mail yesterday .
+
+MoEL    : that is very nice of them .
+MIME    : what was it ?
+EmpDG   : what was it ?
+RecEC   : oh wow , that 's amazing ! did you get a new one ?
+CEM     : what was it ?
+KEMP    : what kind of things are you planning on doing ?
+GEE     : i agree . i am sorry to hear that . i am sure you will find something new to do .
+GREmp   : what did you do ?
+ablation: that is awesome ! what did you do ?
+
+************* Sample 101 (real index: 1133)
+************* Emotion: confident
+User: i found out yesterday at work that i am one of the top performers for my district ! i figured i was doing good , i did not know i was doing * that * well !
+Bot: that is great .
+User: usually at the end of the day it is never anything nice when my supervisor wants to talk to me but she broke the news and i was surprised ! been walking on sunshine all weekend !
+
+MoEL    : that is very nice of her . i hope you have a good time .
+MIME    : that is good . i am glad you are okay .
+EmpDG   : that is a great attitude to have . i am sure she will be a great time .
+RecEC   : i would love to see that , i think i would be furious if i was in a better place .
+CEM     : that is really nice of you !
+KEMP    : that is really cool . i am glad you have a great job !
+GEE     : ugh , that is terrible . i hope you are okay .
+GREmp   : that is very nice of you .
+ablation: that is so cool . i hope you were able to do that .
+
+************* Sample 102 (real index: 3745)
+************* Emotion: surprised
+User: we went on vacation and the kids stayed home . i could not believe it when i walked in the door and the house was totally clean .
+Bot: lol ! i thought you were going to say messy ! good kids !
+User: wonders never cease to amaze me . first time for everything i guess , lol
+Bot: so true ! maybe they want something or they did something bad and are hiding it lol
+User: i totally thought the same thing . too funny ( but you might be right )
+
+MoEL    : that is great ! i am glad you are okay !
+MIME    : i am glad to hear that . i hope you have a good time !
+EmpDG   : yeah i have been there . i have had that happen before .
+RecEC   : wow , that is a really expensive gift . i hope you guys had a good time .
+CEM     : that is a good idea !
+KEMP    : i would be too ! i would have been so scared of it !
+GEE     : was it a surprise ?
+GREmp   : that is so cute . i do not want to do that .
+ablation: that is a good idea . i hope you have a great time !
+
+************* Sample 103 (real index: 3235)
+************* Emotion: sentimental
+User: i went to a bar i used to go to in college , and i was surprised to see an arcade machine i built with a dear friend of mine !
+Bot: wow thats nostalgic ! ! . it must have brought back lot of good memories
+User: yes , playing the machine we built together reminded me of all the good times we used to have .
+
+MoEL    : that sounds like a lot of fun ! i bet it was a great time .
+MIME    : i bet you were so happy for you .
+EmpDG   : yeah i have been there . i have n't done that before .
+RecEC   : i know what you mean . it is a great feeling !
+CEM     : that sounds like a lot of fun !
+KEMP    : i am glad you have a great time !
+GEE     : i am sorry to hear that . are you ok ?
+GREmp   : that sounds like a lot of fun . i hope you have fun !
+ablation: that is so cool . i hope you were able to do it !
+
+************* Sample 104 (real index: 4899)
+************* Emotion: afraid
+User: our power went off the other night . we were without it until morning !
+
+MoEL    : oh no ! i am sorry to hear that . i hate when that happens .
+MIME    : oh no ! what happened ?
+EmpDG   : oh no ! i hate when that happens !
+RecEC   : oh no . what happened ?
+CEM     : oh no ! that must have been really embarrassing .
+KEMP    : that is scary ! did you get hurt ?
+GEE     : oh no ! i am sorry to hear that . i hope you are okay !
+GREmp   : what did you do ?
+ablation: what happened ?
+
+************* Sample 105 (real index: 21)
+************* Emotion: disappointed
+User: so yeah i drove 2 hours to get to wallmart . with 299 in my wallet as advertised , and the real price of the tv was 399 usd . what a bummer
+Bot: thats horrible .
+User: yeah i had my hopes reall high and then i left empty handed , such a terrible feeling !
+
+MoEL    : oh no ! i am so sorry to hear that .
+MIME    : i am sorry to hear that .
+EmpDG   : that is a good thing to hear . i do not know if you are a good person .
+RecEC   : oh wow , i hope you can continue to make it up .
+CEM     : i am so sorry to hear that .
+KEMP    : that is so sad . i hope you have a good time !
+GEE     : that is great . i am glad you are doing well .
+GREmp   : i am sorry to hear that .
+ablation: i am sorry to hear that . i hope you were able to do it !
+
+************* Sample 106 (real index: 3212)
+************* Emotion: lonely
+User: sometimes i enjoy being alone , but not on a long trip that takes me far away from home .
+
+MoEL    : i am sorry to hear that . i am sorry to hear that .
+MIME    : i am sorry to hear that . what happened ?
+EmpDG   : that is really bad . i have always wanted to see people around here .
+RecEC   : why is that ?
+CEM     : that sounds like a lot of fun !
+KEMP    : i am sorry to hear that . i hope you feel better soon .
+GEE     : she is a good time ?
+GREmp   : i am sorry to hear that . what are you going to do ?
+ablation: i am sorry to hear that . are you alone ?
+
+************* Sample 107 (real index: 1598)
+************* Emotion: sentimental
+User: i love the adventure and perspective of living away from my home state -- but that does not mean i do not miss elements of it while i am gone !
+Bot: same here . i actually moved to the other side of the usa , and i do miss my home
+User: are you able to visit often ? that helps -- but it is funny how things never feel * exactly * the same , you know ?
+
+MoEL    : i am sure it will be worth it .
+MIME    : i am so sorry to hear that . i am sure you will be fine .
+EmpDG   : i am sure you will be a great time .
+RecEC   : i know exactly what you mean . i do n't think anyone would like to do that .
+CEM     : yeah , i know how you feel about it ?
+KEMP    : i am glad you are able to enjoy your life .
+GEE     : i am sure you will be fine .
+GREmp   : that is so true . i am so sorry to hear that .
+ablation: that is great . i hope you have a great time !
+
+************* Sample 108 (real index: 4625)
+************* Emotion: annoyed
+User: working from home can be difficult when people will not leave me alone to get work done .
+Bot: yeah , you need peace and quiet to be able to work .
+User: i love my kid but she is non stop with trying to show me the latest my little pony video , gon na pull my hair out .
+
+MoEL    : that is good . i am glad you are okay .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : i do not know that is a real thing to deal with .
+RecEC   : well , that 's a bummer . i 'm sorry you had to deal with that . maybe you should try to make a different decision .
+CEM     : that is a good idea .
+KEMP    : i am sorry to hear that . i hope you guys can enjoy your time .
+GEE     : i am so happy for you . i am sure you will be fine .
+GREmp   : that is so true . i hope you have a good time .
+ablation: that is so annoying . i hope you have a good time !
+
+************* Sample 109 (real index: 4191)
+************* Emotion: proud
+User: i just learned my first trick in ice skating , a triple spin twirl kick front flip .
+Bot: wow that sounds challenging ! you must have some serious strength to pull that off !
+User: i never thought i would have the balance to perform such a feat . i think i can no qualify for the olympics .
+
+MoEL    : that is great ! i am sure you will do great !
+MIME    : i am sure you will be fine !
+EmpDG   : that is amazing ! i bet you were proud !
+RecEC   : well that is really impressive .
+CEM     : i am sure you will do great !
+KEMP    : i am sure you will be fine .
+GEE     : i bet you were so proud of you !
+GREmp   : that is so true . i hope you have a great time !
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 110 (real index: 3999)
+************* Emotion: jealous
+User: i have a friend with loaded parents . she does not work but has anything she wants anytime she wants .
+
+MoEL    : that is very nice of you . i have a friend like that .
+MIME    : that is good to hear . what happened ?
+EmpDG   : that is so sweet . i have been there before . i have been there before .
+RecEC   : that is great . i 'm sure she will be happy for you .
+CEM     : that is really nice of you !
+KEMP    : that is a good idea . i am sure she will not be able to help her out .
+GEE     : that is good . you must be very proud of your friend .
+GREmp   : that is cool . i bet she loves you !
+ablation: "that is good , i am sorry to hear that . do you want to do it ? "
+
+************* Sample 111 (real index: 633)
+************* Emotion: guilty
+User: thank you
+Bot: you are welcome , but for what ?
+User: nothing
+
+MoEL    : that is great , i am sure it will be worth it !
+MIME    : i agree with you .
+EmpDG   : i have n't heard of it .
+RecEC   : i 'm sorry , what 's happening next week ?
+CEM     : i am so sorry to hear that .
+KEMP    : i am sure you will be fine .
+GEE     : awesome ! where are you going ?
+GREmp   : that is a good idea .
+ablation: that is good . i hope you have a good time .
+
+************* Sample 112 (real index: 5198)
+************* Emotion: devastated
+User: i was truly surprised when i notice my tire got hit by a rock , thought i would n't make it to the tire place in time
+Bot: did it go flat ?
+User: it did not , got it replaced when i dropped it off , pretty lucky
+
+MoEL    : that is awesome ! i bet it was a lot of money .
+MIME    : that is good . i am glad you were able to do that .
+EmpDG   : that is so awesome ! i am so sorry ! i have had that happen .
+RecEC   : wow , that 's so funny ! i would have been furious !
+CEM     : that is really nice of you !
+KEMP    : that is awesome ! i am glad you were able to find it !
+GEE     : that is good . i am glad you were able to get the money back .
+GREmp   : i am sorry to hear that . did you call the police ?
+ablation: i am sorry to hear that . what happened ?
+
+************* Sample 113 (real index: 2777)
+************* Emotion: sentimental
+User: i recently went down memory lane was looked at all my high school yearbooks .
+Bot: oh yeah ? do you still look awesome like you did back then ?
+User: well .... maybe not as awesome . lol but i do try to keep in shape . it was good seeing all my old friends .
+Bot: yeah i bet . do you still keep in touch with any of them ?
+User: i do a lot of them but some have moved away and we just lost touch .
+Bot: yeah . maybe you should hit them up on fb for a reunion ?
+User: that is a good idea !
+
+MoEL    : i am sure that is a great feeling .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : that is the worst , i am sure you are a good friend .
+RecEC   : i know right ? that 's a great accomplishment !
+CEM     : that is a good thing to do .
+KEMP    : i am glad you are able to keep it up .
+GEE     : i am sorry to hear that . i hope you find a new one .
+GREmp   : that is so true . i hope you have a great time !
+ablation: that is great . i hope you have a great time .
+
+************* Sample 114 (real index: 4563)
+************* Emotion: prepared
+User: i am going camping this weekend . i got my tent , sleeping bag and tons of food . i think i have everything i need !
+
+MoEL    : that sounds like a lot of fun . it is always nice to be prepared .
+MIME    : i am glad you are okay !
+EmpDG   : i bet that feeling ! i have always heard of a good thing to do !
+RecEC   : i love the thrill of it too ! i love going to go on vacation .
+CEM     : that sounds like a great time !
+KEMP    : that is great ! i am sure you will find a new home !
+GEE     : i am sorry to hear that . i hope you find him .
+GREmp   : that sounds like a lot of fun . do you have camping ?
+ablation: what kind of food is it ?
+
+************* Sample 115 (real index: 4502)
+************* Emotion: guilty
+User: sometimes i wake up at night and eat junk food .
+Bot: i have never done that but i know plenty of people who do that . its normal every know and again but do not turn it into a daily habit !
+User: yeah but i feel bad afterwards . i like to make peanut butter and nutella sandwiches with chocolate chip cookies .
+
+MoEL    : oh no ! i am sure you will not be able to do that .
+MIME    : i am sorry to hear that . i am sure you will be fine .
+EmpDG   : well that is not good . i have never heard of that about it . i am sure you are a good parent !
+RecEC   : wow , that 's really expensive to me , but i 'd probably want to get rid of the other things .
+CEM     : i am sure it was not a good idea .
+KEMP    : i am sure you will find a better place now .
+GEE     : congratulations ! that is awesome ! how old is he ?
+GREmp   : "yes , i do not blame you . i am sure it will . "
+ablation: that is a good idea . i am sure you will do great !
+
+************* Sample 116 (real index: 1050)
+************* Emotion: anticipating
+User: i am waiting to take a big test coming up ! i feel prepared , yet i am anxious .
+Bot: good luck ! what is it on ?
+User: thank you ! it is my final exam for a summer database applications/design class that i am taking .
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine .
+EmpDG   : i think you are an animal person ! i think you are doing pretty confident in the class .
+RecEC   : oh wow , i 'm sure you 'll do fine .
+CEM     : well good luck !
+KEMP    : i am sure you will do well .
+GEE     : i hope you do well !
+GREmp   : i am sure you will do great !
+ablation: i am sure you will do great !
+
+************* Sample 117 (real index: 2227)
+************* Emotion: anticipating
+User: i think i will be very busy monday night playing my new game .
+
+MoEL    : that sounds like a lot of fun . i hope you have a great time !
+MIME    : that is awesome ! what game is it ?
+EmpDG   : i am sure you will be fine !
+RecEC   : i 'm not sure what game will you play ?
+CEM     : that sounds like a lot of fun !
+KEMP    : i am sure you will be fine .
+GEE     : i am sure he will be fine .
+GREmp   : that is cool . i hope you have a good time !
+ablation: that sounds like fun !
+
+************* Sample 118 (real index: 3075)
+************* Emotion: confident
+User: i love teaching people how to skydive - it is so much fun helping them to learn .
+
+MoEL    : that is great . i am sure you will have a great time .
+MIME    : that is great . i am glad you are doing well .  is there for a lot of money .
+EmpDG   : that is pretty cool . i hope you do not get you .
+RecEC   : i love it sometimes . what 's been doing with it ?
+CEM     : that is great ! i bet you are very proud !
+KEMP    : that is great ! i am sure they are going to be a great parent !
+GEE     : he is a good kid !
+GREmp   : that is so cool . i do not like to be able to do that .
+ablation: that is great ! i hope you have a great time !
+
+************* Sample 119 (real index: 2994)
+************* Emotion: anxious
+User: school starts a week from tomorrow and i am getting fairly nervous for it !
+Bot: how come ? it will probably be an exciting adventure for you to start
+User: oh yes , i really like school and my classmates and stuff ! i guess just because summer is coming to an end ?
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine !
+EmpDG   : i do not think that is a lot of people in the world .
+RecEC   : i hope you get a better place !
+CEM     : i am sure it will be fun !
+KEMP    : i am sure you will be fine .
+GEE     : why did he do that ?
+GREmp   : i am sure you will have a great time .
+ablation: that sounds like fun !
+
+************* Sample 120 (real index: 5114)
+************* Emotion: grateful
+User: my father passed away 2 years ago , but my mother lives in my neighborhood now . i am so thankful she lives close by and still here with us . she 's such a wonderful mother .
+Bot: i am glad that she is living close to you . that must make you feel special . my mom is dead so i understand how you feel .
+User: i am sorry to hear that , i know it is so hard to lose a parent . i think we take them for granted when we are younger , but i am blessed she 's still here .
+
+MoEL    : that is very nice of her . i am sure she will be fine .
+MIME    : i am so sorry to hear that . i hope she gets better soon .
+EmpDG   : that is great ! i have never had a good time to have a good time .
+RecEC   : that 's so sweet ! i hope she gets a better pain .
+CEM     : i am glad you have a great time together !
+KEMP    : i am so sorry to hear that . i am sure you will find someone who you can .
+GEE     : i am so sorry to hear that . i hope you are able to help you out .
+GREmp   : that is a great thing to have .
+ablation: that is very nice of you . i hope you have a lot of fun .
+
+************* Sample 121 (real index: 4699)
+************* Emotion: ashamed
+User: i got drunk and embarrassed myself in front of my friends
+Bot: it will be okay . we sometimes do things that we regret .
+User: i fell down , and apparently said some embarrassing things .
+
+MoEL    : i am glad you are okay .
+MIME    : i am sorry to hear that .
+EmpDG   : oh no ! i am so sorry . i have been there before .
+RecEC   : i hope you were not hurt .
+CEM     : oh no ! i am so sorry to hear that .
+KEMP    : i am sure you will not be okay .
+GEE     : congratulations ! that is a good feeling . i am sure she will be fine .
+GREmp   : i am sorry to hear that .
+ablation: i am sorry to hear that . i hope you were able to talk to him about it .
+
+************* Sample 122 (real index: 759)
+************* Emotion: anticipating
+User: i am looking forward to my niece arriving from washington . i have n't seen her in 2 years !
+
+MoEL    : that is awesome . are you going to get her ?
+MIME    : that is awesome ! how old is she ?
+EmpDG   : that is so exciting ! i bet she is excited !
+RecEC   : that is exciting ! where are you going ?
+CEM     : that is great ! i bet you are so excited !
+KEMP    : that is awesome ! i am happy for you . i hope you have a great time !
+GEE     : she is so lucky .
+GREmp   : that is so exciting ! is she excited ?
+ablation: that is great ! i hope you have a good time !
+
+************* Sample 123 (real index: 3140)
+************* Emotion: sad
+User: my neighbor used to have an old beagle - a lovely pooch . he died of cancer just before thanksgiving . i looked for him for weeks - i miss him .
+Bot: that is so sad . i have lost dogs before . i know how you feel : (
+User: yeah . i used to see him when i was out on my porch and he 'd come out for a sniff around or a tinkle . he was so sweet and gentle .
+
+MoEL    : i am sorry to hear that . i am sure he will be fine .
+MIME    : i am so sorry to hear that . i am so sorry to hear that .
+EmpDG   : i am so sorry to hear that . i hope he is a better than him .
+RecEC   : i 'm so sorry to hear that . i would be mad if i were you , i would be furious .
+CEM     : that is so nice of him .
+KEMP    : i am so sorry to hear that . i hope you have a great life .
+GEE     : i am so sorry to hear that . i hope he gets better soon .
+GREmp   : that is so sad . i am sorry to hear that .
+ablation: i am sorry to hear that . i am sorry to hear that .
+
+************* Sample 124 (real index: 3429)
+************* Emotion: nostalgic
+User: i had a dream the other night about my friends from high school . it brought back all kinds of memories from my teen years and thinking back made me smile .
+Bot: did you tell anyone about the dream ?
+User: i told my husband . the dream made me miss my best friend from high school .
+Bot: you should call your best friend on the telephone !
+User: i actually sent her a message through facebook .
+
+MoEL    : that sounds like a lot of fun ! i am sure you had a great time .
+MIME    : i am sorry to hear that . i hope you enjoy it !
+EmpDG   : i have n't , but i have never had to dream
+RecEC   : wow , that sounds really scary ! i hope you have a great time !
+CEM     : oh wow , that is a nice surprise !
+KEMP    : i am sure you were very happy with her !
+GEE     : aww that is so sweet . how old is she ?
+GREmp   : that sounds like a lot of fun .
+ablation: that is so cool . i bet you were able to do that !
+
+************* Sample 125 (real index: 4464)
+************* Emotion: faithful
+User: last week i was at the grocery store picking up body wash. there were so many to chose from , but i could not help but buy my trusted brand that has served me well for so many years .
+Bot: you got ta stick with what you know sometimes .
+User: yes , why try something new when what you have been using has worked so well .
+
+MoEL    : i am sure you will not be able to do that .
+MIME    : i am sorry to hear that . i hope you find it .
+EmpDG   : i have been there before . i was a bit of my life . i have had that happen before . i was a bit of my life .
+RecEC   : that is good to hear . i 'm sure they will make you a good friend .
+CEM     : that is a good idea .
+KEMP    : i am sure you will find someone else
+GEE     : i am sorry to hear that . i hope you find a good job .
+GREmp   : that is good . i hope you have a good time .
+ablation: that is good to hear . i am glad you were able to do that .
+
+************* Sample 126 (real index: 3509)
+************* Emotion: anxious
+User: tomorrow i start my new job teaching kids . i really hope it goes well !
+Bot: oh wow , now that really is exciting , congratulations ! did you get the grade level and subject you wanted ?
+User: i am teaching at a small private school , so i will be teaching all the subjects for 3rd grade . i am pretty excited , just nervous .
+
+MoEL    : i am sure you will do great !
+MIME    : i am sure you will be fine !
+EmpDG   : i do not think you are going to school for a while . i hope you are doing well .
+RecEC   : that 's great ! i hope you get it !
+CEM     : that is great ! i hope everything goes well for you !
+KEMP    : i am sure you will be fine .
+GEE     : im sorry to hear that . i hope you find him .
+GREmp   : that is great . i hope you have a great time !
+ablation: i am sure you will do great !
+
+************* Sample 127 (real index: 911)
+************* Emotion: grateful
+User: when i was pregnant , i felt ill until it was over . the doctors were worried that something was wrong with the baby .
+Bot: oh no ! i am not sure how all that works , but i thought that was fairly normal for a pregnat woman
+User: usually the sickness stops within the first few months , so the fact that i fell ill so much was worrisome . despite it all , i had a healthy , bouncing baby boy . i never have felt more grateful in my life .
+
+MoEL    : i am glad to hear that . i hope you are okay .
+MIME    : i am sure you will be fine .
+EmpDG   : that is so scary ! i hope she was not too bad .
+RecEC   : that 's good . i 'm glad you got some help .
+CEM     : that is a good idea . i am glad you are okay .
+KEMP    : that is a great feeling , i am glad you are okay .
+GEE     : that is great ! i am glad you had a good time to help .
+GREmp   : that is very nice of you . i hope you have a great time !
+ablation: that is so sweet of you . i am glad you were able to do that .
+
+************* Sample 128 (real index: 213)
+************* Emotion: nostalgic
+User: have you ever heard a song on the radio and it just takes you back to a different time ? like an escape ?
+Bot: all the time . that is part of listening to music i suppose . the songs remind you of when you first heard them .
+User: yeah , i guess that is fair . it happens all the time to me too . sometimes makes me wish i was reliving those moments but i do not think i would really want to go back ..
+
+MoEL    : i agree . i am sure it is a great time .
+MIME    : i am sure you will be fine .
+EmpDG   : i do not , too , i have to start my own .
+RecEC   : i 'm sure it 's a good one . i do n't think i 'd be able to laugh it out .
+CEM     : i am glad you are okay .
+KEMP    : i agree , i have never been to a great feeling .
+GEE     : i understand . i have had to go through that . i have had to go through that .
+GREmp   : "yes , it is always good to watch them . "
+ablation: that is a good idea . i hope you have a great time !
+

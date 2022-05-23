@@ -1,0 +1,3132 @@
+************* Sample 1 (real index: 4358)
+************* Emotion: content
+User: lately , my family and i have been very blessed . we are all happy and healthy . all of our major bills have already been paid for the month ,
+and we have been going to a three week long revival at a local church .
+Bot: that is awesome ! whats your secret to success ?
+User: we have just been trusting in the lord .
+
+Response 0: that is great . i am sure you will be fine .
+***Score 0: 
+Response 1: that is great . i am happy for you !
+***Score 1: 
+Response 2: that is great . i wish i could help them myself .
+***Score 2: 
+Response 3: that is really nice of you !
+***Score 3: 
+Response 4: that is great . i am sure it will be worth it .
+***Score 4: 
+Response 5: that is great ! i am glad you have a great family .
+***Score 5: 
+Response 6: that is not good .
+***Score 6: 
+Response 7: that is great . i hope you have a great time !
+***Score 7: 
+Response 8: i am glad you are feeling better .
+***Score 8: 
+
+************* Sample 2 (real index: 5103)
+************* Emotion: impressed
+User: my son was in advance placement and honors during high school . he went to a prestigious college after , going for as an aerospace engineer . he
+never ceases to astonish me with his intelligence and admire me with how hard he works to pursue his dreams .
+
+Response 0: that is a great way to go to the hospital .
+***Score 0: 
+Response 1: that is awesome . i bet he was very proud of him .
+***Score 1: 
+Response 2: that is awesome ! i am sure he will be fine .
+***Score 2: 
+Response 3: i am sorry to hear that . i hope he gets better .
+***Score 3: 
+Response 4: i am glad he is okay .
+***Score 4: 
+Response 5: that is awesome . i bet he was very proud of him .
+***Score 5: 
+Response 6: that is great ! he must be very proud of him .
+***Score 6: 
+Response 7: he is a very good deal with him .
+***Score 7: 
+Response 8: that is awesome ! i bet he was so proud of him !
+***Score 8: 
+
+************* Sample 3 (real index: 4882)
+************* Emotion: nostalgic
+User: my university is posting live stream of students moving in and i was reminiscing about when i studied abroad in college
+Bot: aww , that is nice . where did you study abroad ?
+User: i studied in venice italy and travelled all over europe
+
+Response 0: that is awesome . i bet you were able to do that .
+***Score 0: 
+Response 1: that is awesome . i bet you are so proud .
+***Score 1: 
+Response 2: that is great ! i hope you have a great time !
+***Score 2: 
+Response 3: that is awesome , i am sure you will be fine .
+***Score 3: 
+Response 4: i am sure you will be a great time .
+***Score 4: 
+Response 5: awesome ! i bet you were happy for you .
+***Score 5: 
+Response 6: i love video games too , but i love the good time !
+***Score 6: 
+Response 7: that is so cool . i hope you have a great time .
+***Score 7: 
+Response 8: that is great ! i am glad you were able to help you .
+***Score 8: 
+
+************* Sample 4 (real index: 2058)
+************* Emotion: hopeful
+User: i am hopeful that my friend will be able to make it to my party
+
+Response 0: that is awesome . i hope you have a great time !
+***Score 0: 
+Response 1: i hope you do not .
+***Score 1: 
+Response 2: that is awesome ! what is your friend ?
+***Score 2: 
+Response 3: that is great . i hope you have a great time .
+***Score 3: 
+Response 4: that 's good . what are you going to do ?
+***Score 4: 
+Response 5: that is great ! i am sure you will be fine .
+***Score 5: 
+Response 6: that is great . i am sure you will do great !
+***Score 6: 
+Response 7: i am glad you are doing well . you are lucky to have someone to help you .
+***Score 7: 
+Response 8: that is great ! i hope everything goes well for you !
+***Score 8: 
+
+************* Sample 5 (real index: 2846)
+************* Emotion: nostalgic
+User: i love the holidays , that make think back to being a kid .
+
+Response 0: i am sure you will have a great time .
+***Score 0: 
+Response 1: yes , i have a brother . what about it ?
+***Score 1: 
+Response 2: that is awesome . i have never been there .
+***Score 2: 
+Response 3: that is great ! what is your favorite ?
+***Score 3: 
+Response 4: that is cool . i have never been there .
+***Score 4: 
+Response 5: that sounds like fun ! what kind of holidays are you .
+***Score 5: 
+Response 6: thats awesome ! i have been there .
+***Score 6: 
+Response 7: i am sure you will do great .
+***Score 7: 
+Response 8: that is really nice of them
+***Score 8: 
+
+************* Sample 6 (real index: 4606)
+************* Emotion: afraid
+User: i went for a walk the other day and one of the neighbors dogs was loose , a bit white husky , he was aggressive .
+
+Response 0: that is so sweet . i am glad you are okay .
+***Score 0: 
+Response 1: oh wow , that must have been terrifying !
+***Score 1: 
+Response 2: that is so gross ! i would have been so frustrated .
+***Score 2: 
+Response 3: that is so scary . i hope you were able to clean it out .
+***Score 3: 
+Response 4: "oh no , i am so sorry to hear that . "
+***Score 4: 
+Response 5: i hate when that happens . i hate when that happens .
+***Score 5: 
+Response 6: aww , that is so cute ! i have never been there .
+***Score 6: 
+Response 7: that is so scary ! i hate when that happens .
+***Score 7: 
+Response 8: that is scary , did you get hurt ?
+***Score 8: 
+
+************* Sample 7 (real index: 245)
+************* Emotion: sad
+User: i think that the girl of my dreams likes somebody else . i feel very sad about it .
+Bot: ooh , am so sorry about that . have you tried to talk to her ?
+User: it is tough because she has been out of the country for a month , so i will likely discuss it when she returns .
+
+Response 0: she is a lot of her to do .
+***Score 0: 
+Response 1: i am sorry to hear that . i am sure you will be fine .
+***Score 1: 
+Response 2: i am sure you will find someone who you want to be a good person .
+***Score 2: 
+Response 3: that is so true . i am so sorry to hear that .
+***Score 3: 
+Response 4: i am sorry to hear that . i am sorry to hear that .
+***Score 4: 
+Response 5: i am sorry to hear that . i hope you are right back .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you are okay .
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: i 'm sorry to hear that . i 'm sure you have a strong life .
+***Score 8: 
+
+************* Sample 8 (real index: 4743)
+************* Emotion: embarrassed
+User: i tripped and fell in front of some people .
+Bot: ouch ! was it a serious fall ?
+User: no , only my pride was injured .
+
+Response 0: oh no ! i am so sorry to hear that .
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you were able to fix it .
+***Score 1: 
+Response 2: i am so sorry to hear that . i hope you were able to get it fixed .
+***Score 2: 
+Response 3: oh no ! did you have to go to the doctor ?
+***Score 3: 
+Response 4: oh no ! i hope it was n't too embarrasing
+***Score 4: 
+Response 5: oh no ! i am so sorry to hear that .
+***Score 5: 
+Response 6: oh no ! i am glad you are okay !
+***Score 6: 
+Response 7: did she get a chance ?
+***Score 7: 
+Response 8: i am sorry to hear that . i hope you feel better soon !
+***Score 8: 
+
+************* Sample 9 (real index: 2145)
+************* Emotion: afraid
+User: last night at like midnight the power cut out completely on my street
+Bot: oh no , did you have candles and flashlights available ?
+User: we luckily had candles around ! i was so worried cause it was so fast it was like someone cut our power
+
+Response 0: i hope you were able to do that !
+***Score 0: 
+Response 1: oh no ! i am sorry to hear that .
+***Score 1: 
+Response 2: i would be too ! i would have been too .
+***Score 2: 
+Response 3: oh wow , that must have been terrifying !
+***Score 3: 
+Response 4: i am glad you are okay !
+***Score 4: 
+Response 5: i am glad you are feeling better .
+***Score 5: 
+Response 6: i am glad you had a great time !
+***Score 6: 
+Response 7: that is a good idea . i hope you get it fixed .
+***Score 7: 
+Response 8: i am sorry to hear that .
+***Score 8: 
+
+************* Sample 10 (real index: 4962)
+************* Emotion: sad
+User: my husband is going through the process of quitting smoking on top of dealing with drama from his parents . he is having a hard time .
+Bot: im sorry , thats awful . its a shame his parents arent being more supportive
+User: they are not being supportive at all , but that is not surprising , that do not support him very well in anything . i just wish i could make it
+better for him , but i can not
+
+Response 0: i am sure he will be fine .
+***Score 0: 
+Response 1: that is great ! i am sure you are having a good parent .
+***Score 1: 
+Response 2: he is a good friend .
+***Score 2: 
+Response 3: i 'm happy for you . i 'm sure you are very grateful for your life .
+***Score 3: 
+Response 4: i am sure he will be fine .
+***Score 4: 
+Response 5: that is great . i am sure he will be fine .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope he gets better soon .
+***Score 6: 
+Response 7: that is so true . i am sure you will be able to do that .
+***Score 7: 
+Response 8: that is true . i hope you have a good time .  you have a great time .
+***Score 8: 
+
+************* Sample 11 (real index: 2550)
+************* Emotion: impressed
+User: an extremely timid girl in my physics class invited the class to see her band play at a bar downtown .
+Bot: wow - hidden depths . are you going ?
+User: i actually went last friday night . turns out she is an incredible guitarist - a real shredder !
+
+Response 0: that is awesome . i bet you are very proud of her .
+***Score 0: 
+Response 1: that is awesome ! i bet she will do great !
+***Score 1: 
+Response 2: i am sorry to hear that . i hope you are okay .
+***Score 2: 
+Response 3: that is a good idea . i would be so nervous .
+***Score 3: 
+Response 4: i do not think she 's the same thing .
+***Score 4: 
+Response 5: wow that is quite a bummer . i would be furious .
+***Score 5: 
+Response 6: i am sorry to hear that . i am sure she will be fine .
+***Score 6: 
+Response 7: that is awesome ! i bet you are very proud of her
+***Score 7: 
+Response 8: that is awesome . i hope you have a great time !
+***Score 8: 
+
+************* Sample 12 (real index: 258)
+************* Emotion: faithful
+User: i have been feeling very faithful these days . my lover treats me so well .
+
+Response 0: that is a good idea . i am happy for you !
+***Score 0: 
+Response 1: yes , i agree . i am sure they are very good for you .
+***Score 1: 
+Response 2: that is great . i have had a lot of people .
+***Score 2: 
+Response 3: i am so sorry to hear that . i love my husband and i love her .
+***Score 3: 
+Response 4: that is great , i am glad to hear that .
+***Score 4: 
+Response 5: i am sure you will find someone who you can .
+***Score 5: 
+Response 6: that is so sweet of you .
+***Score 6: 
+Response 7: that is great . i 'm happy for you
+***Score 7: 
+Response 8: i am sorry to hear that . what happened ?
+***Score 8: 
+
+************* Sample 13 (real index: 1066)
+************* Emotion: angry
+User: i was on an airplane last week , and someone 's baby would not stop crying . i know it is not right to be upset about such things , but it
+really bothered me .
+Bot: dont worry , anyone would have felt the same way . if it makes you feel better remember that we were all babies once .
+User: i tried to think about that , but i was still aggravated . on the plus side , at least i was self aware that it was somewhat irrational .
+
+Response 0: i am sorry to hear that . i hope you are okay .
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you can find someone to help you .
+***Score 1: 
+Response 2: that is not good . i have always wanted to deal with .
+***Score 2: 
+Response 3: i agree . i have had to be able to help them .
+***Score 3: 
+Response 4: i am sorry to hear that . i am sure they will be fine .
+***Score 4: 
+Response 5: i am sure it will be fine .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you were able to do that !
+***Score 6: 
+Response 7: that is the worst . i hope you have a good time .
+***Score 7: 
+Response 8: that is good . i 'm glad you 're okay !
+***Score 8: 
+
+************* Sample 14 (real index: 3289)
+************* Emotion: prepared
+User: i studied all night for my final exams . i needed to pass them to graduate from college .
+Bot: that must of been pretty stressful . but did you get enough sleep ?
+User: i did . i was able to sneak in a few hours here and there .
+
+Response 0: that is great ! i am sure you will be fine .
+***Score 0: 
+Response 1: oh no ! i 'm sorry to hear that !
+***Score 1: 
+Response 2: that is great . i am sure you will do great !
+***Score 2: 
+Response 3: you must be prepared .
+***Score 3: 
+Response 4: i am sure you will do well .
+***Score 4: 
+Response 5: i am sure you will get a good grade .
+***Score 5: 
+Response 6: that is great ! i hope you have a great time !
+***Score 6: 
+Response 7: that is a good idea !
+***Score 7: 
+Response 8: good luck !
+***Score 8: 
+
+************* Sample 15 (real index: 4477)
+************* Emotion: sentimental
+User: while cleaning out our closets , i always find some old item that reminds me how little the girls used to be . last time it was a cute pair of
+jeans in toddler sizing we saved to make jean purses out of someday . my kid is 14 this week ! ! !
+
+Response 0: that is great ! i bet you were so proud of them .
+***Score 0: 
+Response 1: that is so sweet of you ! i have a little more than i am sure they are going to have a great time !
+***Score 1: 
+Response 2: "wow , that is so sweet of you . "
+***Score 2: 
+Response 3: that sounds like a lot of fun . i bet it was a lot of fun !
+***Score 3: 
+Response 4: lol . i have had that happen before too . i have had to go through that .
+***Score 4: 
+Response 5: i love that as well . i remember those things like that as a child . i think i would have been so much about it .
+***Score 5: 
+Response 6: oh wow , that is a good idea .
+***Score 6: 
+Response 7: that is not good , but you can afford it
+***Score 7: 
+Response 8: that is awesome . i am sure it will be worth it !
+***Score 8: 
+
+************* Sample 16 (real index: 4730)
+************* Emotion: apprehensive
+User: when i went to the store the other day , i seen a guy all tweaked out on drugs .
+
+Response 0: oh no ! i am so sorry . i hope you are not .
+***Score 0: 
+Response 1: oh no . i hate when that happens . it 's so annoying .
+***Score 1: 
+Response 2: oh no , that is terrible ! did you call the police ?
+***Score 2: 
+Response 3: that is good . i am glad you were able to help you .
+***Score 3: 
+Response 4: that is great ! i am glad you were able to help you .
+***Score 4: 
+Response 5: that is terrible . i am glad you are okay .
+***Score 5: 
+Response 6: i am sorry to hear that . what happened ?
+***Score 6: 
+Response 7: oh no ! i am so sorry to hear that . what did you do ?
+***Score 7: 
+Response 8: that is a good thing to do . i have always wanted to go through that .
+***Score 8: 
+
+************* Sample 17 (real index: 2971)
+************* Emotion: terrified
+User: last winter i was out on my porch at 4 am . suddenly a large figure dressed in black was walking towards me . my heart was beating like a drum !
+
+Response 0: good luck !
+***Score 0: 
+Response 1: i would be too ! i am glad you are ok .
+***Score 1: 
+Response 2: oh my god ! i would have been terrified !
+***Score 2: 
+Response 3: what happened ?
+***Score 3: 
+Response 4: i know that feeling ! i have had that happen before .
+***Score 4: 
+Response 5: oh no ! i am so sorry to hear that . i hate when that happens . did you have a baby ?
+***Score 5: 
+Response 6: i bet that was scary
+***Score 6: 
+Response 7: oh wow , that must have been scary !
+***Score 7: 
+Response 8: i am so sorry to hear that . i hope you were able to get it fixed .
+***Score 8: 
+
+************* Sample 18 (real index: 632)
+************* Emotion: guilty
+User: thank you
+
+Response 0: what happened ?
+***Score 0: 
+Response 1: what is it ?
+***Score 1: 
+Response 2: that is very nice of them .
+***Score 2: 
+Response 3: that is great ! what are you going on ?
+***Score 3: 
+Response 4: i am sorry , how long have you been together ?
+***Score 4: 
+Response 5: that is good . what is your friend ?
+***Score 5: 
+Response 6: why is that ?
+***Score 6: 
+Response 7: yea i am sure you will find a new job .
+***Score 7: 
+Response 8: that is good . i am glad to hear that .
+***Score 8: 
+
+************* Sample 19 (real index: 4770)
+************* Emotion: embarrassed
+User: i took my dog i have had for years over to meet one of my husband 's sisters the other night .
+Bot: oh neat ! how did the little one handle it ?
+User: it did not go well at all ! she pooped all over the carpet and she never has accidents at home .
+
+Response 0: i am sorry to hear that . i hope you are okay .
+***Score 0: 
+Response 1: oh no ! i am sure she will not be able to do that .
+***Score 1: 
+Response 2: i would cry if my dog is elderly , that is not a puppy trained dinner .
+***Score 2: 
+Response 3: oh no ! i hope you are ok !
+***Score 3: 
+Response 4: that is terrible . i hope she was able to clean it up .
+***Score 4: 
+Response 5: that is a lot of people who do not care about that .
+***Score 5: 
+Response 6: oh no ! i am so sorry to hear that .
+***Score 6: 
+Response 7: that is terrible . i am sorry to hear that .
+***Score 7: 
+Response 8: i am sorry to hear that .
+***Score 8: 
+
+************* Sample 20 (real index: 2218)
+************* Emotion: lonely
+User: i still live and work in the place where i grew up , but all of my friends have moved away .
+Bot: aw , that has to be tough not to see your friends . do they visit often ?
+User: no , everyone 's so busy with their lives and work that it is hard to arrange . most of the people here my age do drugs or stay out all night ,
+so i keep to myself at home , alone .
+
+Response 0: i am sorry to hear that . i hope you have a lot of friends .
+***Score 0: 
+Response 1: that is great . i am glad you are okay .  to you ?
+***Score 1: 
+Response 2: do you think you will be fine .
+***Score 2: 
+Response 3: that 's really rough . i hope you can find someone to hang out with you .
+***Score 3: 
+Response 4: i am glad you are alone .
+***Score 4: 
+Response 5: i am sorry to hear that . i hope you feel better soon !
+***Score 5: 
+Response 6: i am sorry to hear that . i am sure you will be fine .
+***Score 6: 
+Response 7: that is true . i hope you have a good time .
+***Score 7: 
+Response 8: i am so sorry to hear that . i am sure you will be a great friend .
+***Score 8: 
+
+************* Sample 21 (real index: 4281)
+************* Emotion: hopeful
+User: i am optimistic that my house is going to sell soon .
+
+Response 0: i love them . i have never been there .
+***Score 0: 
+Response 1: that is great ! i hope you have a great time !
+***Score 1: 
+Response 2: that is great ! i am sure you will be fine .
+***Score 2: 
+Response 3: i hope you have a good time .
+***Score 3: 
+Response 4: that is awesome . i hope you will be fine !
+***Score 4: 
+Response 5: that is great ! i am sure you will do great !
+***Score 5: 
+Response 6: that is awesome . what are you going ?
+***Score 6: 
+Response 7: that 's really nice of you .
+***Score 7: 
+Response 8: that is awesome . i hope you have a great time !
+***Score 8: 
+
+************* Sample 22 (real index: 611)
+************* Emotion: apprehensive
+User: wow ! congrats on your new job ! i can understand why you are apprehensive , but it sounds like a good opportunity .
+Bot: why thank you !
+User: no problem ! everything will work out in the end . no need to worry .
+
+Response 0: i am sure you will do great !
+***Score 0: 
+Response 1: i hope everything works out for you !
+***Score 1: 
+Response 2: i am sure you will be fine .
+***Score 2: 
+Response 3: i am sure you will do great !
+***Score 3: 
+Response 4: i am sure you will do fine .
+***Score 4: 
+Response 5: i am sure you will be fine .
+***Score 5: 
+Response 6: i think it is a good time to have . i hope it was not too bad .
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: i hope you get the job soon !
+***Score 8: 
+
+************* Sample 23 (real index: 2489)
+************* Emotion: joyful
+User: my friend and i spotted a mini-gold course when we were coming back from the next state over .
+
+Response 0: wow , that is a good idea .
+***Score 0: 
+Response 1: that is annoying . is he a smart choice ?
+***Score 1: 
+Response 2: that is so sweet . i am sure you are having a great friend .
+***Score 2: 
+Response 3: i am sorry to hear that . what happened ?
+***Score 3: 
+Response 4: that is a good thing to do . i am glad you are okay .
+***Score 4: 
+Response 5: that is awesome . what did you do ?
+***Score 5: 
+Response 6: oh my , i have had to go through that . i have a friend who is there .
+***Score 6: 
+Response 7: "wow , that is so nice of you . what did you do ? "
+***Score 7: 
+Response 8: "wow , that is amazing ! did you do anything special ? "
+***Score 8: 
+
+************* Sample 24 (real index: 5092)
+************* Emotion: jealous
+User: i feel kind of blue today , they announced the parts for the annual play .
+Bot: oh i am sorry . did you get any part ?
+User: i did , and it is a good one , just not the one that i wanted . i did not want the lead or anything .
+
+Response 0: that is a good idea !
+***Score 0: 
+Response 1: i am sure you will be fine .
+***Score 1: 
+Response 2: i 'm so sorry to hear that . what did you write about ?
+***Score 2: 
+Response 3: that is awesome . i am happy for you !
+***Score 3: 
+Response 4: that is great . i hope you have a good time !
+***Score 4: 
+Response 5: i am sure you will be fine .
+***Score 5: 
+Response 6: i am sorry to hear that . i am sure you will be a great time .
+***Score 6: 
+Response 7: that is great . i am sure you will do great .
+***Score 7: 
+Response 8: she is a good boy or girl ?
+***Score 8: 
+
+************* Sample 25 (real index: 1978)
+************* Emotion: hopeful
+User: i just applied for graduate school ! i feel good about my chances !
+
+Response 0: i am so sorry to hear that . i hope you are doing better now !
+***Score 0: 
+Response 1: that is awesome ! congratulations !
+***Score 1: 
+Response 2: that is great ! i am sure you will do great !
+***Score 2: 
+Response 3: that is great ! i am sure you will be fine .
+***Score 3: 
+Response 4: that is awesome . i am sure you will do great !
+***Score 4: 
+Response 5: that is great ! i am sure you will be fine .
+***Score 5: 
+Response 6: that is awesome ! how long have you been playing ?
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you get it !
+***Score 7: 
+Response 8: that is great ! i hope you have a great time !
+***Score 8: 
+
+************* Sample 26 (real index: 2582)
+************* Emotion: angry
+User: it makes me angry when people never notice me
+Bot: why what is it that you want them to notice about you that they bypass .
+User: everything . i do not have friends so it is nice to get noticed
+
+Response 0: i am sorry to hear that . i hope you can find a new friends .
+***Score 0: 
+Response 1: i do not know what that is . i have been there before .
+***Score 1: 
+Response 2: sounds fun ! i have never been there . i hope you have a good time !
+***Score 2: 
+Response 3: that is a good idea .
+***Score 3: 
+Response 4: thats not good , i hope you can get it all over again
+***Score 4: 
+Response 5: i am sorry to hear that . i hope it works out for you .
+***Score 5: 
+Response 6: that is so true . i hope you have a good time .
+***Score 6: 
+Response 7: i am sorry to hear that .
+***Score 7: 
+Response 8: that is so annoying . i am sorry to hear that .
+***Score 8: 
+
+************* Sample 27 (real index: 3960)
+************* Emotion: embarrassed
+User: i did not notice but i was walking around all day with a sock on my shirt !
+Bot: haha that is hilarious ! where was it at on your shirt ?
+User: on my back ! i went to work like this !
+
+Response 0: i have n't , but i am sure you will be fine !
+***Score 0: 
+Response 1: were you prepared for a while or you ?
+***Score 1: 
+Response 2: i am sorry to hear that . i am glad you were able to get it fixed .
+***Score 2: 
+Response 3: that is a good idea . i am sure it was a great feeling !
+***Score 3: 
+Response 4: that is funny . i hope you did not forget it !
+***Score 4: 
+Response 5: oh no ! i am so sorry to hear that .
+***Score 5: 
+Response 6: oh no ! i am so sorry to hear that .
+***Score 6: 
+Response 7: oh no ! i hope you did not get hurt !
+***Score 7: 
+Response 8: yikes . did you get it fixed ?
+***Score 8: 
+
+************* Sample 28 (real index: 4664)
+************* Emotion: annoyed
+User: my sister has been playing a song i dislike over and over and over
+Bot: that must be really irritating . is she doing it deliberately ?
+User: she does it more because she likes it than to bug me . it is going to be stuck in my head for weeks
+
+Response 0: i am sorry to hear that . i hope you can find it out .
+***Score 0: 
+Response 1: i do not blame you . i have never heard of that about it . i think i would have gone to a doctor about it
+***Score 1: 
+Response 2: that sucks , maybe you should ask him to pay for some sleep to fix it .
+***Score 2: 
+Response 3: that is a good idea . i hope she gets better
+***Score 3: 
+Response 4: that is the worst . i am sorry to hear that .
+***Score 4: 
+Response 5: that is terrible . i am sorry to hear that .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you find it .
+***Score 6: 
+Response 7: i am sorry to hear that . i hope she gets better .
+***Score 7: 
+Response 8: i am sorry to hear that . i hope you can find a new one soon .
+***Score 8: 
+
+************* Sample 29 (real index: 2980)
+************* Emotion: excited
+User: i am moving into a new apartment in three weeks and can not wait . it 'll be quiet as it looks onto a forest !
+Bot: is it loud where you are now ? new places are always so fun !
+User: not with traffic , but with the people upstairs - they are a cross between hyenas and elephants ! . my new place was quiet when i was there , so
+fingers crossed !
+
+Response 0: well , i hope you 're able to call it and go back to the store and get rid of it !
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you have a good time !
+***Score 1: 
+Response 2: oh my gosh ! i have had to go through that .
+***Score 2: 
+Response 3: that is a good idea , i hope everything works out for you !
+***Score 3: 
+Response 4: that is awesome ! i hope you have a great time !
+***Score 4: 
+Response 5: i do not think i have n't seen a lot of people .
+***Score 5: 
+Response 6: i am sure you will be fine .
+***Score 6: 
+Response 7: i would have been terrified ! i would have been terrified !
+***Score 7: 
+Response 8: that sounds like a lot of fun . i hope you have a fun time !
+***Score 8: 
+
+************* Sample 30 (real index: 4959)
+************* Emotion: impressed
+User: i recently had a shop fix my car . they worked so fast !
+
+Response 0: that is awesome ! i hope you get it !
+***Score 0: 
+Response 1: that is a good thing to do . did you get a good deal ?
+***Score 1: 
+Response 2: wow , that is a good idea !
+***Score 2: 
+Response 3: wow , that is a good car .
+***Score 3: 
+Response 4: oh no ! that is so exciting ! did you get it ?
+***Score 4: 
+Response 5: that is a good thing to do .
+***Score 5: 
+Response 6: that is awesome . what kind of car is it ?
+***Score 6: 
+Response 7: that is awesome ! what kind of car is it ?
+***Score 7: 
+Response 8: that is awesome ! what did you do ?
+***Score 8: 
+
+************* Sample 31 (real index: 1088)
+************* Emotion: nostalgic
+User: i recently had a long weekend with some old friends . it was fantastic .
+
+Response 0: what was it ?
+***Score 0: 
+Response 1: that is so nice . did you have a good time ?
+***Score 1: 
+Response 2: why did you do that ?
+***Score 2: 
+Response 3: that is so nice ! what did you do ?
+***Score 3: 
+Response 4: that sounds like a lot of fun !
+***Score 4: 
+Response 5: that is great ! i am glad you have a great time !
+***Score 5: 
+Response 6: what was the first time ?
+***Score 6: 
+Response 7: that sounds like a lot of fun ! i bet it was a great time !
+***Score 7: 
+Response 8: that sounds like a lot of fun ! i have been there . i have n't been there .
+***Score 8: 
+
+************* Sample 32 (real index: 650)
+************* Emotion: surprised
+User: i have never been so shocked than when my husband threw me a birthday party without me knowing .
+Bot: was it fun ?
+User: it was so much fun . i thought is was going to be another normal day . wake up , go to work , etc . but i was wrong about that !
+
+Response 0: that is great ! i am glad you are feeling well .
+***Score 0: 
+Response 1: that is great ! i am glad you were able to help you .
+***Score 1: 
+Response 2: "wow , that is awesome ! i hope you have a good time ! "
+***Score 2: 
+Response 3: that is a great surprise ! i am happy for you !
+***Score 3: 
+Response 4: that is a nice surprise !
+***Score 4: 
+Response 5: oh , i see . i am sure you are happy with her .
+***Score 5: 
+Response 6: that is very nice of them .
+***Score 6: 
+Response 7: that is so nice . i hope you have a great time !
+***Score 7: 
+Response 8: what was the occasion ?
+***Score 8: 
+
+************* Sample 33 (real index: 2154)
+************* Emotion: excited
+User: though the odds are against you , i understand why people gamble . i remember a particular time i was playing video poker at a local dive bar .
+
+Response 0: that sounds like fun !
+***Score 0: 
+Response 1: that is great . i am sure you will do great !
+***Score 1: 
+Response 2: i think i think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't think i would n't
+***Score 2: 
+Response 3: i love the game . i am so sorry to hear that .
+***Score 3: 
+Response 4: that is a good idea !
+***Score 4: 
+Response 5: that is cool . i hope you have a lot of fun !
+***Score 5: 
+Response 6: i agree , i have no idea what it is . i would n't have to buy it ?
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you find it !
+***Score 7: 
+Response 8: i bet you are scared , i bet you were terrified !
+***Score 8: 
+
+************* Sample 34 (real index: 938)
+************* Emotion: apprehensive
+User: there was a storm the other day , close to our home . there was a tornado warning near it , so i was afraid and nervous !
+
+Response 0: oh no ! i hope you are ok !
+***Score 0: 
+Response 1: what happened ?
+***Score 1: 
+Response 2: oh no ! what happened ?
+***Score 2: 
+Response 3: oh wow , that must have been terrifying !
+***Score 3: 
+Response 4: she is a great gift !
+***Score 4: 
+Response 5: that is scary ! i am glad you are okay !
+***Score 5: 
+Response 6: oh no ! i am sorry to hear that . i hope you are okay .
+***Score 6: 
+Response 7: that is scary ! i am glad you were able to get it .
+***Score 7: 
+Response 8: that is terrifying ! i am glad you are ok
+***Score 8: 
+
+************* Sample 35 (real index: 2931)
+************* Emotion: hopeful
+User: i am starting a new phase in my life . completed all debt and off to a new start
+Bot: i can hear the sigh of relief in your voice . i bet your anxious about what the next chapter will be .
+User: yes very . but i know that it will be good .
+Bot: i can tell your proud of yourself . im happy for you !
+User: thanks ! i hope to learn from my mistake and continue to progress
+
+Response 0: that is great ! i hope you are doing well .
+***Score 0: 
+Response 1: i am sure you will do great !
+***Score 1: 
+Response 2: i am sure you will do great !
+***Score 2: 
+Response 3: i am sure you will be fine .
+***Score 3: 
+Response 4: i am sure you will be fine .
+***Score 4: 
+Response 5: i am sure you will be able to be able to do that .
+***Score 5: 
+Response 6: i am sure it will be fine .
+***Score 6: 
+Response 7: i 'm sure it 's a great experience . i wish you the best of luck in your gut .
+***Score 7: 
+Response 8: i am sure you will be fine .
+***Score 8: 
+
+************* Sample 36 (real index: 2544)
+************* Emotion: furious
+User: once after a night on the town , i came home and my room had been ransacked .
+Bot: oh no ! i bet you were terrified !
+User: the thing is , my alcoholic room mate was the culprit . he had even thrown some of my belongings in the bathtub !
+
+Response 0: oh no ! i hope you were able to find a new one .
+***Score 0: 
+Response 1: oh no ! i hope he was able to clean it up .
+***Score 1: 
+Response 2: oh no ! i hope you did n't get hurt !
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you were able to do that .
+***Score 3: 
+Response 4: oh my god ! i would have been too . i would have been too .
+***Score 4: 
+Response 5: that is so scary ! i hope you did not get hurt .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you are okay .
+***Score 6: 
+Response 7: oh no ! i hate when that happens . did you have some good things ?
+***Score 7: 
+Response 8: that is terrible . i am sorry to hear that .
+***Score 8: 
+
+************* Sample 37 (real index: 4111)
+************* Emotion: sentimental
+User: i found an old photo album of my family . it really brought back memories .
+Bot: it is good to remember days gone by
+User: it is kind of a bittersweet experience
+
+Response 0: i am sure it is a good memory to look back on your memories .
+***Score 0: 
+Response 1: that is so nice of you !
+***Score 1: 
+Response 2: that is very nice of you .
+***Score 2: 
+Response 3: i am sorry to hear that .
+***Score 3: 
+Response 4: that is so cool . i hope you have a great time !
+***Score 4: 
+Response 5: that is great . i am sure it is a great feeling .
+***Score 5: 
+Response 6: that is awesome . i love those memories .
+***Score 6: 
+Response 7: old is always a good time to remember the memories of your family .
+***Score 7: 
+Response 8: i am sure you will miss her .
+***Score 8: 
+
+************* Sample 38 (real index: 4568)
+************* Emotion: hopeful
+User: it has been raining a lot lately , i am really trusting the seal on our doors to keep the water out .
+Bot: yeah flooding is a real problems these days . the weather is crazy ! hopefully you and your house will stay nice and dry .
+User: i know , it really starts too pool up by our house . it is getting kind of scary !
+
+Response 0: "yeah , i am sure you will be able to do it ! "
+***Score 0: 
+Response 1: i would be scared too . i would have to be able to sleep if i were you .
+***Score 1: 
+Response 2: i do not blame you . i have always heard of it is true .
+***Score 2: 
+Response 3: that is a good idea . i hope you have a great time !
+***Score 3: 
+Response 4: i am sorry to hear that . i am sure you will be fine .
+***Score 4: 
+Response 5: i hope everything works out for you !
+***Score 5: 
+Response 6: i can understand that . i hope you are okay .
+***Score 6: 
+Response 7: that is good . i am sure it will be fine .
+***Score 7: 
+Response 8: i am glad you are okay .
+***Score 8: 
+
+************* Sample 39 (real index: 1092)
+************* Emotion: grateful
+User: not long ago i realized we are more financially stable than i think we have ever been .
+
+Response 0: that is great . i am happy for you !
+***Score 0: 
+Response 1: you will be fine .
+***Score 1: 
+Response 2: i am glad you are okay . i am glad you are okay .
+***Score 2: 
+Response 3: that is great . i am sure you will do great !
+***Score 3: 
+Response 4: i am sorry to hear that . i am sure you will make it through that .
+***Score 4: 
+Response 5: that is great ! i am glad you are doing well .
+***Score 5: 
+Response 6: that 's terrible . what happened ?
+***Score 6: 
+Response 7: i am sorry to hear that . i am sorry to hear that .
+***Score 7: 
+Response 8: that is great ! i am glad to hear that .
+***Score 8: 
+
+************* Sample 40 (real index: 616)
+************* Emotion: angry
+User: i always feel like no one hears me . like when i speak it falls on deaf ears .
+
+Response 0: i hate when that happens . i hate when that happens .
+***Score 0: 
+Response 1: i do not know what you mean . i do not know what you mean .
+***Score 1: 
+Response 2: i am sorry to hear that . i hate when that happens .
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you are okay .
+***Score 3: 
+Response 4: oh no ! i am so sorry to hear that . what happened ?
+***Score 4: 
+Response 5: i 'm sure it will be worth it .
+***Score 5: 
+Response 6: they are very good
+***Score 6: 
+Response 7: oh no ! i hate when that happens
+***Score 7: 
+Response 8: i am sorry to hear that . i hope you feel better now .
+***Score 8: 
+
+************* Sample 41 (real index: 3793)
+************* Emotion: joyful
+User: i got to go to a cat cafe when no one else was around !
+Bot: i have been to one before with my girlfriend , what an amazing experience eh ?
+User: it was ! i was the only one around so all the cats came to spend time with me
+
+Response 0: that is great ! i am glad you were able to help her .
+***Score 0: 
+Response 1: that is so sweet . i love cats , but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat but i have never had a cat
+***Score 1: 
+Response 2: i love dogs ! i 'm sure they will enjoy it .
+***Score 2: 
+Response 3: that is really cool . i hope you were able to do that .
+***Score 3: 
+Response 4: that is so nice of you ! i am sure they are so lucky !
+***Score 4: 
+Response 5: that is a great idea . i am glad you have a great time !
+***Score 5: 
+Response 6: oh no ! i am so sorry to hear that .
+***Score 6: 
+Response 7: that is great ! i hope you have a good time .
+***Score 7: 
+Response 8: that is a good idea !
+***Score 8: 
+
+************* Sample 42 (real index: 2214)
+************* Emotion: embarrassed
+User: so i suck hard at bowling , but tonight i tried to be pro and putting spin on the ball . i ended up just throwing it down the lane instead .
+Bot: ha ha ! i have done that , too . so embarrassing .
+User: yeah , my face was bright red when the ball almost went into the other lane ! thankfully there was somebody that sucked even worse than me in my
+party .
+
+Response 0: that is good . i hope you were able to get it back .
+***Score 0: 
+Response 1: i am glad you did not get hurt .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope she gets better .
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you find it !
+***Score 3: 
+Response 4: i 'm sorry that happened to you , i 'm sure it was a accident . i 'm sorry that happened to you .
+***Score 4: 
+Response 5: i am sure you will not be able to find a new home .
+***Score 5: 
+Response 6: i am sure you will be fine !
+***Score 6: 
+Response 7: i am sorry to hear that .
+***Score 7: 
+Response 8: that is the worst . i hope you were able to fix it .
+***Score 8: 
+
+************* Sample 43 (real index: 3849)
+************* Emotion: annoyed
+User: last night a fly got into the bedroom and would n't stop trying to land on my face
+
+Response 0: what happened ?
+***Score 0: 
+Response 1: that is a shame . i hope you have a great time !
+***Score 1: 
+Response 2: i am sorry to hear that . what happened ?
+***Score 2: 
+Response 3: that is terrible . i hate when that happens .
+***Score 3: 
+Response 4: oh wow , that is pretty gross ! did you have a baby ?
+***Score 4: 
+Response 5: oh no ! i would have been terrified !
+***Score 5: 
+Response 6: oh no ! that must have been disgusting
+***Score 6: 
+Response 7: i am glad you are okay .
+***Score 7: 
+Response 8: that is so scary . i hope you did n't get hurt .
+***Score 8: 
+
+************* Sample 44 (real index: 433)
+************* Emotion: joyful
+User: i am just so happy it is finally friday !
+
+Response 0: that is great ! what are you going on ?
+***Score 0: 
+Response 1: what 's happening next week ?
+***Score 1: 
+Response 2: where are you going ?
+***Score 2: 
+Response 3: that is great ! i am happy for you !
+***Score 3: 
+Response 4: that is great ! what are you going to do ?
+***Score 4: 
+Response 5: that is awesome ! what is your plans ?
+***Score 5: 
+Response 6: that is awesome . what are you going to ?  ?
+***Score 6: 
+Response 7: i am happy for you !
+***Score 7: 
+Response 8: that is great ! what are you going to do ?
+***Score 8: 
+
+************* Sample 45 (real index: 2566)
+************* Emotion: disappointed
+User: i was turned down for a job i really thought i would be a good fit at .
+Bot: did they give you any reason for not giving you the job ?
+User: someone else interviewed who had much more experience than i did .
+
+Response 0: that is great ! i am sure you will do great !
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you were able to do that .
+***Score 1: 
+Response 2: that is good . i am glad you are okay .
+***Score 2: 
+Response 3: i hope you get it !
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you are able to do that .
+***Score 4: 
+Response 5: i think that would be a good feeling .
+***Score 5: 
+Response 6: that is a good job !
+***Score 6: 
+Response 7: i am sure you will find a job that you have a job that you have a job that you have a job that you have a job .
+***Score 7: 
+Response 8: oh no ! i am sorry to hear that . i hope you are okay .
+***Score 8: 
+
+************* Sample 46 (real index: 3327)
+************* Emotion: annoyed
+User: ugh ... my boss made me stay late yesterday , so i had to work overtime , but i did not even get paid for it !
+Bot: that does not seem fair . how are they getting around not paying you for it ?
+User: i am technically salaried , so i do not get paid overtime . it is still really irritating .
+
+Response 0: i do not know what it is .
+***Score 0: 
+Response 1: i am sure it will work out for you .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope it works out for you .
+***Score 2: 
+Response 3: that is good . i hope you do not want to do that .
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you get better soon .
+***Score 4: 
+Response 5: that 's annoying , but i would be furious if i were you at least asked ?
+***Score 5: 
+Response 6: that is good . i am sure you will do fine .
+***Score 6: 
+Response 7: i am sorry to hear that . i am sure you will be fine .
+***Score 7: 
+Response 8: that is awesome ! what kind of car did you get ?
+***Score 8: 
+
+************* Sample 47 (real index: 1083)
+************* Emotion: disgusted
+User: i was on a road trip last week and had to stop a gas station to use the restroom . it looked like they had never cleaned the bathroom , ever !
+Bot: ewww ! that is just super gross dude !
+User: i know ! the worst part is that i have irritable bowel syndrome , and i made the bathroom about twice as bad as it was initially !
+
+Response 0: that is terrible . i hope it gets better soon .
+***Score 0: 
+Response 1: i 'm glad you were n't hurt ! i 'm so glad you got a good vacay and you 're able to get some sleep !
+***Score 1: 
+Response 2: oh no ! that is terrible ! did you have to deal with it ?
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you find it !
+***Score 3: 
+Response 4: that is so gross . i hope it was not serious .
+***Score 4: 
+Response 5: i would be too ! i would have been so mad !
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you find it .
+***Score 6: 
+Response 7: "wow , that is terrible . i hope you were able to do that ! "
+***Score 7: 
+Response 8: i am sorry you had to deal with that .
+***Score 8: 
+
+************* Sample 48 (real index: 4234)
+************* Emotion: anticipating
+User: my daughter and her family are coming this thanksgiving . i am already preparing for their visit .
+Bot: oh that is exciting ! are you nervous at all ?
+User: not too much , just really exciting . i am planning everything even though it is months away , even the menu .
+
+Response 0: i am sure you will be fine .
+***Score 0: 
+Response 1: that sounds like a lot of fun !
+***Score 1: 
+Response 2: that is great ! i hope you have a great time !
+***Score 2: 
+Response 3: wow , that 's a huge step ! i hope she does n't get to spend a good time with her !
+***Score 3: 
+Response 4: i think that is a very scary situation . i have always wanted to do that .
+***Score 4: 
+Response 5: that sounds like a lot of fun . i hope you have a great time !
+***Score 5: 
+Response 6: i am sure you will have a great time !
+***Score 6: 
+Response 7: i am so sorry to hear that . i hope everything goes well for you !
+***Score 7: 
+Response 8: she is a good mom ?
+***Score 8: 
+
+************* Sample 49 (real index: 4608)
+************* Emotion: sad
+User: the little kitten i rescued last friday passed away .
+
+Response 0: oh no ! i am so sorry to hear that .
+***Score 0: 
+Response 1: i am so sorry to hear that .
+***Score 1: 
+Response 2: i am so sorry to hear that .
+***Score 2: 
+Response 3: he is probably a little dog .
+***Score 3: 
+Response 4: oh no ! i am so sorry to hear that . i hope you are okay .
+***Score 4: 
+Response 5: i am so sorry to hear that . i hope you have a great time .
+***Score 5: 
+Response 6: oh , that 's awful ! i hope it was n't something urgent you had a pet , and it hurts .
+***Score 6: 
+Response 7: oh , so cute ! i am sure you are so proud of her !
+***Score 7: 
+Response 8: i am so sorry to hear that . what happened ?
+***Score 8: 
+
+************* Sample 50 (real index: 4912)
+************* Emotion: sad
+User: my goldfish died .
+Bot: im sorry to hear that , how long did you have him ?
+User: for 4 years . i am bummed .
+
+Response 0: i am so sorry to hear that .
+***Score 0: 
+Response 1: oh no ! i 'm sorry to hear that .
+***Score 1: 
+Response 2: i am so sorry to hear that . i am so sorry to hear that .
+***Score 2: 
+Response 3: i am so sorry to hear that . i hope you are able to do it !
+***Score 3: 
+Response 4: i am so sorry to hear that . i hope you are okay now .
+***Score 4: 
+Response 5: oh no ! i am so sorry . i am sure you will be able to find a good one .
+***Score 5: 
+Response 6: i am so sorry to hear that . i hope you feel better now .
+***Score 6: 
+Response 7: sorry to hear that . i hope you will get better soon .
+***Score 7: 
+Response 8: i am sorry to hear that . that is so sad .
+***Score 8: 
+
+************* Sample 51 (real index: 1099)
+************* Emotion: lonely
+User: i have a disease called lupus . because i am so sick from this it causes me to lose alot of friends . i am not able to go out and hand out like
+i use to because i am just to sick to get out . it makes me lonely .
+Bot: that is really sad . is there a cure for lupus ?
+User: no unfortunately there is not . you can sometimes go into remission with really powerful drugs but that is not guaranteed
+
+Response 0: i am sure you will be able to do that .
+***Score 0: 
+Response 1: i do n't think the people is sad .
+***Score 1: 
+Response 2: i am sorry to hear that . i am sure you will be fine .
+***Score 2: 
+Response 3: i am sure you will be fine .
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you can find someone else .
+***Score 4: 
+Response 5: i am sorry to hear that . i hope you can find a better place now .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you are okay .
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you are not .
+***Score 7: 
+Response 8: i am sorry to hear that . i hope it gets better soon .
+***Score 8: 
+
+************* Sample 52 (real index: 1248)
+************* Emotion: sad
+User: my dog passed away couple months back .. i was heartbroken
+
+Response 0: i am so sorry to hear that . i hope you guys can find a new home .
+***Score 0: 
+Response 1: i am so sorry to hear that .
+***Score 1: 
+Response 2: i am so sorry to hear that . what happened ?
+***Score 2: 
+Response 3: oh no ! i 'm so sorry to hear that . i hope she is okay .
+***Score 3: 
+Response 4: i am so sorry to hear that .
+***Score 4: 
+Response 5: i am so sorry to hear that .
+***Score 5: 
+Response 6: oh no ! i am so sorry . i know that is hard .
+***Score 6: 
+Response 7: i am so sorry to hear that . i am so sorry to hear that .
+***Score 7: 
+Response 8: im sorry to hear that . i hope he gets better soon .
+***Score 8: 
+
+************* Sample 53 (real index: 2416)
+************* Emotion: confident
+User: i have got back in to running this week , i missed it ! it is a great stress reliever !
+
+Response 0: that is great ! i hope you do not get too !
+***Score 0: 
+Response 1: wow , that 's a long time . i hope it turns out well for you
+***Score 1: 
+Response 2: that is awesome . i am happy for you !
+***Score 2: 
+Response 3: that is great ! i am sure you will be fine .
+***Score 3: 
+Response 4: that is great ! i am glad to hear that !
+***Score 4: 
+Response 5: thats great ! i hope you are a good parent !
+***Score 5: 
+Response 6: what happened ?
+***Score 6: 
+Response 7: i am glad you are going through that !
+***Score 7: 
+Response 8: that is great ! i am sure you will do great !
+***Score 8: 
+
+************* Sample 54 (real index: 1409)
+************* Emotion: hopeful
+User: the economy has been doing well . the future looks bright .
+Bot: i agree ! things look really good going forward .
+User: hopefully prosperity will carry over into the next few generations .
+
+Response 0: i am sure you will be fine .
+***Score 0: 
+Response 1: that is great . i am sure it will be worth it .
+***Score 1: 
+Response 2: that is great . i am sure you will do great !
+***Score 2: 
+Response 3: wow , that sounds fun ! i have never been there . i hope you are a good friend .
+***Score 3: 
+Response 4: that is very true . i am sure you will do great .
+***Score 4: 
+Response 5: i do not think that is a good thing to do . i do not know the time of the time .
+***Score 5: 
+Response 6: oh , that 's a tough position , but you will be a great job .
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: that is great ! i hope you have a great time !
+***Score 8: 
+
+************* Sample 55 (real index: 92)
+************* Emotion: confident
+User: i have a hard time having confidence in myself but when i got married and i had my hair and makeup done i felt like i was beautiful ! i had so
+much confidence in myself that day and it was great !
+
+Response 0: that is great ! i am sure you will do great !
+***Score 0: 
+Response 1: that is great ! i hope you are doing well .
+***Score 1: 
+Response 2: that is really nice of you !
+***Score 2: 
+Response 3: i am sure they will !
+***Score 3: 
+Response 4: that is great ! i am sure you will be fine .
+***Score 4: 
+Response 5: yes she is . i have a lot of kids .
+***Score 5: 
+Response 6: that is great ! i am glad you are doing well .
+***Score 6: 
+Response 7: that is awesome ! i am happy for you !
+***Score 7: 
+Response 8: that is great ! i bet you were so excited !
+***Score 8: 
+
+************* Sample 56 (real index: 2693)
+************* Emotion: nostalgic
+User: i love the holidays . driving around looking at decoration is my favorite .
+Bot: that is a lot of fun . what is your favorite holiday to drive around in ?
+User: christmas . it makes me miss my moms decor .
+
+Response 0: i have never heard of that before . i love the .
+***Score 0: 
+Response 1: i love the feeling , i am glad you have a great time !
+***Score 1: 
+Response 2: that 's pretty reasonable considering that the past is a higher position .
+***Score 2: 
+Response 3: i am so sorry to hear that . i hope you have a good time .
+***Score 3: 
+Response 4: that sounds like a lot of fun . i am sure it will be worth it .
+***Score 4: 
+Response 5: that is great to hear . i hope you have a good relationship with her .
+***Score 5: 
+Response 6: that sounds like a lot of fun !
+***Score 6: 
+Response 7: that sounds like a lot of fun .
+***Score 7: 
+Response 8: that sounds like a lot of fun !
+***Score 8: 
+
+************* Sample 57 (real index: 2348)
+************* Emotion: guilty
+User: when i was young i hit a car on the parking lot and did not say anything '
+
+Response 0: i am sorry to hear that . what happened ?
+***Score 0: 
+Response 1: oh no ! that must have been really embarrassing .
+***Score 1: 
+Response 2: did you call the police ?
+***Score 2: 
+Response 3: i would be too .
+***Score 3: 
+Response 4: oh no ! i hope you did not get hurt !
+***Score 4: 
+Response 5: oh no ! that 's terrible . did you ever find out who did it ?
+***Score 5: 
+Response 6: oh no ! i hate when that happens . did you find out ?
+***Score 6: 
+Response 7: that is a good thing to do .
+***Score 7: 
+Response 8: what happened ?
+***Score 8: 
+
+************* Sample 58 (real index: 5147)
+************* Emotion: annoyed
+User: my sister spilled some milk on me . it set me off !
+
+Response 0: oh no , that is terrible . did you find out of it ?
+***Score 0: 
+Response 1: oh no ! that is terrible . did you find out there ?
+***Score 1: 
+Response 2: oh no ! i am sorry to hear that .
+***Score 2: 
+Response 3: oh no ! what happened ?
+***Score 3: 
+Response 4: oh no ! that is terrible . did you find out ?
+***Score 4: 
+Response 5: oh no ! i am sorry to hear that . did you get a chance ?
+***Score 5: 
+Response 6: oh no ! was it a expensive one ?
+***Score 6: 
+Response 7: oh no ! i am so sorry to hear that .
+***Score 7: 
+Response 8: that is a shame . i hope you guys can get a new one !
+***Score 8: 
+
+************* Sample 59 (real index: 1403)
+************* Emotion: sad
+User: i was recently rejected by a person that i enjoyed . you can not always get what you want .
+
+Response 0: i am sure you will find it .
+***Score 0: 
+Response 1: i am sorry to hear that . what happened ?
+***Score 1: 
+Response 2: that is great . i hope you have a good time .
+***Score 2: 
+Response 3: that is not good . maybe you can get a next time ?
+***Score 3: 
+Response 4: she is a good person . you will be fine .
+***Score 4: 
+Response 5: i 'm sorry to hear that . what happened ?
+***Score 5: 
+Response 6: i am sorry to hear that . what happened ?
+***Score 6: 
+Response 7: i am sorry to hear that .
+***Score 7: 
+Response 8: that is very nice of you . i am sure that is a lot of money .
+***Score 8: 
+
+************* Sample 60 (real index: 3660)
+************* Emotion: furious
+User: i woke up and the first thing i saw that my cat had decided to play with my shoes and ruin them !
+
+Response 0: oh no ! that must have been disgusting
+***Score 0: 
+Response 1: that sounds like a smelly situation .
+***Score 1: 
+Response 2: what did you do ?
+***Score 2: 
+Response 3: oh no ! what happened ?
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you are okay .
+***Score 4: 
+Response 5: oh my god ! i would have been terrified !
+***Score 5: 
+Response 6: i would have been there . i have had to go through that .
+***Score 6: 
+Response 7: that is a good idea . i have always wanted to go on the house .
+***Score 7: 
+Response 8: oh no ! that is terrible . did you have a cat ?
+***Score 8: 
+
+************* Sample 61 (real index: 73)
+************* Emotion: nostalgic
+User: i recently spoke to my father for the first time in years . it reminded me of my childhood and the distant past .
+Bot: cool . somethings never change . what did you reflect upon ?
+User: we spoke about our recent lives . apparently he is in the market for a new car .
+
+Response 0: oh wow . that 's really cool . i 'm really sorry . i bet you were proud of him !
+***Score 0: 
+Response 1: that is so cool . i hope you have a great time .
+***Score 1: 
+Response 2: that sounds like a lot of fun . i am glad you had a great time .
+***Score 2: 
+Response 3: that is great ! i bet you were very proud of him .
+***Score 3: 
+Response 4: i understand . that is a long time . i have felt that way to be away .
+***Score 4: 
+Response 5: i am glad you are going through that .
+***Score 5: 
+Response 6: that is great . i hope you have a great time !
+***Score 6: 
+Response 7: that is great ! i bet you were so happy for him .
+***Score 7: 
+Response 8: that is a good idea !
+***Score 8: 
+
+************* Sample 62 (real index: 3536)
+************* Emotion: disgusted
+User: i had such a bad cold last week , i was coughing up a lot of nasty stuff into cups just so that it would n't hurt when i swallowed .
+
+Response 0: i would have been mad too ! i would have been so hungry !
+***Score 0: 
+Response 1: oh no ! i hope you are ok !
+***Score 1: 
+Response 2: oh no ! what happened ?
+***Score 2: 
+Response 3: i would be too . i am sorry to hear that .
+***Score 3: 
+Response 4: i am sorry to hear that . what happened ?
+***Score 4: 
+Response 5: oh no ! i hate when that happens . did you complain ?
+***Score 5: 
+Response 6: oh no ! i hope you were able to find out of the right ?
+***Score 6: 
+Response 7: oh no ! i hate when that happens
+***Score 7: 
+Response 8: oh no ! i am sorry to hear that . what did you do ?
+***Score 8: 
+
+************* Sample 63 (real index: 1455)
+************* Emotion: anticipating
+User: i am so excited about an upcoming move and life change -- it is a move to a verrrry different state , but should be interesting !
+
+Response 0: i am sure you will be a great time to get a new one .
+***Score 0: 
+Response 1: that is awesome . i am sure you will do great .
+***Score 1: 
+Response 2: that is great ! i hope everything goes well for you !
+***Score 2: 
+Response 3: i am sure you will have a great time !
+***Score 3: 
+Response 4: oh , well , that is a lot of places are always good .
+***Score 4: 
+Response 5: i am sure you will be fine .
+***Score 5: 
+Response 6: i agree . i have had to go through that . i hope you find someone to help you .
+***Score 6: 
+Response 7: that is great ! i hope you have a great time !
+***Score 7: 
+Response 8: i am sure you will be fine .
+***Score 8: 
+
+************* Sample 64 (real index: 2291)
+************* Emotion: confident
+User: so i asked out a girl in my class and she said yes . was a big morale boost .
+
+Response 0: that is great ! what did you do ?
+***Score 0: 
+Response 1: "wow , that is pretty cool . what did you do ? "
+***Score 1: 
+Response 2: that is awesome . i am sure you will do great !
+***Score 2: 
+Response 3: that is good to hear . how long have you been married ?
+***Score 3: 
+Response 4: that is so nice of you . how did you do ?
+***Score 4: 
+Response 5: that is great ! i am glad you are going through that .
+***Score 5: 
+Response 6: that is great ! i am glad you are okay .
+***Score 6: 
+Response 7: that 's not good . did you get a good grade ?
+***Score 7: 
+Response 8: im sorry to hear that . i am so sorry to hear that .
+***Score 8: 
+
+************* Sample 65 (real index: 3852)
+************* Emotion: disgusted
+User: i left my dog alone in the house when i went to get the mail . while i was gone she got in the cat box and ate the cat poop , super gross .
+Bot: i would have hated to clean that up . i wonder why they do that ?
+User: there was nothing to clean .... she definitely swallowed it . i stuck her outside cause i can not even think about dealing with her licking
+anything right now . gives me the hebbie jibbes thinking about it .
+
+Response 0: that is so gross . i hope you were able to clean it up .
+***Score 0: 
+Response 1: "wow , that is so gross . i am sorry to hear that . "
+***Score 1: 
+Response 2: i am sure she will be fine .
+***Score 2: 
+Response 3: that is terrible .
+***Score 3: 
+Response 4: yeah , you 're obviously your fault . i 'm sure you can put a taste a bunch of food .
+***Score 4: 
+Response 5: i would be too . i would have been a little dog .
+***Score 5: 
+Response 6: good luck !
+***Score 6: 
+Response 7: that is so gross . i hope you did not clean it up .
+***Score 7: 
+Response 8: oh no ! that is terrible ! i hope you have a good time !
+***Score 8: 
+
+************* Sample 66 (real index: 3948)
+************* Emotion: faithful
+User: an old girlfriend contacted me looking for a one night stand , i had to decline .
+Bot: oh man ! i hate one night stands ! !
+User: hah , they can be fun . though my partner would not have appreciated it !
+
+Response 0: that is great ! i bet you were so proud of her .
+***Score 0: 
+Response 1: that is a good idea !
+***Score 1: 
+Response 2: i have to agree with that !
+***Score 2: 
+Response 3: that is really nice of you .
+***Score 3: 
+Response 4: that is very nice of you . i am sure it will be worth it !
+***Score 4: 
+Response 5: where did you move ?
+***Score 5: 
+Response 6: i am so sorry to hear that . i hope you can find a new one !
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: that is good to hear . i hope you have a good time .
+***Score 8: 
+
+************* Sample 67 (real index: 3092)
+************* Emotion: embarrassed
+User: i burned my hair with my hair drier i am so embarrased to go out in public
+Bot: i am sorry to hear that , my wife has done the same thing . she wore a hat for almost a month when she left the house .
+User: yeah it is the worst , i loook so weird with my hair like this it is so embarassing
+
+Response 0: that is so funny . i am sure you will do fine .
+***Score 0: 
+Response 1: i am sure you will have a great time .
+***Score 1: 
+Response 2: oh no ! i would be so scared .
+***Score 2: 
+Response 3: i am so sorry to hear that . i hope you find it .
+***Score 3: 
+Response 4: that must 've been embarrassing . i hope you did not get hurt .
+***Score 4: 
+Response 5: well , i 'm sure it was a good lesson , but at least you did not want to use it as a bullet .
+***Score 5: 
+Response 6: i agree . i would be able to find out who it is .
+***Score 6: 
+Response 7: i would be too ! i would have been so mad !
+***Score 7: 
+Response 8: that is a good idea . i am sure you will do fine !
+***Score 8: 
+
+************* Sample 68 (real index: 2558)
+************* Emotion: impressed
+User: i am a youth leader , and just the other day a teen from the group was asked to speak at a local church .
+Bot: oh that is awesome ! what was the teen asked to speak about ? are they nervous ?
+User: he was nervous , he has to prepare an original message . he did really good , and he really showed and understanding of the bible .
+
+Response 0: i am sorry to hear that . i hope he gets better soon !
+***Score 0: 
+Response 1: that is a good idea !
+***Score 1: 
+Response 2: why ?
+***Score 2: 
+Response 3: that is really cool , i am glad you are doing well .
+***Score 3: 
+Response 4: i would be so mad ! i would be so mad ! what was the occasion ?
+***Score 4: 
+Response 5: i am sure you will be fine !
+***Score 5: 
+Response 6: oh , i see . i hope it 's not too bad .
+***Score 6: 
+Response 7: that is great . i hope you have a good time !
+***Score 7: 
+Response 8: that is so cool . i hope he was able to be able to help .
+***Score 8: 
+
+************* Sample 69 (real index: 1408)
+************* Emotion: hopeful
+User: the economy has been doing well . the future looks bright .
+
+Response 0: i am sure you will be fine .
+***Score 0: 
+Response 1: i am sure you will find a new job .
+***Score 1: 
+Response 2: that is good . i hope you do well .
+***Score 2: 
+Response 3: that is great ! i hope you get it !
+***Score 3: 
+Response 4: that is great . i am sure you will do great !
+***Score 4: 
+Response 5: i am sure you will have a great time .
+***Score 5: 
+Response 6: that 's great ! what is going on ?
+***Score 6: 
+Response 7: i am happy for you .
+***Score 7: 
+Response 8: that is great ! i hope you have a great time !
+***Score 8: 
+
+************* Sample 70 (real index: 3700)
+************* Emotion: disgusted
+User: i hate when i do dishes and touch food that was on the plate1 ! so gross . makes me wan na throw up
+Bot: really ? it does not bother me at all . i wonder why you feel that way ?
+User: because the food is all soggy and mushy . i do not know , such a yucky feeling
+
+Response 0: i am sure you will find a new home .
+***Score 0: 
+Response 1: that is so gross . i hope you are able to clean it up !
+***Score 1: 
+Response 2: i agree . i have had that happen to me before too .
+***Score 2: 
+Response 3: i am sorry to hear that . i am sure you will be fine .
+***Score 3: 
+Response 4: that is disgusting ! i am sorry to hear that .
+***Score 4: 
+Response 5: i am sure that is a good way .
+***Score 5: 
+Response 6: that is the worst , i hope you do not .
+***Score 6: 
+Response 7: omg that is so gross ! i hate when people do n't know what they are saying .
+***Score 7: 
+Response 8: that is true . i hope you have a good time !
+***Score 8: 
+
+************* Sample 71 (real index: 1701)
+************* Emotion: lonely
+User: i have been married a long time , but my husband is gone quite a bit for work . i feel a bit by myself at times because of this : (
+Bot: that is no good ! you need someone to be there and take care of you .
+User: luckily , my children still live at home , but it is not quite the same . plus , it will not be too long before they are ready to move out
+
+Response 0: i am glad you are going through that .
+***Score 0: 
+Response 1: that is so true . maybe you can talk to your friend .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope you have a good time !
+***Score 2: 
+Response 3: that is great . i am sure it will be worth it .
+***Score 3: 
+Response 4: i am sure you will be fine .
+***Score 4: 
+Response 5: that is great ! i have always wanted to go to the whole day .
+***Score 5: 
+Response 6: that is a good idea . i hope everything works out for you !
+***Score 6: 
+Response 7: that is great . i am sure you will be fine .
+***Score 7: 
+Response 8: i 'm sure it will be a great experience for you .
+***Score 8: 
+
+************* Sample 72 (real index: 71)
+************* Emotion: excited
+User: i was soooo excited to take our kids to disneyland for the first time !
+Bot: ooo they are gon na love it , just its expensive , i remember when it was only $ 20 to get in .
+User: same ! i was excited because i grew up going there . my grandparents lived in tucson , and we would spend the summers with them -- the most
+exciting part being our drive to disneyland each year !
+
+Response 0: i have never had a lot of fun . i have always wanted to go to !
+***Score 0: 
+Response 1: i have never been to a few days . i hope you guys have a great time !
+***Score 1: 
+Response 2: that is awesome ! i hope you have a great time !
+***Score 2: 
+Response 3: that sounds like a lot of fun !
+***Score 3: 
+Response 4: that sounds like fun !
+***Score 4: 
+Response 5: that is a good idea . i hope you have a great time !
+***Score 5: 
+Response 6: that sounds like a lot of fun !
+***Score 6: 
+Response 7: aw , that is cool . i bet you were very happy for him .
+***Score 7: 
+Response 8: that sounds like a lot of fun ! i hope you have a great time !
+***Score 8: 
+
+************* Sample 73 (real index: 3580)
+************* Emotion: embarrassed
+User: i was playing hide n seek when i was a kid and i had to use the restroom , but then i realized after a couple minutes that there was someone
+behind the shower curtain
+Bot: i bet that was awkward
+User: yeah , nobody said anything
+
+Response 0: she is a good friend .
+***Score 0: 
+Response 1: that is a good thing to do .
+***Score 1: 
+Response 2: oh no ! did you have a good i could have done that .
+***Score 2: 
+Response 3: that is so funny . i am sure it was worth it .
+***Score 3: 
+Response 4: i am sorry to hear that .
+***Score 4: 
+Response 5: that 's not good , i guess you got some pretty bad stuff to do .
+***Score 5: 
+Response 6: i bet that was embarrassing .
+***Score 6: 
+Response 7: i am glad you were not hurt
+***Score 7: 
+Response 8: i am sorry to hear that .
+***Score 8: 
+
+************* Sample 74 (real index: 3682)
+************* Emotion: proud
+User: well , recently at physical therapy i walked the length of the treatment room with the help of a cane . i am feeling quite good about that !
+Bot: wow thats a good job
+User: considering i have been using a walker for the past two years , yes it is . thanks !
+
+Response 0: that is great . i am sure you will do great !
+***Score 0: 
+Response 1: i am glad you are going through that .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope you find someone to help you .
+***Score 2: 
+Response 3: i am sure you will be fine .
+***Score 3: 
+Response 4: i am sure you will do great !
+***Score 4: 
+Response 5: that is so sweet . i am sure you will be fine .
+***Score 5: 
+Response 6: that is great . i am sure you will do great !
+***Score 6: 
+Response 7: that is great ! i am glad to hear that !
+***Score 7: 
+Response 8: well , i guess you should try to get some private time
+***Score 8: 
+
+************* Sample 75 (real index: 902)
+************* Emotion: ashamed
+User: robby got me flowers today .
+
+Response 0: oh no ! what happened ?
+***Score 0: 
+Response 1: i have been there . i have been there before .
+***Score 1: 
+Response 2: that is very nice of them . i am sure it was .
+***Score 2: 
+Response 3: oh wow ! i would have been so scared !
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you have a great time !
+***Score 4: 
+Response 5: what happened ?
+***Score 5: 
+Response 6: what did you do ?
+***Score 6: 
+Response 7: really ? why is that ?
+***Score 7: 
+Response 8: that sounds like a lot of fun !
+***Score 8: 
+
+************* Sample 76 (real index: 3644)
+************* Emotion: content
+User: for me , one of life 's greatest pleasures is to be sitting on my porch with a good book and a glass of wine .
+Bot: what book do you enjoy reading ?
+User: lots of things . i like historical novels and legal dramas best . what about you ? does reading give you a sense of relaxation ?
+
+Response 0: i am glad to hear that .
+***Score 0: 
+Response 1: that sounds like a lot of fun . i am happy for you !
+***Score 1: 
+Response 2: that is a real bummer . i am glad you got some sleep .
+***Score 2: 
+Response 3: i do not think that is a lot of people in the world .
+***Score 3: 
+Response 4: that is great ! i hope you have a good time !
+***Score 4: 
+Response 5: i am sure you will enjoy it .
+***Score 5: 
+Response 6: that is terrible . i hope she is okay .
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: that sounds like a great time .  !
+***Score 8: 
+
+************* Sample 77 (real index: 3972)
+************* Emotion: sentimental
+User: recently went on a family vacation to an old spot we used to go when we were all younger . it was nice to see old stuff and talk about old times
+.
+
+Response 0: i am sorry to hear that . what happened ?
+***Score 0: 
+Response 1: oh , i 'm sorry to hear that . did you have a good time ?
+***Score 1: 
+Response 2: that must have been so exciting .
+***Score 2: 
+Response 3: that is really cool . i hope you have a good time to go through .
+***Score 3: 
+Response 4: that must have been a lot of memories .
+***Score 4: 
+Response 5: that sounds like a lot of fun !
+***Score 5: 
+Response 6: i love food !
+***Score 6: 
+Response 7: that is great . i have never been to a great feeling .
+***Score 7: 
+Response 8: that is so nice of you . i hope you have a great time .
+***Score 8: 
+
+************* Sample 78 (real index: 2613)
+************* Emotion: sad
+User: i was sad when my wife left me
+
+Response 0: oh no ! i am sorry to hear that . is she still alive ?
+***Score 0: 
+Response 1: i am sorry to hear that . what happened ?
+***Score 1: 
+Response 2: i am sorry to hear that . i hope you have a tough time .
+***Score 2: 
+Response 3: im sorry to hear that . i am sorry to hear that .
+***Score 3: 
+Response 4: that is terrible . i am sorry to hear that .
+***Score 4: 
+Response 5: oh no , i 'm so sorry to hear that .
+***Score 5: 
+Response 6: i am sorry to hear that . what happened ?
+***Score 6: 
+Response 7: i am sorry to hear that . what happened ?
+***Score 7: 
+Response 8: oh no , i am sorry to hear that .
+***Score 8: 
+
+************* Sample 79 (real index: 2436)
+************* Emotion: nostalgic
+User: i moved to a new house recently and miss my old one
+
+Response 0: i am sorry to hear that . i hope you feel better soon .
+***Score 0: 
+Response 1: that is so cute ! i have never been there .
+***Score 1: 
+Response 2: that is great ! i am so happy for you !
+***Score 2: 
+Response 3: i am sorry to hear that . how long has it been since ?
+***Score 3: 
+Response 4: that is so sweet . i am sorry to hear that .
+***Score 4: 
+Response 5: that 's great . i 'm sure it is a great time to live with time .
+***Score 5: 
+Response 6: i am sorry to hear that . how long have you been together ?
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: i am sorry to hear that . what happened ?
+***Score 8: 
+
+************* Sample 80 (real index: 478)
+************* Emotion: terrified
+User: as a kid , i was so frightened any time there was a tornado warning . not sure if it was the wizard of oz effect or what -- i just remember
+being frozen with fear .
+Bot: oh , wow ! my son was terrified of tornadoes because of that darn movie , and we do not really even get tornadoes where we live ! did you ever
+live through a tornado ?
+User: that is the thing -- no ! i mean , there were some that were kind of close -- but nothing like what so many folks have to deal with . i just
+remember wanting a basement sooooo badly -- not something that is common where i grew up !
+Bot: aw , poor little thing ! how did you overcome this ? or , are you still afraid of them ?
+User: my mom said the best thing once when i was babysitting and a tornado warning went off and i did not want my own fear to affect the little boy i
+was with -- she was on the phone and just said you have big plans for the future , right ? nothing is going to get in the way of that . for some
+reason , it worked a charm ; - )
+
+Response 0: that is so scary . i hope you are able to do it !
+***Score 0: 
+Response 1: oh man ! i 've been in a few doctors ive had been very many times before . i am scared of being alone .
+***Score 1: 
+Response 2: i have never heard of that before . i have never heard of that before .
+***Score 2: 
+Response 3: that is good . i am glad you are able to do that .
+***Score 3: 
+Response 4: i am glad you were able to find it .
+***Score 4: 
+Response 5: i am glad you are okay !
+***Score 5: 
+Response 6: i am sorry to hear that . i am sure you will be fine .
+***Score 6: 
+Response 7: i am glad you are okay . i am glad you are okay .
+***Score 7: 
+Response 8: i am glad you are okay .
+***Score 8: 
+
+************* Sample 81 (real index: 60)
+************* Emotion: surprised
+User: my friend 's baby has grown so much since the last time i had seen her !
+Bot: it is crazy how quickly kiddos grow ! even in a few weeks time ! do you see your friend and her baby often ?
+User: it had been about 8 weeks - i do not get out her way often , even though we live 30 minutes away .
+
+Response 0: that is awesome . i hope you have a great time !
+***Score 0: 
+Response 1: that is very nice of you . i am sure she will be fine !
+***Score 1: 
+Response 2: that is a good idea . i hope she gets better soon .
+***Score 2: 
+Response 3: that is great ! i hope you have a good time .
+***Score 3: 
+Response 4: that is great . i am glad you are able to help her .
+***Score 4: 
+Response 5: i am sure you will be fine !
+***Score 5: 
+Response 6: that is so sweet . i am sure she 'll be a little guys .
+***Score 6: 
+Response 7: i am sure she will be fine .
+***Score 7: 
+Response 8: that is so true , i have a few kids to get tested to grow up so fast .
+***Score 8: 
+
+************* Sample 82 (real index: 273)
+************* Emotion: caring
+User: i recently met a new person that i am very fond of . i want to give her my love and care .
+Bot: that is very special and i am so happy for you .
+User: i am very happy , too . do you have someone special in your life ?
+
+Response 0: that is great . i hope you have a good time .
+***Score 0: 
+Response 1: i 'm happy for you . i hope it stays that way !
+***Score 1: 
+Response 2: i am happy for you .
+***Score 2: 
+Response 3: that is great . i am happy for you !
+***Score 3: 
+Response 4: that is really nice of you !
+***Score 4: 
+Response 5: that is great to hear . i hope you guys can enjoy your life .
+***Score 5: 
+Response 6: that is very kind of you . i am sure that is a great feeling .
+***Score 6: 
+Response 7: that is awesome . i love the mine as well .
+***Score 7: 
+Response 8: that is great to hear . i am sure you will be fine .
+***Score 8: 
+
+************* Sample 83 (real index: 4876)
+************* Emotion: embarrassed
+User: i was talking to a british friend of mine and trying to explain why our president feels compelled to tweet
+Bot: i am sure that was an interesting conversation . what did your friend think ?
+User: they think someone needs to take his phone away
+
+Response 0: i am sorry to hear that . i hope he gets better .
+***Score 0: 
+Response 1: that is good . i am glad you are okay .
+***Score 1: 
+Response 2: yes , i 'm sure you are a good friend .
+***Score 2: 
+Response 3: i remember those times . i have never been there .
+***Score 3: 
+Response 4: i am glad you are okay . i am glad you are okay .
+***Score 4: 
+Response 5: that is terrible . i hope he gets better
+***Score 5: 
+Response 6: i am sorry to hear that . i am sorry to hear that .
+***Score 6: 
+Response 7: that sounds like a lot of fun .
+***Score 7: 
+Response 8: that is terrible . i hope you are able to talk to him about it .
+***Score 8: 
+
+************* Sample 84 (real index: 2943)
+************* Emotion: nostalgic
+User: i was listening to a throwback hits playlist and it brought back memories from the good ol days .
+
+Response 0: oh no , i do not know how you feel . i do n't have to do that .
+***Score 0: 
+Response 1: that sounds like a lot of fun !
+***Score 1: 
+Response 2: i know how you feel . i used to have a lot of memories .
+***Score 2: 
+Response 3: yeah , i have been there , i have been there before . i have had that happen before .
+***Score 3: 
+Response 4: i am sorry to hear that . what happened ?
+***Score 4: 
+Response 5: that sounds like a great time . what kind of memories ?  ?
+***Score 5: 
+Response 6: i am sure you were doing that .
+***Score 6: 
+Response 7: that sounds like fun !
+***Score 7: 
+Response 8: i am happy for you !
+***Score 8: 
+
+************* Sample 85 (real index: 799)
+************* Emotion: disappointed
+User: i was doing some freelance website work for a friend of mine and i did a lot of work for it . sadly , it did not do as well as we had expected
+it to do , even though i put my best work and most effort into it .
+
+Response 0: oh no ! i am sorry to hear that .
+***Score 0: 
+Response 1: i am sorry to hear that . what did you do ?
+***Score 1: 
+Response 2: that is great ! i love my dog .
+***Score 2: 
+Response 3: i am sorry to hear that . i am sorry to hear that . i am sorry to hear that .
+***Score 3: 
+Response 4: i am sure you will not be able to find a new job .
+***Score 4: 
+Response 5: well , you will get there .
+***Score 5: 
+Response 6: that is awesome . i hope you get a new friend .
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you were able to do that .
+***Score 7: 
+Response 8: that is true . i am sorry to hear that .
+***Score 8: 
+
+************* Sample 86 (real index: 4947)
+************* Emotion: surprised
+User: i finally went and adopted a cat last month and go way more than i expected !
+
+Response 0: oh no . what happened ?
+***Score 0: 
+Response 1: that is awesome ! how old is your cat ?
+***Score 1: 
+Response 2: that is awesome ! i bet you are very lucky !
+***Score 2: 
+Response 3: that is awesome ! what kind of cat was it ?
+***Score 3: 
+Response 4: i am so sorry to hear that . i hope you guys can get it !
+***Score 4: 
+Response 5: that is great ! i am sure you will have a great time !
+***Score 5: 
+Response 6: "wow , that is so sweet of you ! "
+***Score 6: 
+Response 7: congratulations ! that is a lot of fun !
+***Score 7: 
+Response 8: oh , that is so sweet . i have been there before .
+***Score 8: 
+
+************* Sample 87 (real index: 4434)
+************* Emotion: trusting
+User: my brother is not very good with money but i just lent him some
+
+Response 0: that 's nice of him . what did he do ?
+***Score 0: 
+Response 1: that is great ! what did he do ?
+***Score 1: 
+Response 2: oh really ? what was he doing ?
+***Score 2: 
+Response 3: that is great ! what was the person ?
+***Score 3: 
+Response 4: what kind of job is he ?
+***Score 4: 
+Response 5: that is really nice of him .
+***Score 5: 
+Response 6: that is a good thing to do .
+***Score 6: 
+Response 7: that is great that you have a friend like that .
+***Score 7: 
+Response 8: that is really nice of him .
+***Score 8: 
+
+************* Sample 88 (real index: 1437)
+************* Emotion: disappointed
+User: once i was suppose to go visit my sister and nieces who i had n't seen in forever but i ended up breaking my heal and big toe and was not able
+to go . i was so upset !
+
+Response 0: i am sorry to hear that . what happened ?
+***Score 0: 
+Response 1: i am sorry to hear that . i hope everything works out okay
+***Score 1: 
+Response 2: i am so sorry to hear that . i am so sorry to hear that .
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you are okay .
+***Score 3: 
+Response 4: oh no ! i am sorry to hear that . what happened ?
+***Score 4: 
+Response 5: oh no , i hope you are okay .
+***Score 5: 
+Response 6: that is so sad . i am glad you had a good time .
+***Score 6: 
+Response 7: oh no ! i am so sorry to hear that . i hope you find it .
+***Score 7: 
+Response 8: oh no ! i hope you feel better .
+***Score 8: 
+
+************* Sample 89 (real index: 1067)
+************* Emotion: faithful
+User: i was given a job offer at a new company . i decided to stay with my current organization out of loyalty .
+
+Response 0: good job is there a job you can do it .
+***Score 0: 
+Response 1: that is really nice of you . what kind of job was it ?
+***Score 1: 
+Response 2: that is great . i hope you have a good job !
+***Score 2: 
+Response 3: that 's really great ! i bet you 're so proud .
+***Score 3: 
+Response 4: that is great ! i hope you have a great job !
+***Score 4: 
+Response 5: that is good . i am glad you are okay .
+***Score 5: 
+Response 6: that is great . i am sure you will do great !
+***Score 6: 
+Response 7: that is great . i am glad you are able to do that .
+***Score 7: 
+Response 8: that is a good thing to do . i am sure you are a good person .
+***Score 8: 
+
+************* Sample 90 (real index: 3231)
+************* Emotion: annoyed
+User: i was trying to study for a final but my neighbors were being really loud , and i had a hard time focusing
+Bot: did you go over and ask them to turn down the volume ?
+User: no , i am shy and try to avoid confrontation as much as possible
+
+Response 0: that is so true . i am sorry to hear that .
+***Score 0: 
+Response 1: that is so annoying . i hope you are able to do that .
+***Score 1: 
+Response 2: that is good . you are a good person .
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you can get it back soon .
+***Score 3: 
+Response 4: oh no , that is so funny . i think you are a great friend .
+***Score 4: 
+Response 5: i am sure it will be fine .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope it was not too bad .
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you are okay .
+***Score 7: 
+Response 8: i would be too . i would be furious if i were you .
+***Score 8: 
+
+************* Sample 91 (real index: 1060)
+************* Emotion: jealous
+User: i suspect that my husband is fixing a lot to go to a party , i suspect he is going to see someone
+Bot: what are you going to do about it
+User: i am going to take some time and i 'll be looking at it with caution
+
+Response 0: i am sure it will be fine .
+***Score 0: 
+Response 1: i hope you guys can do something like that .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope she gets better soon .
+***Score 2: 
+Response 3: i 'm so happy that you are happy with your company .
+***Score 3: 
+Response 4: that is so true . i am sure you will be able to do that .
+***Score 4: 
+Response 5: that is great . i hope you have a good time .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope he is okay .
+***Score 6: 
+Response 7: wow , that is a good thing to do .
+***Score 7: 
+Response 8: that is very nice of you . i hope it works out for you
+***Score 8: 
+
+************* Sample 92 (real index: 112)
+************* Emotion: surprised
+User: recently , my husband came home from grocery shopping and had gifts for me for mother 's day . he had a beautiful diamond ring and other lovely
+gifts , it was very unexpected !
+
+Response 0: that is very nice of them .
+***Score 0: 
+Response 1: that is so nice of you !
+***Score 1: 
+Response 2: oh no ! i am so sorry to hear that .
+***Score 2: 
+Response 3: wow , that is so awesome !
+***Score 3: 
+Response 4: that is so sweet of you ! i have a friend like that .
+***Score 4: 
+Response 5: that is so nice . i am happy for you !
+***Score 5: 
+Response 6: that is so sweet . i have such a wonderful time to have a surprise .
+***Score 6: 
+Response 7: that is great ! i am glad you were able to help him .
+***Score 7: 
+Response 8: "wow , that is awesome ! what did you do ? "
+***Score 8: 
+
+************* Sample 93 (real index: 2510)
+************* Emotion: hopeful
+User: i know things will work out in god 's perfect timing
+Bot: yes , i agree , are you hoping for something in particular .
+User: yes i am . for everything we want for the baby to be gifted to us lol
+
+Response 0: i am sure you will be great !
+***Score 0: 
+Response 1: that is awesome . i hope you have a great time !
+***Score 1: 
+Response 2: i am glad you are going through that .
+***Score 2: 
+Response 3: i am sure you will do great !
+***Score 3: 
+Response 4: that is a good idea !
+***Score 4: 
+Response 5: that is great ! i hope you have a great time !
+***Score 5: 
+Response 6: she is a good person .
+***Score 6: 
+Response 7: i am sure you will be fine .
+***Score 7: 
+Response 8: i 'm so happy for you !
+***Score 8: 
+
+************* Sample 94 (real index: 1154)
+************* Emotion: proud
+User: i found out that i am getting a bonus for having the top rating in my district !
+
+Response 0: that is great ! what did you do ?
+***Score 0: 
+Response 1: that is great ! i hope you have a great time !
+***Score 1: 
+Response 2: that is a good attitude to have .
+***Score 2: 
+Response 3: oh no ! i hate when that happens . do you think you will get there for a chance ?
+***Score 3: 
+Response 4: that is great ! you must be very proud !
+***Score 4: 
+Response 5: that is awesome . what kind of job is it ?
+***Score 5: 
+Response 6: i would have been there . i have had that happen to me before .
+***Score 6: 
+Response 7: that is great ! how did you do ?
+***Score 7: 
+Response 8: that is awesome ! what did you do ?
+***Score 8: 
+
+************* Sample 95 (real index: 2326)
+************* Emotion: furious
+User: i almost got into a fight the other day at a store .
+
+Response 0: oh no , that is terrible . did you get it ?
+***Score 0: 
+Response 1: that is awesome ! what happened ?
+***Score 1: 
+Response 2: that is so sad . did you get it ?
+***Score 2: 
+Response 3: what happened ?
+***Score 3: 
+Response 4: oh no , that 's not fun . what did you do ?
+***Score 4: 
+Response 5: that is good . i am glad you are okay .
+***Score 5: 
+Response 6: oh no ! i am sorry to hear that . what did you do ?
+***Score 6: 
+Response 7: what did you do ?
+***Score 7: 
+Response 8: oh no ! what did you do ?
+***Score 8: 
+
+************* Sample 96 (real index: 1367)
+************* Emotion: hopeful
+User: i was anticipating a great weight loss after my first week on my diet !
+
+Response 0: that is awesome ! i hope you have a lot of weight !
+***Score 0: 
+Response 1: what kind of diet is it ?
+***Score 1: 
+Response 2: i am sorry to hear that . i hope he gets better
+***Score 2: 
+Response 3: i am sorry to hear that . i hope you find it !
+***Score 3: 
+Response 4: i 'm sorry to hear that . what kind of diet is it ?
+***Score 4: 
+Response 5: that is great ! i am sure you will do great !
+***Score 5: 
+Response 6: that is great ! i am sure you will do great !
+***Score 6: 
+Response 7: that is awesome ! i am sure you will be fine !
+***Score 7: 
+Response 8: that is a good idea !
+***Score 8: 
+
+************* Sample 97 (real index: 2060)
+************* Emotion: confident
+User: i have been exercising and taking care of myself more lately .
+
+Response 0: what is your favorite part of your favorite shows ?
+***Score 0: 
+Response 1: that is really good to hear .  you need to do it ?
+***Score 1: 
+Response 2: that is great ! i am sure you are a great time to do !
+***Score 2: 
+Response 3: i am sure you will do well .
+***Score 3: 
+Response 4: that is great to hear . i am sure you will be fine .
+***Score 4: 
+Response 5: that is great . i am sure you will do great .
+***Score 5: 
+Response 6: that is great . i am sure that is a great feeling .
+***Score 6: 
+Response 7: good luck !
+***Score 7: 
+Response 8: that is great ! i am glad to hear that !
+***Score 8: 
+
+************* Sample 98 (real index: 97)
+************* Emotion: jealous
+User: i met up with an old flame recently , did not go how i expected
+Bot: oh ya ? what happened ? ? i am intrigued
+User: well , right after she gave me a big hug , she introduced me to her new boyfriend .
+
+Response 0: that is great ! i hope you have a great time !
+***Score 0: 
+Response 1: i am sorry to hear that .  you tried to do it ?
+***Score 1: 
+Response 2: what was it ?
+***Score 2: 
+Response 3: that is very nice of him .
+***Score 3: 
+Response 4: i am sorry to hear that .
+***Score 4: 
+Response 5: i am sorry to hear that . i am glad you were able to help .
+***Score 5: 
+Response 6: that is a good choice .
+***Score 6: 
+Response 7: that is very nice of you . i am sure she will be fine .
+***Score 7: 
+Response 8: that is awesome ! i am happy for you !
+***Score 8: 
+
+************* Sample 99 (real index: 5074)
+************* Emotion: joyful
+User: when my children were born , it was a rejoicing time for me . i can not think of a time i felt more happiness .
+Bot: children are a beautiful thing for us parents . what a great memory you have of that .
+User: yes , i have two children and i feel so blessed to have them . i lucked out and got a boy and girl , both healthy , smart and wonderful .
+
+Response 0: i 'm sure you are right . that is a great father .
+***Score 0: 
+Response 1: that is great ! i am glad you are okay .
+***Score 1: 
+Response 2: i am so sorry to hear that . i hope you enjoy it .
+***Score 2: 
+Response 3: i am glad you have a great life .
+***Score 3: 
+Response 4: that is great . i am glad you are happy for you .
+***Score 4: 
+Response 5: that is great ! i hope you have a great time !
+***Score 5: 
+Response 6: i bet they are so happy for you .
+***Score 6: 
+Response 7: that is so nice of them !
+***Score 7: 
+Response 8: that is a great attitude to have . i hope you have a great time !
+***Score 8: 
+
+************* Sample 100 (real index: 2828)
+************* Emotion: surprised
+User: i got a surprise gift in the mail yesterday .
+
+Response 0: what was it ?
+***Score 0: 
+Response 1: what was it ?
+***Score 1: 
+Response 2: what did you do ?
+***Score 2: 
+Response 3: what was it ?
+***Score 3: 
+Response 4: oh wow , that 's amazing ! did you get a new one ?
+***Score 4: 
+Response 5: that is awesome ! what did you do ?
+***Score 5: 
+Response 6: what kind of things are you planning on doing ?
+***Score 6: 
+Response 7: i agree . i am sorry to hear that . i am sure you will find something new to do .
+***Score 7: 
+Response 8: that is very nice of them .
+***Score 8: 
+
+************* Sample 101 (real index: 1133)
+************* Emotion: confident
+User: i found out yesterday at work that i am one of the top performers for my district ! i figured i was doing good , i did not know i was doing *
+that * well !
+Bot: that is great .
+User: usually at the end of the day it is never anything nice when my supervisor wants to talk to me but she broke the news and i was surprised ! been
+walking on sunshine all weekend !
+
+Response 0: that is a great attitude to have . i am sure she will be a great time .
+***Score 0: 
+Response 1: that is very nice of her . i hope you have a good time .
+***Score 1: 
+Response 2: that is very nice of you .
+***Score 2: 
+Response 3: i would love to see that , i think i would be furious if i was in a better place .
+***Score 3: 
+Response 4: ugh , that is terrible . i hope you are okay .
+***Score 4: 
+Response 5: that is really nice of you !
+***Score 5: 
+Response 6: that is good . i am glad you are okay .
+***Score 6: 
+Response 7: that is really cool . i am glad you have a great job !
+***Score 7: 
+Response 8: that is so cool . i hope you were able to do that .
+***Score 8: 
+
+************* Sample 102 (real index: 3745)
+************* Emotion: surprised
+User: we went on vacation and the kids stayed home . i could not believe it when i walked in the door and the house was totally clean .
+Bot: lol ! i thought you were going to say messy ! good kids !
+User: wonders never cease to amaze me . first time for everything i guess , lol
+Bot: so true ! maybe they want something or they did something bad and are hiding it lol
+User: i totally thought the same thing . too funny ( but you might be right )
+
+Response 0: i am glad to hear that . i hope you have a good time !
+***Score 0: 
+Response 1: that is a good idea !
+***Score 1: 
+Response 2: i would be too ! i would have been so scared of it !
+***Score 2: 
+Response 3: that is so cute . i do not want to do that .
+***Score 3: 
+Response 4: was it a surprise ?
+***Score 4: 
+Response 5: wow , that is a really expensive gift . i hope you guys had a good time .
+***Score 5: 
+Response 6: that is great ! i am glad you are okay !
+***Score 6: 
+Response 7: that is a good idea . i hope you have a great time !
+***Score 7: 
+Response 8: yeah i have been there . i have had that happen before .
+***Score 8: 
+
+************* Sample 103 (real index: 3235)
+************* Emotion: sentimental
+User: i went to a bar i used to go to in college , and i was surprised to see an arcade machine i built with a dear friend of mine !
+Bot: wow thats nostalgic ! ! . it must have brought back lot of good memories
+User: yes , playing the machine we built together reminded me of all the good times we used to have .
+
+Response 0: yeah i have been there . i have n't done that before .
+***Score 0: 
+Response 1: that sounds like a lot of fun . i hope you have fun !
+***Score 1: 
+Response 2: i bet you were so happy for you .
+***Score 2: 
+Response 3: i am glad you have a great time !
+***Score 3: 
+Response 4: i know what you mean . it is a great feeling !
+***Score 4: 
+Response 5: that is so cool . i hope you were able to do it !
+***Score 5: 
+Response 6: that sounds like a lot of fun !
+***Score 6: 
+Response 7: that sounds like a lot of fun ! i bet it was a great time .
+***Score 7: 
+Response 8: i am sorry to hear that . are you ok ?
+***Score 8: 
+
+************* Sample 104 (real index: 4899)
+************* Emotion: afraid
+User: our power went off the other night . we were without it until morning !
+
+Response 0: oh no ! i am sorry to hear that . i hate when that happens .
+***Score 0: 
+Response 1: what happened ?
+***Score 1: 
+Response 2: that is scary ! did you get hurt ?
+***Score 2: 
+Response 3: oh no ! i am sorry to hear that . i hope you are okay !
+***Score 3: 
+Response 4: oh no ! what happened ?
+***Score 4: 
+Response 5: oh no ! that must have been really embarrassing .
+***Score 5: 
+Response 6: what did you do ?
+***Score 6: 
+Response 7: oh no . what happened ?
+***Score 7: 
+Response 8: oh no ! i hate when that happens !
+***Score 8: 
+
+************* Sample 105 (real index: 21)
+************* Emotion: disappointed
+User: so yeah i drove 2 hours to get to wallmart . with 299 in my wallet as advertised , and the real price of the tv was 399 usd . what a bummer
+Bot: thats horrible .
+User: yeah i had my hopes reall high and then i left empty handed , such a terrible feeling !
+
+Response 0: oh no ! i am so sorry to hear that .
+***Score 0: 
+Response 1: i am so sorry to hear that .
+***Score 1: 
+Response 2: oh wow , i hope you can continue to make it up .
+***Score 2: 
+Response 3: that is a good thing to hear . i do not know if you are a good person .
+***Score 3: 
+Response 4: i am sorry to hear that .
+***Score 4: 
+Response 5: that is great . i am glad you are doing well .
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you were able to do it !
+***Score 6: 
+Response 7: that is so sad . i hope you have a good time !
+***Score 7: 
+Response 8: i am sorry to hear that .
+***Score 8: 
+
+************* Sample 106 (real index: 3212)
+************* Emotion: lonely
+User: sometimes i enjoy being alone , but not on a long trip that takes me far away from home .
+
+Response 0: that is really bad . i have always wanted to see people around here .
+***Score 0: 
+Response 1: i am sorry to hear that . what are you going to do ?
+***Score 1: 
+Response 2: she is a good time ?
+***Score 2: 
+Response 3: why is that ?
+***Score 3: 
+Response 4: i am sorry to hear that . i am sorry to hear that .
+***Score 4: 
+Response 5: that sounds like a lot of fun !
+***Score 5: 
+Response 6: i am sorry to hear that . are you alone ?
+***Score 6: 
+Response 7: i am sorry to hear that . i hope you feel better soon .
+***Score 7: 
+Response 8: i am sorry to hear that . what happened ?
+***Score 8: 
+
+************* Sample 107 (real index: 1598)
+************* Emotion: sentimental
+User: i love the adventure and perspective of living away from my home state -- but that does not mean i do not miss elements of it while i am gone !
+Bot: same here . i actually moved to the other side of the usa , and i do miss my home
+User: are you able to visit often ? that helps -- but it is funny how things never feel * exactly * the same , you know ?
+
+Response 0: i am sure you will be a great time .
+***Score 0: 
+Response 1: i am sure you will be fine .
+***Score 1: 
+Response 2: i am glad you are able to enjoy your life .
+***Score 2: 
+Response 3: i know exactly what you mean . i do n't think anyone would like to do that .
+***Score 3: 
+Response 4: yeah , i know how you feel about it ?
+***Score 4: 
+Response 5: i am sure it will be worth it .
+***Score 5: 
+Response 6: that is so true . i am so sorry to hear that .
+***Score 6: 
+Response 7: i am so sorry to hear that . i am sure you will be fine .
+***Score 7: 
+Response 8: that is great . i hope you have a great time !
+***Score 8: 
+
+************* Sample 108 (real index: 4625)
+************* Emotion: annoyed
+User: working from home can be difficult when people will not leave me alone to get work done .
+Bot: yeah , you need peace and quiet to be able to work .
+User: i love my kid but she is non stop with trying to show me the latest my little pony video , gon na pull my hair out .
+
+Response 0: i do not know that is a real thing to deal with .
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you guys can enjoy your time .
+***Score 1: 
+Response 2: that is so annoying . i hope you have a good time !
+***Score 2: 
+Response 3: that is so true . i hope you have a good time .
+***Score 3: 
+Response 4: that is a good idea .
+***Score 4: 
+Response 5: well , that 's a bummer . i 'm sorry you had to deal with that . maybe you should try to make a different decision .
+***Score 5: 
+Response 6: i am sorry to hear that . i am sure you will be fine .
+***Score 6: 
+Response 7: that is good . i am glad you are okay .
+***Score 7: 
+Response 8: i am so happy for you . i am sure you will be fine .
+***Score 8: 
+
+************* Sample 109 (real index: 4191)
+************* Emotion: proud
+User: i just learned my first trick in ice skating , a triple spin twirl kick front flip .
+Bot: wow that sounds challenging ! you must have some serious strength to pull that off !
+User: i never thought i would have the balance to perform such a feat . i think i can no qualify for the olympics .
+
+Response 0: i am sure you will be fine .
+***Score 0: 
+Response 1: well that is really impressive .
+***Score 1: 
+Response 2: that is great ! i hope you have a great time !
+***Score 2: 
+Response 3: that is great ! i am sure you will do great !
+***Score 3: 
+Response 4: that is so true . i hope you have a great time !
+***Score 4: 
+Response 5: i am sure you will be fine !
+***Score 5: 
+Response 6: i bet you were so proud of you !
+***Score 6: 
+Response 7: i am sure you will do great !
+***Score 7: 
+Response 8: that is amazing ! i bet you were proud !
+***Score 8: 
+
+************* Sample 110 (real index: 3999)
+************* Emotion: jealous
+User: i have a friend with loaded parents . she does not work but has anything she wants anytime she wants .
+
+Response 0: that is so sweet . i have been there before . i have been there before .
+***Score 0: 
+Response 1: "that is good , i am sorry to hear that . do you want to do it ? "
+***Score 1: 
+Response 2: that is a good idea . i am sure she will not be able to help her out .
+***Score 2: 
+Response 3: that is cool . i bet she loves you !
+***Score 3: 
+Response 4: that is great . i 'm sure she will be happy for you .
+***Score 4: 
+Response 5: that is good to hear . what happened ?
+***Score 5: 
+Response 6: that is very nice of you . i have a friend like that .
+***Score 6: 
+Response 7: that is really nice of you !
+***Score 7: 
+Response 8: that is good . you must be very proud of your friend .
+***Score 8: 
+
+************* Sample 111 (real index: 633)
+************* Emotion: guilty
+User: thank you
+Bot: you are welcome , but for what ?
+User: nothing
+
+Response 0: awesome ! where are you going ?
+***Score 0: 
+Response 1: that is great , i am sure it will be worth it !
+***Score 1: 
+Response 2: i am so sorry to hear that .
+***Score 2: 
+Response 3: i am sure you will be fine .
+***Score 3: 
+Response 4: i agree with you .
+***Score 4: 
+Response 5: that is good . i hope you have a good time .
+***Score 5: 
+Response 6: i 'm sorry , what 's happening next week ?
+***Score 6: 
+Response 7: that is a good idea .
+***Score 7: 
+Response 8: i have n't heard of it .
+***Score 8: 
+
+************* Sample 112 (real index: 5198)
+************* Emotion: devastated
+User: i was truly surprised when i notice my tire got hit by a rock , thought i would n't make it to the tire place in time
+Bot: did it go flat ?
+User: it did not , got it replaced when i dropped it off , pretty lucky
+
+Response 0: that is so awesome ! i am so sorry ! i have had that happen .
+***Score 0: 
+Response 1: that is awesome ! i am glad you were able to find it !
+***Score 1: 
+Response 2: wow , that 's so funny ! i would have been furious !
+***Score 2: 
+Response 3: that is really nice of you !
+***Score 3: 
+Response 4: that is good . i am glad you were able to do that .
+***Score 4: 
+Response 5: that is awesome ! i bet it was a lot of money .
+***Score 5: 
+Response 6: i am sorry to hear that . did you call the police ?
+***Score 6: 
+Response 7: that is good . i am glad you were able to get the money back .
+***Score 7: 
+Response 8: i am sorry to hear that . what happened ?
+***Score 8: 
+
+************* Sample 113 (real index: 2777)
+************* Emotion: sentimental
+User: i recently went down memory lane was looked at all my high school yearbooks .
+Bot: oh yeah ? do you still look awesome like you did back then ?
+User: well .... maybe not as awesome . lol but i do try to keep in shape . it was good seeing all my old friends .
+Bot: yeah i bet . do you still keep in touch with any of them ?
+User: i do a lot of them but some have moved away and we just lost touch .
+Bot: yeah . maybe you should hit them up on fb for a reunion ?
+User: that is a good idea !
+
+Response 0: i am sure that is a great feeling .
+***Score 0: 
+Response 1: that is great . i hope you have a great time .
+***Score 1: 
+Response 2: that is a good thing to do .
+***Score 2: 
+Response 3: i am sorry to hear that . i am sure you will be fine .
+***Score 3: 
+Response 4: that is so true . i hope you have a great time !
+***Score 4: 
+Response 5: i know right ? that 's a great accomplishment !
+***Score 5: 
+Response 6: i am sorry to hear that . i hope you find a new one .
+***Score 6: 
+Response 7: that is the worst , i am sure you are a good friend .
+***Score 7: 
+Response 8: i am glad you are able to keep it up .
+***Score 8: 
+
+************* Sample 114 (real index: 4563)
+************* Emotion: prepared
+User: i am going camping this weekend . i got my tent , sleeping bag and tons of food . i think i have everything i need !
+
+Response 0: that sounds like a lot of fun . do you have camping ?
+***Score 0: 
+Response 1: that sounds like a lot of fun . it is always nice to be prepared .
+***Score 1: 
+Response 2: that is great ! i am sure you will find a new home !
+***Score 2: 
+Response 3: what kind of food is it ?
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you find him .
+***Score 4: 
+Response 5: i am glad you are okay !
+***Score 5: 
+Response 6: i love the thrill of it too ! i love going to go on vacation .
+***Score 6: 
+Response 7: i bet that feeling ! i have always heard of a good thing to do !
+***Score 7: 
+Response 8: that sounds like a great time !
+***Score 8: 
+
+************* Sample 115 (real index: 4502)
+************* Emotion: guilty
+User: sometimes i wake up at night and eat junk food .
+Bot: i have never done that but i know plenty of people who do that . its normal every know and again but do not turn it into a daily habit !
+User: yeah but i feel bad afterwards . i like to make peanut butter and nutella sandwiches with chocolate chip cookies .
+
+Response 0: i am sure you will find a better place now .
+***Score 0: 
+Response 1: well that is not good . i have never heard of that about it . i am sure you are a good parent !
+***Score 1: 
+Response 2: oh no ! i am sure you will not be able to do that .
+***Score 2: 
+Response 3: "yes , i do not blame you . i am sure it will . "
+***Score 3: 
+Response 4: i am sorry to hear that . i am sure you will be fine .
+***Score 4: 
+Response 5: that is a good idea . i am sure you will do great !
+***Score 5: 
+Response 6: wow , that 's really expensive to me , but i 'd probably want to get rid of the other things .
+***Score 6: 
+Response 7: i am sure it was not a good idea .
+***Score 7: 
+Response 8: congratulations ! that is awesome ! how old is he ?
+***Score 8: 
+
+************* Sample 116 (real index: 1050)
+************* Emotion: anticipating
+User: i am waiting to take a big test coming up ! i feel prepared , yet i am anxious .
+Bot: good luck ! what is it on ?
+User: thank you ! it is my final exam for a summer database applications/design class that i am taking .
+
+Response 0: i hope you do well !
+***Score 0: 
+Response 1: well good luck !
+***Score 1: 
+Response 2: i am sure you will be fine .
+***Score 2: 
+Response 3: i am sure you will do great !
+***Score 3: 
+Response 4: i am sure you will do great !
+***Score 4: 
+Response 5: i am sure you will do great !
+***Score 5: 
+Response 6: i am sure you will do well .
+***Score 6: 
+Response 7: oh wow , i 'm sure you 'll do fine .
+***Score 7: 
+Response 8: i think you are an animal person ! i think you are doing pretty confident in the class .
+***Score 8: 
+
+************* Sample 117 (real index: 2227)
+************* Emotion: anticipating
+User: i think i will be very busy monday night playing my new game .
+
+Response 0: that sounds like a lot of fun . i hope you have a great time !
+***Score 0: 
+Response 1: i am sure he will be fine .
+***Score 1: 
+Response 2: i am sure you will be fine !
+***Score 2: 
+Response 3: i am sure you will be fine .
+***Score 3: 
+Response 4: i 'm not sure what game will you play ?
+***Score 4: 
+Response 5: that is awesome ! what game is it ?
+***Score 5: 
+Response 6: that sounds like a lot of fun !
+***Score 6: 
+Response 7: that is cool . i hope you have a good time !
+***Score 7: 
+Response 8: that sounds like fun !
+***Score 8: 
+
+************* Sample 118 (real index: 3075)
+************* Emotion: confident
+User: i love teaching people how to skydive - it is so much fun helping them to learn .
+
+Response 0: that is great ! i hope you have a great time !
+***Score 0: 
+Response 1: that is great ! i am sure they are going to be a great parent !
+***Score 1: 
+Response 2: that is great . i am sure you will have a great time .
+***Score 2: 
+Response 3: that is so cool . i do not like to be able to do that .
+***Score 3: 
+Response 4: that is great ! i bet you are very proud !
+***Score 4: 
+Response 5: that is pretty cool . i hope you do not get you .
+***Score 5: 
+Response 6: that is great . i am glad you are doing well .  is there for a lot of money .
+***Score 6: 
+Response 7: he is a good kid !
+***Score 7: 
+Response 8: i love it sometimes . what 's been doing with it ?
+***Score 8: 
+
+************* Sample 119 (real index: 2994)
+************* Emotion: anxious
+User: school starts a week from tomorrow and i am getting fairly nervous for it !
+Bot: how come ? it will probably be an exciting adventure for you to start
+User: oh yes , i really like school and my classmates and stuff ! i guess just because summer is coming to an end ?
+
+Response 0: i hope you get a better place !
+***Score 0: 
+Response 1: that sounds like fun !
+***Score 1: 
+Response 2: i am sure you will do great !
+***Score 2: 
+Response 3: i am sure you will be fine !
+***Score 3: 
+Response 4: i do not think that is a lot of people in the world .
+***Score 4: 
+Response 5: why did he do that ?
+***Score 5: 
+Response 6: i am sure you will be fine .
+***Score 6: 
+Response 7: i am sure you will have a great time .
+***Score 7: 
+Response 8: i am sure it will be fun !
+***Score 8: 
+
+************* Sample 120 (real index: 5114)
+************* Emotion: grateful
+User: my father passed away 2 years ago , but my mother lives in my neighborhood now . i am so thankful she lives close by and still here with us .
+she 's such a wonderful mother .
+Bot: i am glad that she is living close to you . that must make you feel special . my mom is dead so i understand how you feel .
+User: i am sorry to hear that , i know it is so hard to lose a parent . i think we take them for granted when we are younger , but i am blessed she 's
+still here .
+
+Response 0: that 's so sweet ! i hope she gets a better pain .
+***Score 0: 
+Response 1: i am glad you have a great time together !
+***Score 1: 
+Response 2: that is very nice of her . i am sure she will be fine .
+***Score 2: 
+Response 3: i am so sorry to hear that . i hope she gets better soon .
+***Score 3: 
+Response 4: that is great ! i have never had a good time to have a good time .
+***Score 4: 
+Response 5: that is a great thing to have .
+***Score 5: 
+Response 6: that is very nice of you . i hope you have a lot of fun .
+***Score 6: 
+Response 7: i am so sorry to hear that . i am sure you will find someone who you can .
+***Score 7: 
+Response 8: i am so sorry to hear that . i hope you are able to help you out .
+***Score 8: 
+
+************* Sample 121 (real index: 4699)
+************* Emotion: ashamed
+User: i got drunk and embarrassed myself in front of my friends
+Bot: it will be okay . we sometimes do things that we regret .
+User: i fell down , and apparently said some embarrassing things .
+
+Response 0: i am sorry to hear that .
+***Score 0: 
+Response 1: oh no ! i am so sorry . i have been there before .
+***Score 1: 
+Response 2: oh no ! i am so sorry to hear that .
+***Score 2: 
+Response 3: i am sorry to hear that .
+***Score 3: 
+Response 4: i am glad you are okay .
+***Score 4: 
+Response 5: i am sorry to hear that . i hope you were able to talk to him about it .
+***Score 5: 
+Response 6: i hope you were not hurt .
+***Score 6: 
+Response 7: i am sure you will not be okay .
+***Score 7: 
+Response 8: congratulations ! that is a good feeling . i am sure she will be fine .
+***Score 8: 
+
+************* Sample 122 (real index: 759)
+************* Emotion: anticipating
+User: i am looking forward to my niece arriving from washington . i have n't seen her in 2 years !
+
+Response 0: that is awesome ! how old is she ?
+***Score 0: 
+Response 1: that is awesome ! i am happy for you . i hope you have a great time !
+***Score 1: 
+Response 2: that is so exciting ! is she excited ?
+***Score 2: 
+Response 3: that is awesome . are you going to get her ?
+***Score 3: 
+Response 4: that is exciting ! where are you going ?
+***Score 4: 
+Response 5: that is so exciting ! i bet she is excited !
+***Score 5: 
+Response 6: she is so lucky .
+***Score 6: 
+Response 7: that is great ! i bet you are so excited !
+***Score 7: 
+Response 8: that is great ! i hope you have a good time !
+***Score 8: 
+
+************* Sample 123 (real index: 3140)
+************* Emotion: sad
+User: my neighbor used to have an old beagle - a lovely pooch . he died of cancer just before thanksgiving . i looked for him for weeks - i miss him .
+Bot: that is so sad . i have lost dogs before . i know how you feel : (
+User: yeah . i used to see him when i was out on my porch and he 'd come out for a sniff around or a tinkle . he was so sweet and gentle .
+
+Response 0: i am so sorry to hear that . i hope he gets better soon .
+***Score 0: 
+Response 1: that is so sad . i am sorry to hear that .
+***Score 1: 
+Response 2: i am sorry to hear that . i am sorry to hear that .
+***Score 2: 
+Response 3: i am so sorry to hear that . i hope he is a better than him .
+***Score 3: 
+Response 4: i am sorry to hear that . i am sure he will be fine .
+***Score 4: 
+Response 5: i am so sorry to hear that . i am so sorry to hear that .
+***Score 5: 
+Response 6: i am so sorry to hear that . i hope you have a great life .
+***Score 6: 
+Response 7: that is so nice of him .
+***Score 7: 
+Response 8: i 'm so sorry to hear that . i would be mad if i were you , i would be furious .
+***Score 8: 
+
+************* Sample 124 (real index: 3429)
+************* Emotion: nostalgic
+User: i had a dream the other night about my friends from high school . it brought back all kinds of memories from my teen years and thinking back
+made me smile .
+Bot: did you tell anyone about the dream ?
+User: i told my husband . the dream made me miss my best friend from high school .
+Bot: you should call your best friend on the telephone !
+User: i actually sent her a message through facebook .
+
+Response 0: i have n't , but i have never had to dream
+***Score 0: 
+Response 1: i am sorry to hear that . i hope you enjoy it !
+***Score 1: 
+Response 2: aww that is so sweet . how old is she ?
+***Score 2: 
+Response 3: that sounds like a lot of fun ! i am sure you had a great time .
+***Score 3: 
+Response 4: oh wow , that is a nice surprise !
+***Score 4: 
+Response 5: that sounds like a lot of fun .
+***Score 5: 
+Response 6: i am sure you were very happy with her !
+***Score 6: 
+Response 7: wow , that sounds really scary ! i hope you have a great time !
+***Score 7: 
+Response 8: that is so cool . i bet you were able to do that !
+***Score 8: 
+
+************* Sample 125 (real index: 4464)
+************* Emotion: faithful
+User: last week i was at the grocery store picking up body wash. there were so many to chose from , but i could not help but buy my trusted brand that
+has served me well for so many years .
+Bot: you got ta stick with what you know sometimes .
+User: yes , why try something new when what you have been using has worked so well .
+
+Response 0: i have been there before . i was a bit of my life . i have had that happen before . i was a bit of my life .
+***Score 0: 
+Response 1: i am sure you will not be able to do that .
+***Score 1: 
+Response 2: i am sorry to hear that . i hope you find a good job .
+***Score 2: 
+Response 3: that is a good idea .
+***Score 3: 
+Response 4: i am sorry to hear that . i hope you find it .
+***Score 4: 
+Response 5: that is good to hear . i 'm sure they will make you a good friend .
+***Score 5: 
+Response 6: i am sure you will find someone else
+***Score 6: 
+Response 7: that is good to hear . i am glad you were able to do that .
+***Score 7: 
+Response 8: that is good . i hope you have a good time .
+***Score 8: 
+
+************* Sample 126 (real index: 3509)
+************* Emotion: anxious
+User: tomorrow i start my new job teaching kids . i really hope it goes well !
+Bot: oh wow , now that really is exciting , congratulations ! did you get the grade level and subject you wanted ?
+User: i am teaching at a small private school , so i will be teaching all the subjects for 3rd grade . i am pretty excited , just nervous .
+
+Response 0: that is great . i hope you have a great time !
+***Score 0: 
+Response 1: that is great ! i hope everything goes well for you !
+***Score 1: 
+Response 2: i do not think you are going to school for a while . i hope you are doing well .
+***Score 2: 
+Response 3: i am sure you will do great !
+***Score 3: 
+Response 4: im sorry to hear that . i hope you find him .
+***Score 4: 
+Response 5: i am sure you will do great !
+***Score 5: 
+Response 6: i am sure you will be fine .
+***Score 6: 
+Response 7: that 's great ! i hope you get it !
+***Score 7: 
+Response 8: i am sure you will be fine !
+***Score 8: 
+
+************* Sample 127 (real index: 911)
+************* Emotion: grateful
+User: when i was pregnant , i felt ill until it was over . the doctors were worried that something was wrong with the baby .
+Bot: oh no ! i am not sure how all that works , but i thought that was fairly normal for a pregnat woman
+User: usually the sickness stops within the first few months , so the fact that i fell ill so much was worrisome . despite it all , i had a healthy ,
+bouncing baby boy . i never have felt more grateful in my life .
+
+Response 0: that is a good idea . i am glad you are okay .
+***Score 0: 
+Response 1: that is so sweet of you . i am glad you were able to do that .
+***Score 1: 
+Response 2: that is very nice of you . i hope you have a great time !
+***Score 2: 
+Response 3: that is so scary ! i hope she was not too bad .
+***Score 3: 
+Response 4: i am sure you will be fine .
+***Score 4: 
+Response 5: i am glad to hear that . i hope you are okay .
+***Score 5: 
+Response 6: that 's good . i 'm glad you got some help .
+***Score 6: 
+Response 7: that is a great feeling , i am glad you are okay .
+***Score 7: 
+Response 8: that is great ! i am glad you had a good time to help .
+***Score 8: 
+
+************* Sample 128 (real index: 213)
+************* Emotion: nostalgic
+User: have you ever heard a song on the radio and it just takes you back to a different time ? like an escape ?
+Bot: all the time . that is part of listening to music i suppose . the songs remind you of when you first heard them .
+User: yeah , i guess that is fair . it happens all the time to me too . sometimes makes me wish i was reliving those moments but i do not think i
+would really want to go back ..
+
+Response 0: i understand . i have had to go through that . i have had to go through that .
+***Score 0: 
+Response 1: "yes , it is always good to watch them . "
+***Score 1: 
+Response 2: i 'm sure it 's a good one . i do n't think i 'd be able to laugh it out .
+***Score 2: 
+Response 3: i agree . i am sure it is a great time .
+***Score 3: 
+Response 4: i do not , too , i have to start my own .
+***Score 4: 
+Response 5: i am sure you will be fine .
+***Score 5: 
+Response 6: i agree , i have never been to a great feeling .
+***Score 6: 
+Response 7: i am glad you are okay .
+***Score 7: 
+Response 8: that is a good idea . i hope you have a great time !
+***Score 8: 
+
