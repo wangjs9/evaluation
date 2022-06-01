@@ -27,7 +27,8 @@ SCIBERT_URL_DICT = {
 lang2model = defaultdict(lambda: "bert-base-multilingual-cased")
 lang2model.update(
     {
-        "en": "roberta-large",
+        "en": "bert-large-uncased",
+        # "en": "roberta-large",
         "zh": "bert-base-chinese",
         "tr": "dbmdz/bert-base-turkish-cased",
         "en-sci": "allenai/scibert_scivocab_uncased",
