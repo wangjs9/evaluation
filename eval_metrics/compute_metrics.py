@@ -310,22 +310,23 @@ class Metrics:
 
                         # Write the metric to file.
                         if len(metric_name) > 20:
-                            m = '& {:<25.3f}'.format(round(float(avg), 4))
+                            m = '& {:<25.4f}'.format(round(float(avg), 5))
                         elif len(metric_name) > 12:
-                            m = '& {:<20.3f}'.format(round(float(avg), 4))
+                            m = '& {:<20.4f}'.format(round(float(avg), 5))
                         else:
-                            m = '& {:<11.3f}'.format(round(float(avg), 4))
+                            m = '& {:<11.4f}'.format(round(float(avg), 5))
                         output.write(m)
                 output.write('\n')
 
 
 def eval(model_response):
-    metrics = Metrics(model_response, 'EMNLP22-res')
+    # metrics = Metrics(model_response, 'EMNLP22-res')
+    metrics = Metrics(model_response, 'max_k')
     metrics.run()
 
 
 if __name__ == '__main__':
-    file_list = os.listdir('EMNLP22-res')
+    file_list = os.listdir('max_k')
     file_list.sort()
     # file_list = ['GREmp-0.txt']
     for filename in file_list:
