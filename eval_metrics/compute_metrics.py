@@ -319,15 +319,20 @@ class Metrics:
                 output.write('\n')
 
 
-def eval(model_response):
-    # metrics = Metrics(model_response, 'EMNLP22-res')
-    metrics = Metrics(model_response, 'max_k')
+def eval(model_response, dir_name):
+    metrics = Metrics(model_response, dir_name)
     metrics.run()
 
 
 if __name__ == '__main__':
-    file_list = os.listdir('max_k')
-    file_list.sort()
-    # file_list = ['GREmp-0.txt']
-    for filename in file_list:
-        eval(filename)
+    # file_list = os.listdir('EMNLP22-res')
+    # file_list.sort()
+    # for filename in file_list:
+    #     eval(filename, 'EMNLP22-res')
+    for max_k in [0, 42, 1024, 1234, 4096]:
+        file_list = os.listdir('max_k-%d' % max_k)
+        # file_list.sort()
+        for filename in file_list:
+            eval(filename, 'max_k-%d' % max_k)
+        with open('report.txt', 'a') as output:
+            output.write('\n')
