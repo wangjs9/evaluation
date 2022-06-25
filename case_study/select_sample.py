@@ -8,11 +8,12 @@ role = {1: "Bot", 0: "User"}
 
 bot_role = ('MoEL'.ljust(8), 'MIME'.ljust(8), 'EmpDG'.ljust(8),
             'RecEC'.ljust(8), 'CEM'.ljust(8), 'KEMP'.ljust(8),
-            'GEE'.ljust(8), 'GREmp'.ljust(8), 'ablation'.ljust(8))
-index2model = {0: 'MoEL', 1: 'MIME', 2: 'EmpDG', 3: 'RecEC', 4: 'CEM', 5: 'KEMP', 6: 'GEE', 7: 'GREmp', 8: 'ablation'}
-model2index = {'MoEL': 0, 'MIME': 1, 'EmpDG': 2, 'RecEC': 3, 'CEM': 4, 'KEMP': 5, 'GEE': 6, 'GREmp': 7, 'ablation': 8}
+            'GEE'.ljust(8), 'GREmp'.ljust(8), 'w/o cond'.ljust(8),
+            'w/o reas'.ljust(8))
+index2model = {0: 'MoEL', 1: 'MIME', 2: 'EmpDG', 3: 'RecEC', 4: 'CEM', 5: 'KEMP', 6: 'GEE', 7: 'GREmp', 8: 'ablation', 9: 'reason'}
+model2index = {'MoEL': 0, 'MIME': 1, 'EmpDG': 2, 'RecEC': 3, 'CEM': 4, 'KEMP': 5, 'GEE': 6, 'GREmp': 7, 'ablation': 8, 'reason': 9}
 prefix = {'MoEL': '-42', 'MIME': '-1024', 'EmpDG': '-4096', 'RecEC': '-1024', 'CEM': '-1024', 'KEMP': '-0',
-          'GEE': '_MIME-1024', 'GREmp': '-0', 'ablation': '-42'}
+          'GEE': '_MIME-1024', 'GREmp': '-0', 'ablation': '-42', 'reason': '-1024'}
 sample_path = 'EMNLP22-sample'
 input_path = 'EMNLP22-res'
 
@@ -445,6 +446,7 @@ def randomRes():
 
 
 if __name__ == '__main__':
+    main()
     # main(128)
     # interactive()
-    randomRes()
+    # randomRes()
